@@ -1,0 +1,11 @@
+== form_for @problem,  url: {action: "create"} do |f|
+  p
+    == f.label :problem, :title
+    == f.text_field :title
+  p
+    == f.label :problem, :unique_name
+    == f.text_field :unique_name
+  p
+    == f.label :problem, :description
+    == f.text_area :description
+  == f.submit

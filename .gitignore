@@ -33,3 +33,8 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+
+# vim
+*.swp
+*.swo
+*.un~
