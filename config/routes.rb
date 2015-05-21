@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   resources :tags
 
   post 'problems/like/:id' => 'problems#like', as: :problems_like
+  post 'problems/dislike/:id' => 'problems#dislike', as: :problems_dislike
 
   # ajax helpers
   # Search problem

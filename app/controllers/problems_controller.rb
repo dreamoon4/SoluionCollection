@@ -1,6 +1,6 @@
 class ProblemsController < ApplicationController
   before_filter :get_problem_fields, :only => [:create, :update]
-  before_filter :get_problem, :only => [:show, :update, :edit]
+  before_filter :get_problem, :only => [:show, :update, :edit, :like, :dislike]
 
   def index
     @problems = Problem.all
@@ -42,8 +42,13 @@ class ProblemsController < ApplicationController
   end
 
   def like
-    @problem = Problem.find(params[:id])
     @problem.rating += 1
+    @problem.save!
+    render json: { count: @problem.rating, id: @problem.id }
+  end
+
+  def dislike
+    @problem.rating -= 1
     @problem.save!
     render json: { count: @problem.rating, id: @problem.id }
   end
