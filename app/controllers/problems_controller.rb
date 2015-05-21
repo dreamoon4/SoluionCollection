@@ -1,5 +1,6 @@
 class ProblemsController < ApplicationController
-  before_filter :get_problem, :only => [:create, :update]
+  before_filter :get_problem_fields, :only => [:create, :update]
+  before_filter :get_problem, :only => [:show, :update, :edit]
 
   def index
     @problems = Problem.all
@@ -10,7 +11,7 @@ class ProblemsController < ApplicationController
   end
   
   def create
-    Problem.create(@problem)
+    Problem.create(@problem_fields)
     redirect_to problems_path
   end
 
@@ -18,15 +19,24 @@ class ProblemsController < ApplicationController
   end
 
   def edit
+    render :new
   end
 
   def destroy
   end
 
   def update
+    @problem.update!(@problem_fields)
+    flash[:success] = "Problem updated!"
+    redirect_to problems_path
+  end
+
+  def get_problem_fields
+    @problem_fields = params.require(:problem).permit(:title, :unique_name, :description)
   end
 
   def get_problem
-    @problem = params.require(:problem).permit(:title, :unique_name, :description)
+    @problem = Problem.find(params.fetch(:id))
+    # TODO redirect if no match
   end
 end
