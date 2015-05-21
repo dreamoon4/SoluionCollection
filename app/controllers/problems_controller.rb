@@ -41,7 +41,12 @@ class ProblemsController < ApplicationController
     render json: @result
   end
 
-
+  def like
+    @problem = Problem.find(params[:id])
+    @problem.rating += 1
+    @problem.save!
+    render json: { count: @problem.rating, id: @problem.id }
+  end
 
 
   def get_problem_fields
