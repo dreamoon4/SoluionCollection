@@ -12,5 +12,5 @@ OmniAuth.config.on_failure = Proc.new { |env|
 }
 
 Rails.application.configure do
-  config.login_google_path = 'auth/google_oauth2'
+  config.login_google_path = '/auth/google_oauth2'
 end

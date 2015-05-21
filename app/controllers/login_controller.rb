@@ -3,8 +3,12 @@ class LoginController < ApplicationController
     flash['login_status'] = {
       provider: request.env['omniauth.auth'][:provider],
       uid: request.env['omniauth.auth'][:uid],
-      email: request.env['omniauth.auth'].fetch(:raw_info, {}).fetch(:email, nil)
+      email: request.env['omniauth.auth'].fetch(:info, {}).fetch(:email, nil)
     }
+    flash['login_status'][:email] ||= request.env['omniauth.auth']
+      .fetch(:extra, {})
+      .fetch(:raw_info, {})
+      .fetch(:email, nil)
     redirect_to login_complete_path
   end
   def failure
