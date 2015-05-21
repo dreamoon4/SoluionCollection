@@ -1,4 +1,8 @@
 h1 Solutions
 
-- for x in @solutions do
-  p =x.content
+- for sol in @solutions do
+  h2 =sol.problem.title
+  ul
+    - for tag in sol.tags do
+      li =tag.name
+  p =sol.content
