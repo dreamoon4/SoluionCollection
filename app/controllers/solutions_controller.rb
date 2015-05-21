@@ -16,7 +16,7 @@ class SolutionsController < ApplicationController
     
     @solution.problem = Problem.find_by_unique_name(params.require(:problem_unique_name))
     params.require(:tag_name).split(',').map do |name|
-      tag = Tag.find_or_create_by name: :name
+      tag = Tag.find_or_create_by name: name
       SolutionTag.create solution: @solution, tag: tag
     end
     @solution.save!
