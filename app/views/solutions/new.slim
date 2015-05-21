@@ -1,11 +1,11 @@
-== form_for @solution  url: {action: "create"} do |f|
+== form_for @solution, url: {action: "create"} do |f|
+  select name="problem_unique_id" id="s1"
+    - for prob in @problems do
+      option value="#{prob.unique_name}" #{prob.unique_name}: #{prob.title}
   p
-    == f.label :solution :content
+    == f.label :solution, :content
     == f.text_field :content
-  p
-    == f.label :solution :unique_name
-    == f.text_field :unique_name
-  p
-    == f.label :solution :description
-    == f.text_area :description
   == f.submit
+
+javascript:
+  $(function() { $('#s1').select2(); });

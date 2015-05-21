@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  root 'problems#index'
+
   resources :problems
   resources :solutions
   resources :tags

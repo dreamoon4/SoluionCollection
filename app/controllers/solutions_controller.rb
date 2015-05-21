@@ -1,4 +1,5 @@
 class SolutionsController < ApplicationController
+  before_action :get_problem_list, :only => [:new]
   before_filter :get_solution, :only => [:create, :update]
 
   def index
@@ -6,7 +7,7 @@ class SolutionsController < ApplicationController
   end
 
   def new
-    @solution = @solution.new
+    @solution = Solution.new
   end
 
   def create
@@ -25,5 +26,9 @@ class SolutionsController < ApplicationController
 
   def get_solution
     @solution = params.require(:solution).permit(:content)
+  end
+
+  def get_problem_list
+    @problems = Problem.all
   end
 end
