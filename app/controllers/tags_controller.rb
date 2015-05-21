@@ -24,7 +24,7 @@ class TagsController < ApplicationController
   end
 
   def search
-    @result = Tag.search(params.require(:q))
+    @result = Tag.search(params[:q], params[:category])
     render json: @result.all
   end
 
