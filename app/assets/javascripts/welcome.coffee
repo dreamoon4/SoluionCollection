@@ -11,12 +11,12 @@ update_problems = (data) ->
     x = HandlebarsTemplates['problems/panel']({ title: prob.title })
     y = $('#search-result-box').append(x).find('.solution-list')
     for sol in sol_list
+      console.log(sol)
       z = HandlebarsTemplates['problems/sol_sticker']({
-          link_addr: sol.description
+          link_addr: sol.content
           link_name: 'solution'
         })
       y.append(z)
-    console.log(x)
     console.log('added')
 
 
@@ -39,4 +39,5 @@ $( ->
     $('#srh').keyup(searchAJAX)
     $('#srh').mouseup(searchAJAX)
     $('#srh').change(searchAJAX)
+    $('#srh').on('input paste', searchAJAX)
  )
