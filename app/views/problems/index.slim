@@ -3,11 +3,19 @@ h1 Problems
 - for prob in @problems do
   .row.problem
     .col-lg-1
-      i.glyphicon.glyphicon-plus
-    .col-lg-3 =prob.title
+      a href="#{new_solution_path(pname: prob.unique_name)}"
+        i.glyphicon.glyphicon-plus
+      a href="#{edit_problem_path(prob)}"
+        i.glyphicon.glyphicon-edit
+    .col-lg-3
+      a href="#{prob.link? ? prob.description : problem_path(prob)}"
+        =prob.title
     .col-lg-8
       - for sol in prob.solutions do
         == link_to "solution", solution_path(sol)
+
+h2
+  == link_to "New Problem", new_problem_path
 
 css:
   .problem:nth-child(even) {

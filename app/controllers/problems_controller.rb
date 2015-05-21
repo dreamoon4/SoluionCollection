@@ -14,6 +14,9 @@ class ProblemsController < ApplicationController
     redirect_to problems_path
   end
 
+  def show
+  end
+
   def edit
   end
 
