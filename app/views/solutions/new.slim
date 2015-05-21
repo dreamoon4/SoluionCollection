@@ -1,0 +1,11 @@
+== form_for @solution  url: {action: "create"} do |f|
+  p
+    == f.label :solution :content
+    == f.text_field :content
+  p
+    == f.label :solution :unique_name
+    == f.text_field :unique_name
+  p
+    == f.label :solution :description
+    == f.text_area :description
+  == f.submit
