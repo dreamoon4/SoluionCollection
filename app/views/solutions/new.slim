@@ -1,11 +1,19 @@
 == form_for @solution, url: {action: "create"} do |f|
-  select name="problem_unique_name" id="s1"
-    - for prob in @problems do
-      option value="#{prob.unique_name}" #{prob.unique_name}: #{prob.title}
+  p
+    select name="problem_unique_name" id="s1"
+      - for prob in @problems do
+        option value="#{prob.unique_name}" #{prob.unique_name}: #{prob.title}
+  p
+    input name="tag_name" id="tag_id" width="200" style="width: 200px"
   p
     == f.label :solution, :content
     == f.text_field :content
   == f.submit
 
 javascript:
-  $(function() { $('#s1').select2(); });
+  $(function() {
+    $('#s1').select2();
+    $('#tag_id').select2({tags:[
+      #{@tags.map {|t| t.name}.reduce { |a, b| a + ', "' + b + '"' }}
+    ]});
+  });
