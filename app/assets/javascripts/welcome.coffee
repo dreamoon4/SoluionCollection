@@ -8,13 +8,15 @@ update_problems = (data) ->
   for p in data
     prob = p[0]
     sol_list = p[1]
-    x = HandlebarsTemplates['problems/panel']({ title: prob.title })
+    x = HandlebarsTemplates['problems/panel']({ prob: prob })
     y = $('#search-result-box').append(x).find('.solution-list')
+    seq = 0
     for sol in sol_list
+      seq = seq + 1
       console.log(sol)
       z = HandlebarsTemplates['problems/sol_sticker']({
           link_addr: sol.content
-          link_name: 'solution'
+          link_name: '#' + seq
         })
       y.append(z)
     console.log('added')
