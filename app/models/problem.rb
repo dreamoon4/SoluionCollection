@@ -13,4 +13,10 @@ class Problem < ActiveRecord::Base
     false
   end
 
+  def self.search(search, page = 1)
+    where("unique_name LIKE :search OR title LIKE :search", search: "%#{search}%")
+      .offset((page-1)*5)
+      .limit(5)
+  end
+
 end

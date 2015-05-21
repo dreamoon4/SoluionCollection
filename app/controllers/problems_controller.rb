@@ -31,6 +31,14 @@ class ProblemsController < ApplicationController
     redirect_to problems_path
   end
 
+  def search
+    @result = Problem.search(params.require(:q), params.fetch(:page, 1))
+    render json: @result.all
+  end
+
+
+
+
   def get_problem_fields
     @problem_fields = params.require(:problem).permit(:title, :unique_name, :description)
   end

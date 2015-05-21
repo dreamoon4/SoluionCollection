@@ -1,9 +1,16 @@
 Rails.application.routes.draw do
-  root 'problems#index'
+  root 'welcome#index'
 
   resources :problems
   resources :solutions
   resources :tags
+
+  # ajax helpers
+  # Search problem
+  get 'ajax/problems/search' => 'problems#search', as: :problems_search
+  get 'ajax/tags/search' => 'tags#search', as: :tags_search
+  
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
