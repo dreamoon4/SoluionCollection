@@ -1,0 +1,23 @@
+h1 Solution Collection
+
+form.form
+  .input-group
+    input.searchbox.form-control#srh placeholder='Search Problems...'
+    span.input-group-addon
+      i.glyphicon.glyphicon-search
+
+.search-result-box
+  .search-template.search-result.panel
+    h2.problem-title Title
+    .row.text-right.solution-list
+
+css:
+  .search-result {
+    min-height: 300px;
+  }
+  .search-result:nth-child(even) {
+    background-color: #EEE;
+  }
+  .search-template {
+    display: none;
+  }
