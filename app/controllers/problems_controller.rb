@@ -32,8 +32,13 @@ class ProblemsController < ApplicationController
   end
 
   def search
-    @result = Problem.search(params.require(:q), params.fetch(:page, 1))
-    render json: @result.all
+    @problems = Problem.search(params.require(:q), params.fetch(:page, 1))
+    @problems = @problems.all
+    @result = []
+    for prob in @problems do
+      @result << [prob, prob.solutions.all]
+    end
+    render json: @result
   end
 
 

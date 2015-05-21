@@ -1,5 +1,6 @@
 .search-result.panel
   h2.problem-title
     | {{title}}
-  .row.text-right.solution-list
+  .row
+    .col-lg-12.text-right.solution-list
   

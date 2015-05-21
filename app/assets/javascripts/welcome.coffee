@@ -4,18 +4,39 @@
 
 update_problems = (data) ->
   console.log(data)
+  $('#search-result-box').html('')
   for p in data
-    x = HandlebarsTemplates['problems/panel']({ title: p.title })
+    prob = p[0]
+    sol_list = p[1]
+    x = HandlebarsTemplates['problems/panel']({ title: prob.title })
+    y = $('#search-result-box').append(x).find('.solution-list')
+    for sol in sol_list
+      z = HandlebarsTemplates['problems/sol_sticker']({
+          link_addr: sol.description
+          link_name: 'solution'
+        })
+      y.append(z)
     console.log(x)
+    console.log('added')
 
-$( ->
-    $('#srh').keyup( ->
-      value = $('#srh').val()
-      if value != "" 
-        $.get('/ajax/problems/search'
+
+searchAJAX = ->
+  current_value = ''
+  ( ->
+    value = $('#srh').val()
+    if value != current_value
+      current_value = value
+      $.get('/ajax/problems/search'
           { q: value }
           (data) -> update_problems(data)
-          "json"
-        )
-    )
+          'json'
+      )
+    current_value = value
+  )()
+
+
+$( ->
+    $('#srh').keyup(searchAJAX)
+    $('#srh').mouseup(searchAJAX)
+    $('#srh').change(searchAJAX)
  )
