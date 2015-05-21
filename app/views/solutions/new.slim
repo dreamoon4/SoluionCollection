@@ -1,5 +1,5 @@
 == form_for @solution, url: {action: "create"} do |f|
-  select name="problem_unique_id" id="s1"
+  select name="problem_unique_name" id="s1"
     - for prob in @problems do
       option value="#{prob.unique_name}" #{prob.unique_name}: #{prob.title}
   p

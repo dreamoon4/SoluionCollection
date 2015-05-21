@@ -11,7 +11,10 @@ class SolutionsController < ApplicationController
   end
 
   def create
-    Solution.create @solution
+    @solution = Solution.new(@solution)
+    
+    @solution.problem = Problem.find_by_unique_name(params.require(:problem_unique_name))
+    @solution.save!
     redirect_to solutions_path
   end
 

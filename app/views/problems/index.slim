@@ -1,6 +1,15 @@
 h1 Problems
 
-- for x in @problems do
-  .row
-    .col-lg-6 =x.title
-    .col-lg-6 Hello
+- for prob in @problems do
+  .row.problem
+    .col-lg-1
+      i.glyphicon.glyphicon-plus
+    .col-lg-3 =prob.title
+    .col-lg-8
+      - for sol in prob.solutions do
+        == link_to "solution", solution_path(sol)
+
+css:
+  .problem:nth-child(even) {
+    background-color: #EEE;
+  }
