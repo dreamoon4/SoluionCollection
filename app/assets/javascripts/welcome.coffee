@@ -3,11 +3,14 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 update_problems = (data) ->
-  console.log(data);
+  console.log(data)
+  for p in data
+    x = HandlebarsTemplates['problems/panel']({ title: p.title })
+    console.log(x)
 
 $( ->
     $('#srh').keyup( ->
-      value = $('#srh').val();
+      value = $('#srh').val()
       if value != "" 
         $.get('/ajax/problems/search'
           { q: value }

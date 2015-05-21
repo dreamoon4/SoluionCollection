@@ -36,6 +36,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Slim for html
 gem 'slim'
 gem "select2-rails"
+gem 'handlebars_assets'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
