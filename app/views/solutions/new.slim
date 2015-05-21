@@ -13,7 +13,7 @@
 javascript:
   $(function() {
     $('#s1').select2();
-    $('#tag_id').select2({tags:[
-      #{raw(@tags.map {|t| '"' + t.name + '"'}.reduce { |a, b| a + ', ' + b})}
-    ]});
+    $.get('../ajax/tags/names', function(data) {
+      $('#tag_id').select2({tags: data});
+    });
   });

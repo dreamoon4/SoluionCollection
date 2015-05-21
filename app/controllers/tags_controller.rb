@@ -23,6 +23,15 @@ class TagsController < ApplicationController
   def update
   end
 
+  def search
+    @result = Tag.search(params.require(:q))
+    render json: @result.all
+  end
+
+  def names
+    render json: Tag.select(:name).map {|x| x.name}
+  end
+
   def get_tag
     @tag = params.require(:tag).permit(:content)
   end

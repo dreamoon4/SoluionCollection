@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   # Search problem
   get 'ajax/problems/search' => 'problems#search', as: :problems_search
   get 'ajax/tags/search' => 'tags#search', as: :tags_search
+  get 'ajax/tags/names' => 'tags#names', as: :tags_names
   
 
   # The priority is based upon order of creation: first created -> highest priority.
