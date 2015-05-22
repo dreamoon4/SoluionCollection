@@ -44,3 +44,4 @@ bower.json
 *.csr
 *.key
 *.pem
+/public/assets/*
