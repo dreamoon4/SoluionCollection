@@ -5,9 +5,9 @@ ui.segment
         a.item href="#{root_path}"
           i.home.icon
           | Home
-      .ten.wide.column
+      .eleven.wide.column
         == render 'layouts/search'
-      .four.wide.column
+      .three.wide.column
         - if login?
           - user = User.find(session[:user_id])
           a.item href="#{user_path(user)}"
