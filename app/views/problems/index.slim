@@ -10,6 +10,8 @@ h1 Problems
     .col-lg-3
       a href="#{prob.link? ? prob.description : problem_path(prob)}"
         =prob.title
+      - prob.tags.each do |tag|
+        .ui.horizontal.label tag.name
     .col-lg-8
       - for sol in prob.solutions do
         == link_to "solution", solution_path(sol)
