@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
+  include ApplicationHelper
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
@@ -13,9 +14,10 @@ class ApplicationController < ActionController::Base
     redirect_to user_login_path(r: request.original_url) unless login?
   end
 
-  def acl_user_id!(user_id)
+  def acl_user_id!
     acl_user!
-    if !performed? && session[:user_id] != user_id# alreadly logged in
+    if !performed? && session[:user_id].to_s != params[:id]
+      # performed? means redirected to user login
       no_permission
     end
   end
