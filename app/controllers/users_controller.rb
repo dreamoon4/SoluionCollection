@@ -12,7 +12,7 @@ class UsersController < ApplicationController
   def login_done
     unless flash['login_status']
       flash[:danger] = I18n.t('login.login_error')
-      redirect_to root_path && return
+      return redirect_to root_path
     end
     email = flash['login_status']['email']
     user = User.find_by_email(email)
