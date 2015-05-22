@@ -1,15 +1,24 @@
-.ui.segment
-  .ui.grid
-    .three.wide.column
-      == link_to image_tag('http://placehold.it/150x45&text=we+need+a+logo'), root_path
-    .ten.wide.column
-      == render 'layouts/search'
-    .one.wide.column
-      p profile
-    .one.wide.column
-      - if login?
-        a href="#{user_login_path}" login
-      - else
-        a href="#{user_logout_path}" logout
-    .one.wide.column
-      p setting
+ui.segment
+  .ui.fixed.menu
+    .ui.grid
+      .two.wide.column
+        a.item href="#{root_path}"
+          i.home.icon
+          | Home
+      .ten.wide.column
+        == render 'layouts/search'
+      .four.wide.column
+        a.item
+          i.user.icon
+          | Profile
+        - if login?
+          a.item href="#{user_login_path}"
+            i.sign.in.icon
+            | Login
+        - else
+          a.item href="#{user_logout_path}"
+            i.sign.out.icon
+            | Logout
+        a.item
+          i.settings.icon
+          | Settings

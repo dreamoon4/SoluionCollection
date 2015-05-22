@@ -3,7 +3,7 @@ class ProblemsController < ApplicationController
   before_filter :get_problem, :only => [:show, :update, :edit, :like, :dislike]
 
   def index
-    @problems = Problem.all
+    @problems = Problem.search(params.require(:search), params.fetch(:page, 1))
   end
 
   def new
