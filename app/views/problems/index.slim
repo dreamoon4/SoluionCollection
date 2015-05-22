@@ -16,10 +16,12 @@ h1 Problems
         .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
     .col-lg-7
       - for sol in prob.solutions do
-        == link_to "solution", solution_path(sol)
+        == link_to "solution", solution_path(sol), {class: 'sol-link'}
 
 h2
   == link_to "New Problem", new_problem_path
+h2
+  == link_to "New Solution", new_solution_path
 
 css:
   .problem:nth-child(even) {
@@ -30,4 +32,7 @@ css:
   }
   .ptag.ui.horizontal.label {
     padding: 0.1em 0.5em;
+  }
+  .sol-link {
+    padding: 0 10px;
   }

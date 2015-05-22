@@ -1,13 +1,17 @@
+h1 Add a solution to some problem
 == form_for @solution, url: {action: "create"} do |f|
   p
+    | Select a problem:  
     select name="problem_unique_name" id="s1"
       - for prob in @problems do
         option value="#{prob.unique_name}" #{prob.unique_name}: #{prob.title}
   p
+    | Tags:  
     input name="tag_name" id="tag_id" width="200" style="width: 200px"
   p
     == f.label :solution, :content
-    == f.text_field :content
+    br
+    == f.text_area :content
   == f.submit
 
 javascript:

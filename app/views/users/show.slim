@@ -1,6 +1,9 @@
 h1 =@user.name
 h2 Uploaded Problems
 ul
-  - @user.problems.each do |p|
-    li
-      a href="#{problem_path(p)}" #{p.unique_name}
+  - @user.problems.each do |prob|
+    li = link_to prob.unique_name, problem_path(prob)
+h2 Uploaded Solutions
+ul
+  - @user.solutions.each do |sol|
+    li = link_to sol.problem.unique_name, solution_path(sol)
