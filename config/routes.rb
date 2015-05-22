@@ -7,6 +7,8 @@ Rails.application.routes.draw do
 
   post 'problems/like/:id' => 'problems#like', as: :problems_like
   post 'problems/dislike/:id' => 'problems#dislike', as: :problems_dislike
+  post 'solutions/like/:id' => 'solutions#like', as: :solutions_like
+  post 'solutions/dislike/:id' => 'solutions#dislike', as: :solutions_dislike
 
   # ajax helpers
   # Search problem

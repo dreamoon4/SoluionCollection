@@ -4,6 +4,10 @@ a href="#{new_problem_path}"
   .ui.button
     | New Problem
 
+a href="#{new_solution_path}"
+  .ui.button
+    | New Solution
+
 table.ui.celled.striped.table
   thead
     tr
@@ -34,7 +38,7 @@ table.ui.celled.striped.table
           .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
       td
         - for sol in prob.solutions do
-          == link_to "solution", solution_path(sol)
+          == link_to "solution", solution_path(sol), {class: 'sol-link'}
 
 css:
   .problem:nth-child(even) {
@@ -45,4 +49,7 @@ css:
   }
   .ptag.ui.horizontal.label {
     padding: 0.1em 0.5em;
+  }
+  .sol-link {
+    padding: 0 10px;
   }
