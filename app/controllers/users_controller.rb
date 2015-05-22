@@ -39,4 +39,8 @@ class UsersController < ApplicationController
     reset_session
     redirect_to root_path
   end
+
+  def setting
+    
+  end
 end
