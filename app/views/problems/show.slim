@@ -1,0 +1,23 @@
+h1 #{@problem.title} (#{@problem.unique_name})
+h4 By dreamoon, #{time_ago_in_words(@problem.created_at)} ago
+p =@problem.description
+p
+  =link_to "+1", problems_like_path, class: 'vote', method: :post, remote: true
+  =="/"
+  =link_to "-1", problems_dislike_path, class: 'vote', method: :post, remote: true
+=="Rating: "
+span id="vote"
+  =@problem.rating
+h2 Discussion
+
+javascript:
+  $(document).on('ajax:success', 'a.vote', function (status,data,xhr) {
+    $("#vote").text(data.count);
+    console.log(data.count);
+    return;
+  });
+
+css:
+  a.vote:focus {
+    outline: 0
+  }

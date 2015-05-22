@@ -42,4 +42,5 @@ $( ->
     $('#srh').mouseup(searchAJAX)
     $('#srh').change(searchAJAX)
     $('#srh').on('input paste', searchAJAX)
+    $('.ui.search').search -> { action: 'search' }
  )
