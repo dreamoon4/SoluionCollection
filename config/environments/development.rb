@@ -5,6 +5,7 @@ Rails.application.configure do
   # every request. This slows down response time but is perfect for development
   # since you don't have to restart the web server when you make code changes.
   config.cache_classes = false
+  config.allow_concurrency=true
 
   # Do not eager load code on boot.
   config.eager_load = false
@@ -27,6 +28,9 @@ Rails.application.configure do
   # number of complex assets.
   config.assets.debug = true
 
+  # do not compile instantly
+  # config.assets.compile = false
+  #
   # Asset digests allow you to set far-future HTTP expiration dates on all assets,
   # yet still be able to expire them through the digest params.
   config.assets.digest = true

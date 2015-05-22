@@ -38,3 +38,9 @@ bower.json
 *.swp
 *.swo
 *.un~
+
+# key
+*.crt
+*.csr
+*.key
+*.pem

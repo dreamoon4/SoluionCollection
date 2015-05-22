@@ -15,8 +15,8 @@
 //= require turbolinks
 //= require select2
 //= require handlebars
-//= require_tree ./templates
-//= require_tree .
 //= require semantic-ui
 //= require semantic-ui/modal
 //= require semantic-ui/dropdown
+//= require_tree ./templates
+//= require_tree .

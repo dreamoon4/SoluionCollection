@@ -19,6 +19,9 @@ Rails.application.routes.draw do
   get 'auth/failure' => 'login#failure'
 
   # Users
+  get 'login' => 'users#login', as: :user_login
+  get 'login_done' => 'users#login_done', as: :login_complete
+  get 'logout' => 'users#logout', as: :user_logout
   get 'users/:id' => 'users#show'
 
   # The priority is based upon order of creation: first created -> highest priority.

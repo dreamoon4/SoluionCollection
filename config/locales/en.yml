@@ -20,7 +20,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  login:
+    login_error: 'Login error.'
+    success: 'Welcome!'
   welcome:
     index:
       title: "Solution Collection"
