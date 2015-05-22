@@ -7,6 +7,9 @@
     .one.wide.column
       p profile
     .one.wide.column
-      p log in/out
+      - if login?
+        a href="#{user_login_path}" login
+      - else
+        a href="#{user_logout_path}" logout
     .one.wide.column
       p setting
