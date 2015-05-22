@@ -1,7 +1,9 @@
 class SolutionsController < ApplicationController
   before_action :get_problem_list, :only => [:new]
   before_action :get_tag_list, :only => [:new]
-  before_filter :get_solution, :only => [:create, :update]
+  before_action :get_solution, :only => [:show, :like, :dislike]
+  before_filter :get_solution_params, :only => [:create, :update]
+  before_filter :acl_user!, :only => [:create, :new]
 
   def index
     @solutions = Solution.all
@@ -13,7 +15,9 @@ class SolutionsController < ApplicationController
   end
 
   def create
-    @solution = Solution.new(@solution)
+    p @solution_params
+    @solution_params['user_id'] = session['user_id']
+    @solution = Solution.new(@solution_params)
     
     @solution.problem = Problem.find_by_unique_name(params.require(:problem_unique_name))
     params.require(:tag_name).split(',').map do |name|
@@ -21,7 +25,19 @@ class SolutionsController < ApplicationController
       SolutionTag.create solution: @solution, tag: tag
     end
     @solution.save!
-    redirect_to solutions_path
+    redirect_to problems_path
+  end
+
+  def like
+    @solution.rating += 1
+    @solution.save!
+    render json: { count: @solution.rating, id: @solution.id }
+  end
+
+  def dislike
+    @solution.rating -= 1
+    @solution.save!
+    render json: { count: @solution.rating, id: @solution.id }
   end
 
   def edit
@@ -33,8 +49,13 @@ class SolutionsController < ApplicationController
   def update
   end
 
+  def get_solution_params
+    @solution_params = params.require(:solution).permit(:content)
+  end
+
   def get_solution
-    @solution = params.require(:solution).permit(:content)
+    @solution= Solution.find(params.fetch(:id))
+    # TODO redirect if no match
   end
 
   def get_problem_list

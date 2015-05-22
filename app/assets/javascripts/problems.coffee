@@ -3,20 +3,9 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 class Problem
-  @add_problem: (prob, sol_list) ->
-    x = HandlebarsTemplates['problems/panel']({ prob: prob })
-    #console.log(x)
-    y = $('#search-result-show').append(x).find('.solution-list')
-    seq = 0
-    for sol in sol_list
-      seq = seq + 1
-      #console.log(sol)
-      z = HandlebarsTemplates['problems/sol_sticker']({
-          link_addr: sol.content
-          link_name: '#' + seq
-        })
-      y.append(z)
-    #console.log('added')
+  @add_problem: (prob) ->
+    x = HandlebarsTemplates['problems/tablerow']({ prob: prob })
+    y = $('#search-result-tbody').append(x)
   @init: (query_string) ->
     Problem.page = 1
     task = {
@@ -24,9 +13,11 @@ class Problem
       page: Problem.page
     }
     dispatcher = new WebSocketRails('solution-collection.csie.org:3000/websocket')
+    console.log('here')
     dispatcher.bind('problems.search_success', (data) ->
+      console.log(data)
       for p in data.result
-        Problem.add_problem(p[0], p[1])
+        Problem.add_problem(p)
       if Problem.page < data.page
         Problem.page = data.page
     )

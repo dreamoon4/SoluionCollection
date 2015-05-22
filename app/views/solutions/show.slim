@@ -1,0 +1,23 @@
+h1 #{@solution.problem.title} (#{@solution.problem.unique_name})
+h4 Uploaded by #{@solution.user.name}, #{time_ago_in_words(@solution.created_at)} ago
+p =@solution.content
+p
+  =link_to "+1", solutions_like_path, class: 'vote', method: :post, remote: true
+  =="/"
+  =link_to "-1", solutions_dislike_path, class: 'vote', method: :post, remote: true
+=="Rating: "
+span id="vote"
+  =@solution.rating
+h2 Discussion
+
+javascript:
+  $(document).on('ajax:success', 'a.vote', function (status,data,xhr) {
+    $("#vote").text(data.count);
+    console.log(data.count);
+    return;
+  });
+
+css:
+  a.vote:focus {
+    outline: 0
+  }

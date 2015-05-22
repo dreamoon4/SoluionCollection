@@ -2,17 +2,20 @@
   .twelve.wide.centered.column
     .ui.center.aligned.basic.segment
       img src="http://placehold.it/500x150&text=we+need+a+banner?"
-  .six.wide.column
-    a href="#{new_problem_path}"
-      .super-large.center.aligned.ui.column
-        i.plus.icon
-        p Add Problem
-  .six.wide.column
-    a href="#{new_solution_path}"
-      .super-large.center.aligned.ui.column
-        i.write.icon
-        p Add Solution
-
+  .twelve.wide.centered.column
+    .ui.two.column.middle.aligned.relaxed.fitted.stackable.grid
+      .center.aligned.column
+        a href="#{new_problem_path}"
+          .massive.yellow.ui.labeled.icon.button
+            i.plus.icon
+            p Add Problem
+      .ui.vertical.divider
+        | Or
+      .center.aligned.column
+        a href="#{new_solution_path}"
+          .massive.green.ui.labeled.icon.button
+            i.write.icon
+            p Add Solution
 
 css:
   .super-large {

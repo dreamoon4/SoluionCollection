@@ -3,26 +3,45 @@ h1 Problems
 #search-result-show
 
 
-- for prob in @problems do
-  .row.problem
-    .col-lg-1
-      a href="#{new_solution_path(pname: prob.unique_name)}"
-        i.glyphicon.glyphicon-plus
-      a href="#{edit_problem_path(prob)}"
-        i.glyphicon.glyphicon-edit
-    .col-lg-1
-      span =prob.unique_name
-    .col-lg-3
-      a.ptitle href="#{prob.link? ? prob.description : problem_path(prob)}"
-        =prob.title
-      - prob.tags.each do |tag|
-        .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
-    .col-lg-7
-      - for sol in prob.solutions do
-        == link_to "solution", solution_path(sol)
+a href="#{new_problem_path}"
+  .ui.button
+    | New Problem
 
-h2
-  == link_to "New Problem", new_problem_path
+a href="#{new_solution_path}"
+  .ui.button
+    | New Solution
+
+table.ui.celled.striped.table
+  thead
+    tr
+      th
+      th
+      th
+        | unique name
+      th
+        | problem link
+      th
+        | solution link
+  tbody#search-result-tbody
+  - for prob in @problems do
+    tr
+      td.collapsing
+        a href="#{new_solution_path(pname: prob.unique_name)}"
+          i.glyphicon.glyphicon-plus
+      td.collapsing
+        a href="#{edit_problem_path(prob)}"
+          i.glyphicon.glyphicon-edit
+      td
+        span =prob.unique_name
+      td
+        a.ptitle href="#{prob.link? ? prob.description : problem_path(prob)}"
+          i.linkify.icon
+          =prob.title
+        - prob.tags.each do |tag|
+          .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
+      td
+        - for sol in prob.solutions do
+          == link_to "solution", solution_path(sol), {class: 'sol-link'}
 
 css:
   .problem:nth-child(even) {
@@ -34,8 +53,8 @@ css:
   .ptag.ui.horizontal.label {
     padding: 0.1em 0.5em;
   }
-  #search-result-show .search-result {
-    border: 1px solid #CCC;
+  .sol-link {
+    padding: 0 10px;
   }
 
 javascript:
