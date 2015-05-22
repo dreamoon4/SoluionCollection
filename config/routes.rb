@@ -22,8 +22,9 @@ Rails.application.routes.draw do
   get 'login' => 'users#login', as: :user_login
   get 'login_done' => 'users#login_done', as: :login_complete
   get 'logout' => 'users#logout', as: :user_logout
+  get 'users/setting' => 'users#setting', as: :user_setting
+  post 'users/save_changes' => 'users#save_changes'
   get 'users/:id' => 'users#show'
-  get 'users/setting/:id' => 'users#setting'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

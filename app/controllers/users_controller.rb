@@ -1,6 +1,7 @@
 class UsersController < ApplicationController
-  before_filter :acl_admin!, only: [:show]
-  before_filter :acl_user_id!, only: [:setting]
+  # before_filter :acl_admin!, only: [:show]
+  before_filter :acl_user!, only: [:setting, :save_changes]
+  before_filter :get_user, only: [:show]
 
   def login
   end
@@ -42,6 +43,15 @@ class UsersController < ApplicationController
   end
 
   def setting
-    
+  end
+
+  def save_changes
+    @user.name = params['new_name']
+    @user.save!
+    redirect_to user_setting_path
+  end
+
+  def get_user
+    @user = User.find(session[:user_id])
   end
 end
