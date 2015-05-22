@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
   before_filter :acl_admin!, only: [:show]
+  before_filter :acl_user_id!, only: [:setting]
 
   def login
   end
