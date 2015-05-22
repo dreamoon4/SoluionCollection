@@ -1,2 +1,6 @@
-p Change your display name:
-= form_tag 
+h1 =@user.name
+= form_tag "/users/save_changes"
+  p
+    = label_tag 'name', 'Display name: '
+    = text_field_tag 'new_name', @user.name
+  p = submit_tag
