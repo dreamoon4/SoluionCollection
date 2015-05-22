@@ -1,5 +1,8 @@
 h1 Problems
 
+#search-result-show
+
+
 a href="#{new_problem_path}"
   .ui.button
     | New Problem
@@ -104,3 +107,8 @@ css:
   .sol-link {
     padding: 0 10px;
   }
+
+javascript:
+  $(function() {
+    Problem.init("#{@search_key}");
+  });

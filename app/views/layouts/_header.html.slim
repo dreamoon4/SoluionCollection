@@ -8,10 +8,12 @@ ui.segment
       .ten.wide.column
         == render 'layouts/search'
       .four.wide.column
-        a.item
-          i.user.icon
-          | Profile
         - if login?
+          - user = User.find(session[:user_id])
+          a.item href="#{user_path(user)}"
+            i.user.icon
+            == user.name
+        - if !login?
           a.item href="#{user_login_path}"
             i.sign.in.icon
             | Login

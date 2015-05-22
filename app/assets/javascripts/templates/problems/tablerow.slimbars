@@ -1,0 +1,23 @@
+tr
+  td.collapsing
+    a href="{{prob.new_solution_path}}"
+      i.glyphicon.glyphicon-plus
+  td.collapsing
+    a href="{{prob.edit_problem_path}}"
+      i.glyphicon.glyphicon-edit
+  td
+    span 
+      | {{prob.unique_name}}
+  td
+    a.ptitle href="{{prob.problem_link}}"
+      i.linkify.icon
+      | {{prob.title}}
+    | {{#each prob.tags}}
+    .ui.horizontal.label.ptag class="{{this.color}}"
+      | {{this.name}}
+    | {{/each}}
+  td
+    | {{#each prob.solutions}}
+    a href="{{this.path}}" class='sol-link'
+      | solution
+    | {{/each}}

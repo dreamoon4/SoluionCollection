@@ -4,11 +4,13 @@ class ProblemsController < ApplicationController
   before_filter :acl_user!, :only => [:new, :create]
 
   def index
-    if params.has_key?(:search)
-      @problems = Problem.search_all(params.fetch(:search))
-    else
-      @problems = Problem.all
-    end
+    #if params.has_key?(:search)
+    #  @problems = Problem.search_all(params.fetch(:search))
+    #else
+    #  @problems = Problem.all
+    #end
+    @search_key = params.fetch(:search, '')
+    @problems = []
   end
 
   def new

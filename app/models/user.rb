@@ -15,5 +15,13 @@ class User < ActiveRecord::Base
     info.value = value
     info.save!
   end
+
+  def get key, defval
+    info = UserInfo.find_by user_id: id, category: key
+    if info == nil
+      set key defval
+    end
+    return UserInfo.find_by user_id: id, category: key
+  end
   
 end
