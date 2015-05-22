@@ -4,12 +4,15 @@
       == link_to image_tag('http://placehold.it/150x45&text=we+need+a+logo'), root_path
     .ten.wide.column
       == render 'layouts/search'
+    .two.wide.column
+      .ui.right.floated.segment
+        - if not login?
+          a href="#{user_login_path}" login
+        - else
+          - user = current_user
+          a href="#{user_show_path id: user.id}" #{user.name}
+          = " | "
+          a href="#{user_logout_path}" logout
     .one.wide.column
-      p profile
-    .one.wide.column
-      - if not login?
-        a href="#{user_login_path}" login
-      - else
-        a href="#{user_logout_path}" logout
-    .one.wide.column
-      p setting
+      .ui.right.floated.segment
+        a href="#{user_setting_path}" setting
