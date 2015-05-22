@@ -1,5 +1,10 @@
 == form_tag problems_path, :method => 'get', :class => 'ui form' do
-  .ui.fluid.action.input
-    == text_field_tag :search, params[:search], :placeholder => 'Search problems...'
-    == button_tag '', :name => nil, :class => 'ui icon button'
-      i.search.icon
+  .ui.very.compact.grid
+    .fourteen.wide.column
+      .ui.fluid.floating.dropdown
+        .ui.input
+          == text_field_tag :search, params[:search], :placeholder => 'Search problems...', :id => 'srh', :autocomplete => 'off'
+        .menu#search-result-box
+    .two.wide.column
+      == submit_tag 'search', :name => nil, :class => 'ui icon button'
+        i.search.icon

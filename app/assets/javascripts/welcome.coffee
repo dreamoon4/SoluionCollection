@@ -33,6 +33,8 @@ searchAJAX = ->
           (data) -> update_problems(data)
           'json'
       )
+    if value == ''
+      $('#search-result-box').html('')
     current_value = value
   )()
 
@@ -42,5 +44,7 @@ $( ->
     $('#srh').mouseup(searchAJAX)
     $('#srh').change(searchAJAX)
     $('#srh').on('input paste', searchAJAX)
-    $('.ui.search').search -> { action: 'search' }
+    $('.dropdown').dropdown -> {
+        transition: "drop"
+      }
  )
