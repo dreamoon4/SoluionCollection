@@ -56,3 +56,8 @@ group :development, :test do
   gem 'thin'
 end
 
+group :production do
+  gem 'web-console', '~> 2.0'
+  gem 'thin'
+end
+
