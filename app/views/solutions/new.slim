@@ -17,3 +17,9 @@ javascript:
       $('#tag_id').select2({tags: data});
     });
   });
+
+- if @solution.problem
+  javascript:
+    $(function() {
+      $('#s1 option[value="#{@solution.problem.unique_name}"]').prop('selected', true);
+    });

@@ -11,14 +11,7 @@ class ApplicationController < ActionController::Base
   end
 
   def acl_user!
-    redirect_to user_login_path(r: request.original_url) unless login?
-  end
-
-  def acl_user_id!
-    acl_user!
-    if !performed? && session[:user_id].to_s != params[:id]
-      # performed? means redirected to user login
-      no_permission
-    end
+    return redirect_to user_login_path(r: request.original_url) unless login?
+    @user = User.find(session[:user_id])
   end
 end

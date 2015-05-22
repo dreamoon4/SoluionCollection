@@ -7,10 +7,14 @@ h1 Problems
         i.glyphicon.glyphicon-plus
       a href="#{edit_problem_path(prob)}"
         i.glyphicon.glyphicon-edit
+    .col-lg-1
+      span =prob.unique_name
     .col-lg-3
-      a href="#{prob.link? ? prob.description : problem_path(prob)}"
+      a.ptitle href="#{prob.link? ? prob.description : problem_path(prob)}"
         =prob.title
-    .col-lg-8
+      - prob.tags.each do |tag|
+        .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
+    .col-lg-7
       - for sol in prob.solutions do
         == link_to "solution", solution_path(sol)
 
@@ -20,4 +24,10 @@ h2
 css:
   .problem:nth-child(even) {
     background-color: #EEE;
+  }
+  .ptitle {
+    margin-right: 1em;
+  }
+  .ptag.ui.horizontal.label {
+    padding: 0.1em 0.5em;
   }

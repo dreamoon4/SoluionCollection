@@ -1,4 +1,24 @@
 .ui.centered.grid
   .twelve.wide.centered.column
     .ui.center.aligned.basic.segment
-      img src="http://placehold.it/500x300&text=we+need+a+logo"
+      img src="http://placehold.it/500x150&text=we+need+a+banner?"
+  .six.wide.column
+    a href="#{new_problem_path}"
+      .super-large.center.aligned.ui.column
+        i.plus.icon
+        p Add Problem
+  .six.wide.column
+    a href="#{new_solution_path}"
+      .super-large.center.aligned.ui.column
+        i.write.icon
+        p Add Solution
+
+
+css:
+  .super-large {
+    font-size: 400%;
+    background-color: #DDD;
+    vertical-align: middle;
+    padding: 90px 0px;
+    color: black;
+  }

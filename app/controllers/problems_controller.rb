@@ -1,9 +1,14 @@
 class ProblemsController < ApplicationController
   before_filter :get_problem_fields, :only => [:create, :update]
   before_filter :get_problem, :only => [:show, :update, :edit, :like, :dislike]
+  before_filter :acl_user!, :only => [:new, :create]
 
   def index
-    @problems = Problem.search(params.require(:search), params.fetch(:page, 1))
+    if params.has_key?(:search)
+      @problems = Problem.search_all(params.fetch(:search))
+    else
+      @problems = Problem.all
+    end
   end
 
   def new
@@ -11,6 +16,7 @@ class ProblemsController < ApplicationController
   end
   
   def create
+    @problem_fields['user_id'] = session['user_id']
     Problem.create(@problem_fields)
     redirect_to problems_path
   end
@@ -55,7 +61,7 @@ class ProblemsController < ApplicationController
 
 
   def get_problem_fields
-    @problem_fields = params.require(:problem).permit(:title, :unique_name, :description)
+    @problem_fields = params.require(:problem).permit(:title, :unique_name, :description, :user_id)
   end
 
   def get_problem

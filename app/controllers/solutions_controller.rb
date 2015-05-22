@@ -9,6 +9,7 @@ class SolutionsController < ApplicationController
 
   def new
     @solution = Solution.new
+    @solution.problem = Problem.find_by_unique_name(params.fetch(:pname)) if params.has_key?(:pname)
   end
 
   def create

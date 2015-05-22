@@ -11,12 +11,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150522020109) do
+ActiveRecord::Schema.define(version: 20150522090935) do
+
+  create_table "badges", force: :cascade do |t|
+    t.string   "title"
+    t.string   "description"
+    t.integer  "points"
+    t.string   "img_link"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+  end
 
   create_table "problem_tags", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer  "problem_id"
+    t.integer  "tag_id"
   end
+
+  add_index "problem_tags", ["problem_id"], name: "index_problem_tags_on_problem_id"
+  add_index "problem_tags", ["tag_id"], name: "index_problem_tags_on_tag_id"
 
   create_table "problems", force: :cascade do |t|
     t.datetime "created_at",              null: false
@@ -59,6 +73,16 @@ ActiveRecord::Schema.define(version: 20150522020109) do
     t.string   "name"
     t.string   "category"
   end
+
+  create_table "user_badges", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer  "user_id"
+    t.integer  "badge_id"
+  end
+
+  add_index "user_badges", ["badge_id"], name: "index_user_badges_on_badge_id"
+  add_index "user_badges", ["user_id"], name: "index_user_badges_on_user_id"
 
   create_table "users", force: :cascade do |t|
     t.datetime "created_at", null: false
