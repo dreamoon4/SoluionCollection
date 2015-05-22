@@ -1,6 +1,7 @@
-.search-result
-  h3.problem-title
-    | {{prob.unique_name}} - {{prob.title}}
-  .row
-    .col-lg-12.solution-list
+.item  
+  .search-result
+    h3.problem-title
+      | {{prob.unique_name}} - {{prob.title}}
+    .row
+      .col-lg-12.solution-list
   
