@@ -5,12 +5,18 @@ Rails.application.routes.draw do
   resources :solutions
   resources :tags
 
+  post 'problems/like/:id' => 'problems#like', as: :problems_like
+  post 'problems/dislike/:id' => 'problems#dislike', as: :problems_dislike
+
   # ajax helpers
   # Search problem
   get 'ajax/problems/search' => 'problems#search', as: :problems_search
   get 'ajax/tags/search' => 'tags#search', as: :tags_search
   get 'ajax/tags/names' => 'tags#names', as: :tags_names
-  
+
+  # Login
+  get 'auth/:provider/callback' => 'login#success'
+  get 'auth/failure' => 'login#failure'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

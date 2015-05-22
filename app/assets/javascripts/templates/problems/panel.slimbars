@@ -1,6 +1,6 @@
-.search-result.panel
-  h2.problem-title
-    | {{title}}
+.search-result
+  h3.problem-title
+    | {{prob.unique_name}} - {{prob.title}}
   .row
-    .col-lg-12.text-right.solution-list
+    .col-lg-12.solution-list
   
