@@ -5,12 +5,18 @@ class ApplicationController < ActionController::Base
 
   def acl_admin!
     unless session.fetch(:group, '') == 'admin'
-      flash[:danger] = I18n.t('You have no permission.')
-      redirect_to '/'
+      no_permission
     end
   end
 
   def acl_user!
-    redirect_to user_login_path(r: request.original_url) unless session.has_key?(:group)
+    redirect_to user_login_path(r: request.original_url) unless login?
+  end
+
+  def acl_user_id!(user_id)
+    acl_user!
+    if !performed? && session[:user_id] != user_id# alreadly logged in
+      no_permission
+    end
   end
 end
