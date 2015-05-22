@@ -40,8 +40,8 @@ searchAJAX = ->
 
 
 $( ->
-    $('#srh').keyup(searchAJAX)
-    $('#srh').mouseup(searchAJAX)
+    # $('#srh').keyup(searchAJAX)
+    # $('#srh').mouseup(searchAJAX)
     $('#srh').change(searchAJAX)
     $('#srh').on('input paste', searchAJAX)
     $('.dropdown').dropdown -> {
