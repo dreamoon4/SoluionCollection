@@ -1,5 +1,5 @@
 h1 #{@problem.title} (#{@problem.unique_name})
-h4 By dreamoon, #{time_ago_in_words(@problem.created_at)} ago
+h4 Uploaded by #{@problem.user.name}, #{time_ago_in_words(@problem.created_at)} ago
 p =@problem.description
 p
   =link_to "+1", problems_like_path, class: 'vote', method: :post, remote: true

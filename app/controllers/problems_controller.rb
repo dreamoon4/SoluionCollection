@@ -1,6 +1,7 @@
 class ProblemsController < ApplicationController
   before_filter :get_problem_fields, :only => [:create, :update]
   before_filter :get_problem, :only => [:show, :update, :edit, :like, :dislike]
+  before_filter :acl_user!, :only => [:new]
 
   def index
     if params.has_key?(:search)
@@ -15,6 +16,7 @@ class ProblemsController < ApplicationController
   end
   
   def create
+    p @problem_fields
     Problem.create(@problem_fields)
     redirect_to problems_path
   end
@@ -59,7 +61,8 @@ class ProblemsController < ApplicationController
 
 
   def get_problem_fields
-    @problem_fields = params.require(:problem).permit(:title, :unique_name, :description)
+    p params
+    @problem_fields = params.require(:problem).permit(:title, :unique_name, :description, :user_id)
   end
 
   def get_problem
