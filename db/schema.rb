@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150521040147) do
+ActiveRecord::Schema.define(version: 20150522020109) do
 
   create_table "problem_tags", force: :cascade do |t|
     t.datetime "created_at", null: false
@@ -19,14 +19,14 @@ ActiveRecord::Schema.define(version: 20150521040147) do
   end
 
   create_table "problems", force: :cascade do |t|
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.datetime "created_at",              null: false
+    t.datetime "updated_at",              null: false
     t.string   "title"
     t.string   "unique_name"
     t.string   "description"
     t.integer  "user_id"
     t.integer  "set_id"
-    t.integer  "rating"
+    t.integer  "rating",      default: 0
   end
 
   add_index "problems", ["user_id"], name: "index_problems_on_user_id"
@@ -43,9 +43,9 @@ ActiveRecord::Schema.define(version: 20150521040147) do
 
   create_table "solutions", force: :cascade do |t|
     t.integer  "user_id"
-    t.integer  "rating"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "rating",     default: 0
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
     t.integer  "problem_id"
     t.string   "content"
   end
@@ -56,8 +56,8 @@ ActiveRecord::Schema.define(version: 20150521040147) do
   create_table "tags", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.string   "type"
     t.string   "name"
+    t.string   "category"
   end
 
   create_table "users", force: :cascade do |t|
@@ -65,6 +65,8 @@ ActiveRecord::Schema.define(version: 20150521040147) do
     t.datetime "updated_at", null: false
     t.integer  "rating"
     t.string   "name"
+    t.string   "email"
+    t.string   "group"
   end
 
 end

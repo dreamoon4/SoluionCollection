@@ -1,0 +1,6982 @@
+title unique_name description
+Paths and Trees
+CF545E
+http://codeforces.com/problemset/problem/545/E
+Queue
+CF545D
+http://codeforces.com/problemset/problem/545/D
+Woodcutters
+CF545C
+http://codeforces.com/problemset/problem/545/C
+Equidistant String
+CF545B
+http://codeforces.com/problemset/problem/545/B
+Toy Cars
+CF545A
+http://codeforces.com/problemset/problem/545/A
+Sea and Islands
+CF544B
+http://codeforces.com/problemset/problem/544/B
+Set of Strings
+CF544A
+http://codeforces.com/problemset/problem/544/A
+Listening to Music
+CF543E
+http://codeforces.com/problemset/problem/543/E
+Road Improvement
+CF543D
+http://codeforces.com/problemset/problem/543/D
+Remembering Strings
+CF543C
+http://codeforces.com/problemset/problem/543/C
+Destroying Roads
+CF543B
+http://codeforces.com/problemset/problem/543/B
+Writing Code
+CF543A
+http://codeforces.com/problemset/problem/543/A
+Quest
+CF542F
+http://codeforces.com/problemset/problem/542/F
+Playing on Graph
+CF542E
+http://codeforces.com/problemset/problem/542/E
+Superhero's Job
+CF542D
+http://codeforces.com/problemset/problem/542/D
+Idempotent functions
+CF542C
+http://codeforces.com/problemset/problem/542/C
+Duck Hunt
+CF542B
+http://codeforces.com/problemset/problem/542/B
+Place Your Ad Here
+CF542A
+http://codeforces.com/problemset/problem/542/A
+Infinite Inversions
+CF540E
+http://codeforces.com/problemset/problem/540/E
+Bad Luck Island
+CF540D
+http://codeforces.com/problemset/problem/540/D
+Ice Cave
+CF540C
+http://codeforces.com/problemset/problem/540/C
+School Marks
+CF540B
+http://codeforces.com/problemset/problem/540/B
+Combination Lock
+CF540A
+http://codeforces.com/problemset/problem/540/A
+Summer Dichotomy
+CF538H
+http://codeforces.com/problemset/problem/538/H
+Berserk Robot
+CF538G
+http://codeforces.com/problemset/problem/538/G
+A Heap of Heaps
+CF538F
+http://codeforces.com/problemset/problem/538/F
+Demiurges Play Again
+CF538E
+http://codeforces.com/problemset/problem/538/E
+Weird Chess
+CF538D
+http://codeforces.com/problemset/problem/538/D
+Tourist's Notes
+CF538C
+http://codeforces.com/problemset/problem/538/C
+Quasi Binary
+CF538B
+http://codeforces.com/problemset/problem/538/B
+Cutting Banner
+CF538A
+http://codeforces.com/problemset/problem/538/A
+Tavas on the Path
+CF536E
+http://codeforces.com/problemset/problem/536/E
+Tavas in Kansas
+CF536D
+http://codeforces.com/problemset/problem/536/D
+Tavas and Pashmaks
+CF535E
+http://codeforces.com/problemset/problem/535/E
+Tavas and Malekas
+CF535D
+http://codeforces.com/problemset/problem/535/D
+Tavas and Karafs
+CF535C
+http://codeforces.com/problemset/problem/535/C
+Tavas and SaDDas
+CF535B
+http://codeforces.com/problemset/problem/535/B
+Tavas and Nafas
+CF535A
+http://codeforces.com/problemset/problem/535/A
+Simplified Nonogram
+CF534F
+http://codeforces.com/problemset/problem/534/F
+Berland Local Positioning System
+CF534E
+http://codeforces.com/problemset/problem/534/E
+Handshakes
+CF534D
+http://codeforces.com/problemset/problem/534/D
+Polycarpus' Dice
+CF534C
+http://codeforces.com/problemset/problem/534/C
+Covered Path
+CF534B
+http://codeforces.com/problemset/problem/534/B
+Exam
+CF534A
+http://codeforces.com/problemset/problem/534/A
+Encoding
+CF533F
+http://codeforces.com/problemset/problem/533/F
+Correcting Mistakes
+CF533E
+http://codeforces.com/problemset/problem/533/E
+Landmarks
+CF533D
+http://codeforces.com/problemset/problem/533/D
+Board Game
+CF533C
+http://codeforces.com/problemset/problem/533/C
+Work Group
+CF533B
+http://codeforces.com/problemset/problem/533/B
+Berland Miners
+CF533A
+http://codeforces.com/problemset/problem/533/A
+Different variables
+CF530I
+http://codeforces.com/problemset/problem/530/I
+Points in triangle
+CF530H
+http://codeforces.com/problemset/problem/530/H
+Levenshtein distance
+CF530G
+http://codeforces.com/problemset/problem/530/G
+Jumping frogs
+CF530F
+http://codeforces.com/problemset/problem/530/F
+Sum and product
+CF530E
+http://codeforces.com/problemset/problem/530/E
+Set subtraction
+CF530D
+http://codeforces.com/problemset/problem/530/D
+Diophantine equation
+CF530C
+http://codeforces.com/problemset/problem/530/C
+String inside out
+CF530B
+http://codeforces.com/problemset/problem/530/B
+Quadratic equation
+CF530A
+http://codeforces.com/problemset/problem/530/A
+Group Photo 2 (online mirror version)
+CF529B
+http://codeforces.com/problemset/problem/529/B
+Triangles 3000
+CF528E
+http://codeforces.com/problemset/problem/528/E
+Fuzzy Search
+CF528D
+http://codeforces.com/problemset/problem/528/D
+Data Center Drama
+CF527E
+http://codeforces.com/problemset/problem/527/E
+Clique Problem
+CF527D
+http://codeforces.com/problemset/problem/527/D
+Glass Carving
+CF527C
+http://codeforces.com/problemset/problem/527/C
+Error Correct System
+CF527B
+http://codeforces.com/problemset/problem/527/B
+Playing with Paper
+CF527A
+http://codeforces.com/problemset/problem/527/A
+Spiders Evil Plan
+CF526G
+http://codeforces.com/problemset/problem/526/G
+Pudding Monsters
+CF526F
+http://codeforces.com/problemset/problem/526/F
+Transmitting Levels
+CF526E
+http://codeforces.com/problemset/problem/526/E
+Om Nom and Necklace
+CF526D
+http://codeforces.com/problemset/problem/526/D
+Om Nom and Candies
+CF526C
+http://codeforces.com/problemset/problem/526/C
+Om Nom and Dark Park
+CF526B
+http://codeforces.com/problemset/problem/526/B
+King of Thieves
+CF526A
+http://codeforces.com/problemset/problem/526/A
+Anya and Cubes
+CF525E
+http://codeforces.com/problemset/problem/525/E
+Arthur and Walls
+CF525D
+http://codeforces.com/problemset/problem/525/D
+Ilya and Sticks
+CF525C
+http://codeforces.com/problemset/problem/525/C
+Pasha and String
+CF525B
+http://codeforces.com/problemset/problem/525/B
+Vitaliy and Pie
+CF525A
+http://codeforces.com/problemset/problem/525/A
+And Yet Another Bracket Sequence
+CF524F
+http://codeforces.com/problemset/problem/524/F
+Rooks and Rectangles
+CF524E
+http://codeforces.com/problemset/problem/524/E
+Social Network
+CF524D
+http://codeforces.com/problemset/problem/524/D
+The Art of Dealing with ATM
+CF524C
+http://codeforces.com/problemset/problem/524/C
+Фото на память - 2 (round version)
+CF524B
+http://codeforces.com/problemset/problem/524/B
+Возможно, вы знаете этих людей?
+CF524A
+http://codeforces.com/problemset/problem/524/A
+Statistics of Recompressing Videos
+CF523D
+http://codeforces.com/problemset/problem/523/D
+Name Quest
+CF523C
+http://codeforces.com/problemset/problem/523/C
+Mean Requests
+CF523B
+http://codeforces.com/problemset/problem/523/B
+Rotate, Flip and Zoom
+CF523A
+http://codeforces.com/problemset/problem/523/A
+Closest Equals
+CF522D
+http://codeforces.com/problemset/problem/522/D
+Chicken or Fish?
+CF522C
+http://codeforces.com/problemset/problem/522/C
+Photo to Remember
+CF522B
+http://codeforces.com/problemset/problem/522/B
+Reposts
+CF522A
+http://codeforces.com/problemset/problem/522/A
+Cycling City
+CF521E
+http://codeforces.com/problemset/problem/521/E
+Shop
+CF521D
+http://codeforces.com/problemset/problem/521/D
+Pluses everywhere
+CF520E
+http://codeforces.com/problemset/problem/520/E
+Cubes
+CF520D
+http://codeforces.com/problemset/problem/520/D
+DNA Alignment
+CF520C
+http://codeforces.com/problemset/problem/520/C
+Two Buttons
+CF520B
+http://codeforces.com/problemset/problem/520/B
+Pangram
+CF520A
+http://codeforces.com/problemset/problem/520/A
+A and B and Lecture Rooms
+CF519E
+http://codeforces.com/problemset/problem/519/E
+A and B and Interesting Substrings
+CF519D
+http://codeforces.com/problemset/problem/519/D
+A and B and Team Training
+CF519C
+http://codeforces.com/problemset/problem/519/C
+A and B and Compilation Errors
+CF519B
+http://codeforces.com/problemset/problem/519/B
+A and B and Chess
+CF519A
+http://codeforces.com/problemset/problem/519/A
+Pasha and Pipe
+CF518F
+http://codeforces.com/problemset/problem/518/F
+Arthur and Questions
+CF518E
+http://codeforces.com/problemset/problem/518/E
+Ilya and Escalator
+CF518D
+http://codeforces.com/problemset/problem/518/D
+Anya and Smartphone
+CF518C
+http://codeforces.com/problemset/problem/518/C
+Tanya and Postcard
+CF518B
+http://codeforces.com/problemset/problem/518/B
+Vitaly and Strings
+CF518A
+http://codeforces.com/problemset/problem/518/A
+Drazil and His Happy Friends
+CF516E
+http://codeforces.com/problemset/problem/516/E
+Drazil and Morning Exercise
+CF516D
+http://codeforces.com/problemset/problem/516/D
+Drazil and Park
+CF515E
+http://codeforces.com/problemset/problem/515/E
+Drazil and Tiles
+CF515D
+http://codeforces.com/problemset/problem/515/D
+Drazil and Factorial
+CF515C
+http://codeforces.com/problemset/problem/515/C
+Drazil and His Happy Friends
+CF515B
+http://codeforces.com/problemset/problem/515/B
+Drazil and Date
+CF515A
+http://codeforces.com/problemset/problem/515/A
+Darth Vader and Tree
+CF514E
+http://codeforces.com/problemset/problem/514/E
+R2D2 and Droid Army
+CF514D
+http://codeforces.com/problemset/problem/514/D
+Watto and Mechanism
+CF514C
+http://codeforces.com/problemset/problem/514/C
+Han Solo and Lazer Gun
+CF514B
+http://codeforces.com/problemset/problem/514/B
+Chewbaсca and Number
+CF514A
+http://codeforces.com/problemset/problem/514/A
+Inversions problem
+CF513G3
+http://codeforces.com/problemset/problem/513/G3
+Inversions problem
+CF513G2
+http://codeforces.com/problemset/problem/513/G2
+Inversions problem
+CF513G1
+http://codeforces.com/problemset/problem/513/G1
+Scaygerboss
+CF513F2
+http://codeforces.com/problemset/problem/513/F2
+Scaygerboss
+CF513F1
+http://codeforces.com/problemset/problem/513/F1
+Subarray Cuts
+CF513E2
+http://codeforces.com/problemset/problem/513/E2
+Subarray Cuts
+CF513E1
+http://codeforces.com/problemset/problem/513/E1
+Constrained Tree
+CF513D2
+http://codeforces.com/problemset/problem/513/D2
+Constrained Tree
+CF513D1
+http://codeforces.com/problemset/problem/513/D1
+Second price auction
+CF513C
+http://codeforces.com/problemset/problem/513/C
+Permutations
+CF513B2
+http://codeforces.com/problemset/problem/513/B2
+Permutations
+CF513B1
+http://codeforces.com/problemset/problem/513/B1
+Game
+CF513A
+http://codeforces.com/problemset/problem/513/A
+Fox And Polygon
+CF512E
+http://codeforces.com/problemset/problem/512/E
+Fox And Travelling
+CF512D
+http://codeforces.com/problemset/problem/512/D
+Fox And Dinner
+CF510E
+http://codeforces.com/problemset/problem/510/E
+Fox And Jumping
+CF510D
+http://codeforces.com/problemset/problem/510/D
+Fox And Names
+CF510C
+http://codeforces.com/problemset/problem/510/C
+Fox And Two Dots
+CF510B
+http://codeforces.com/problemset/problem/510/B
+Fox And Snake
+CF510A
+http://codeforces.com/problemset/problem/510/A
+Progress Monitoring
+CF509F
+http://codeforces.com/problemset/problem/509/F
+Pretty Song
+CF509E
+http://codeforces.com/problemset/problem/509/E
+Restoring Numbers
+CF509D
+http://codeforces.com/problemset/problem/509/D
+Sums of Digits
+CF509C
+http://codeforces.com/problemset/problem/509/C
+Painting Pebbles
+CF509B
+http://codeforces.com/problemset/problem/509/B
+Maximum in Table
+CF509A
+http://codeforces.com/problemset/problem/509/A
+Arthur and Brackets
+CF508E
+http://codeforces.com/problemset/problem/508/E
+Tanya and Password
+CF508D
+http://codeforces.com/problemset/problem/508/D
+Anya and Ghosts
+CF508C
+http://codeforces.com/problemset/problem/508/C
+Anton and currency you all know
+CF508B
+http://codeforces.com/problemset/problem/508/B
+Pasha and Pixels
+CF508A
+http://codeforces.com/problemset/problem/508/A
+Breaking Good
+CF507E
+http://codeforces.com/problemset/problem/507/E
+The Maths Lecture
+CF507D
+http://codeforces.com/problemset/problem/507/D
+Guess Your Way Out!
+CF507C
+http://codeforces.com/problemset/problem/507/C
+Amr and Pins
+CF507B
+http://codeforces.com/problemset/problem/507/B
+Amr and Music
+CF507A
+http://codeforces.com/problemset/problem/507/A
+Mr. Kitayuta's Gift
+CF506E
+http://codeforces.com/problemset/problem/506/E
+Mr. Kitayuta's Colorful Graph
+CF506D
+http://codeforces.com/problemset/problem/506/D
+Mr. Kitayuta vs. Bamboos
+CF505E
+http://codeforces.com/problemset/problem/505/E
+Mr. Kitayuta's Technology
+CF505D
+http://codeforces.com/problemset/problem/505/D
+Mr. Kitayuta, the Treasure Hunter
+CF505C
+http://codeforces.com/problemset/problem/505/C
+Mr. Kitayuta's Colorful Graph
+CF505B
+http://codeforces.com/problemset/problem/505/B
+Mr. Kitayuta's Gift
+CF505A
+http://codeforces.com/problemset/problem/505/A
+Misha and LCP on Tree
+CF504E
+http://codeforces.com/problemset/problem/504/E
+Misha and XOR
+CF504D
+http://codeforces.com/problemset/problem/504/D
+Misha and Palindrome Degree
+CF501E
+http://codeforces.com/problemset/problem/501/E
+Misha and Permutations Summation
+CF501D
+http://codeforces.com/problemset/problem/501/D
+Misha and Forest
+CF501C
+http://codeforces.com/problemset/problem/501/C
+Misha and Changing Handles
+CF501B
+http://codeforces.com/problemset/problem/501/B
+Contest
+CF501A
+http://codeforces.com/problemset/problem/501/A
+New Year Running
+CF500G
+http://codeforces.com/problemset/problem/500/G
+New Year Shopping
+CF500F
+http://codeforces.com/problemset/problem/500/F
+New Year Domino
+CF500E
+http://codeforces.com/problemset/problem/500/E
+New Year Santa Network
+CF500D
+http://codeforces.com/problemset/problem/500/D
+New Year Book Reading
+CF500C
+http://codeforces.com/problemset/problem/500/C
+New Year Permutation
+CF500B
+http://codeforces.com/problemset/problem/500/B
+New Year Transportation
+CF500A
+http://codeforces.com/problemset/problem/500/A
+Lecture
+CF499B
+http://codeforces.com/problemset/problem/499/B
+Watching a movie
+CF499A
+http://codeforces.com/problemset/problem/499/A
+Stairs and Lines
+CF498E
+http://codeforces.com/problemset/problem/498/E
+Traffic Jams in the Land
+CF498D
+http://codeforces.com/problemset/problem/498/D
+Array and Operations
+CF498C
+http://codeforces.com/problemset/problem/498/C
+Name That Tune
+CF498B
+http://codeforces.com/problemset/problem/498/B
+Crazy Town
+CF498A
+http://codeforces.com/problemset/problem/498/A
+Subsequences Return
+CF497E
+http://codeforces.com/problemset/problem/497/E
+Gears
+CF497D
+http://codeforces.com/problemset/problem/497/D
+Distributing Parts
+CF496E
+http://codeforces.com/problemset/problem/496/E
+Tennis Game
+CF496D
+http://codeforces.com/problemset/problem/496/D
+Removing Columns
+CF496C
+http://codeforces.com/problemset/problem/496/C
+Secret Combination
+CF496B
+http://codeforces.com/problemset/problem/496/B
+Minimum Difficulty
+CF496A
+http://codeforces.com/problemset/problem/496/A
+Modular Equations
+CF495B
+http://codeforces.com/problemset/problem/495/B
+Digital Counter
+CF495A
+http://codeforces.com/problemset/problem/495/A
+Sharti
+CF494E
+http://codeforces.com/problemset/problem/494/E
+Birthday
+CF494D
+http://codeforces.com/problemset/problem/494/D
+Helping People
+CF494C
+http://codeforces.com/problemset/problem/494/C
+Obsessive String
+CF494B
+http://codeforces.com/problemset/problem/494/B
+Treasure
+CF494A
+http://codeforces.com/problemset/problem/494/A
+Vasya and Polynomial
+CF493E
+http://codeforces.com/problemset/problem/493/E
+Vasya and Chess
+CF493D
+http://codeforces.com/problemset/problem/493/D
+Vasya and Basketball
+CF493C
+http://codeforces.com/problemset/problem/493/C
+Vasya and Wrestling
+CF493B
+http://codeforces.com/problemset/problem/493/B
+Vasya and Football
+CF493A
+http://codeforces.com/problemset/problem/493/A
+Vanya and Field
+CF492E
+http://codeforces.com/problemset/problem/492/E
+Vanya and Computer Game
+CF492D
+http://codeforces.com/problemset/problem/492/D
+Vanya and Exams
+CF492C
+http://codeforces.com/problemset/problem/492/C
+Vanya and Lanterns
+CF492B
+http://codeforces.com/problemset/problem/492/B
+Vanya and Cubes
+CF492A
+http://codeforces.com/problemset/problem/492/A
+Deciphering
+CF491C
+http://codeforces.com/problemset/problem/491/C
+New York Hotel
+CF491B
+http://codeforces.com/problemset/problem/491/B
+Up the hill
+CF491A
+http://codeforces.com/problemset/problem/491/A
+Treeland Tour
+CF490F
+http://codeforces.com/problemset/problem/490/F
+Restoring Increasing Sequence
+CF490E
+http://codeforces.com/problemset/problem/490/E
+Chocolate
+CF490D
+http://codeforces.com/problemset/problem/490/D
+Hacking Cypher
+CF490C
+http://codeforces.com/problemset/problem/490/C
+Queue
+CF490B
+http://codeforces.com/problemset/problem/490/B
+Team Olympiad
+CF490A
+http://codeforces.com/problemset/problem/490/A
+Special Matrices
+CF489F
+http://codeforces.com/problemset/problem/489/F
+Hiking
+CF489E
+http://codeforces.com/problemset/problem/489/E
+Unbearable Controversy of Being
+CF489D
+http://codeforces.com/problemset/problem/489/D
+Given Length and Sum of Digits...
+CF489C
+http://codeforces.com/problemset/problem/489/C
+BerSU Ball
+CF489B
+http://codeforces.com/problemset/problem/489/B
+SwapSort
+CF489A
+http://codeforces.com/problemset/problem/489/A
+Candy Boxes
+CF488B
+http://codeforces.com/problemset/problem/488/B
+Giga Tower
+CF488A
+http://codeforces.com/problemset/problem/488/A
+Tourists
+CF487E
+http://codeforces.com/problemset/problem/487/E
+Conveyor Belts
+CF487D
+http://codeforces.com/problemset/problem/487/D
+Prefix Product Sequence
+CF487C
+http://codeforces.com/problemset/problem/487/C
+Strip
+CF487B
+http://codeforces.com/problemset/problem/487/B
+Fight the Monster
+CF487A
+http://codeforces.com/problemset/problem/487/A
+LIS of Sequence
+CF486E
+http://codeforces.com/problemset/problem/486/E
+Valid Sets
+CF486D
+http://codeforces.com/problemset/problem/486/D
+Palindrome Transformation
+CF486C
+http://codeforces.com/problemset/problem/486/C
+OR in Matrix
+CF486B
+http://codeforces.com/problemset/problem/486/B
+Calculating Function
+CF486A
+http://codeforces.com/problemset/problem/486/A
+Valuable Resources
+CF485B
+http://codeforces.com/problemset/problem/485/B
+Factory
+CF485A
+http://codeforces.com/problemset/problem/485/A
+Sign on Fence
+CF484E
+http://codeforces.com/problemset/problem/484/E
+Kindergarten
+CF484D
+http://codeforces.com/problemset/problem/484/D
+Strange Sorting
+CF484C
+http://codeforces.com/problemset/problem/484/C
+Maximum Value
+CF484B
+http://codeforces.com/problemset/problem/484/B
+Bits
+CF484A
+http://codeforces.com/problemset/problem/484/A
+Friends and Presents
+CF483B
+http://codeforces.com/problemset/problem/483/B
+Counterexample
+CF483A
+http://codeforces.com/problemset/problem/483/A
+ELCA
+CF482E
+http://codeforces.com/problemset/problem/482/E
+Random Function and Tree
+CF482D
+http://codeforces.com/problemset/problem/482/D
+Game with Strings
+CF482C
+http://codeforces.com/problemset/problem/482/C
+Interesting Array
+CF482B
+http://codeforces.com/problemset/problem/482/B
+Diverse Permutation
+CF482A
+http://codeforces.com/problemset/problem/482/A
+Parking Lot
+CF480E
+http://codeforces.com/problemset/problem/480/E
+Parcels
+CF480D
+http://codeforces.com/problemset/problem/480/D
+Riding in a Lift
+CF479E
+http://codeforces.com/problemset/problem/479/E
+Long Jumps
+CF479D
+http://codeforces.com/problemset/problem/479/D
+Exams
+CF479C
+http://codeforces.com/problemset/problem/479/C
+Towers
+CF479B
+http://codeforces.com/problemset/problem/479/B
+Expression
+CF479A
+http://codeforces.com/problemset/problem/479/A
+Wavy numbers
+CF478E
+http://codeforces.com/problemset/problem/478/E
+Red-Green Towers
+CF478D
+http://codeforces.com/problemset/problem/478/D
+Table Decorations
+CF478C
+http://codeforces.com/problemset/problem/478/C
+Random Teams
+CF478B
+http://codeforces.com/problemset/problem/478/B
+Initial Bet
+CF478A
+http://codeforces.com/problemset/problem/478/A
+Dreamoon and Notepad
+CF477E
+http://codeforces.com/problemset/problem/477/E
+Dreamoon and Binary
+CF477D
+http://codeforces.com/problemset/problem/477/D
+Dreamoon and Strings
+CF476E
+http://codeforces.com/problemset/problem/476/E
+Dreamoon and Sets
+CF476D
+http://codeforces.com/problemset/problem/476/D
+Dreamoon and Sums
+CF476C
+http://codeforces.com/problemset/problem/476/C
+Dreamoon and WiFi
+CF476B
+http://codeforces.com/problemset/problem/476/B
+Dreamoon and Stairs
+CF476A
+http://codeforces.com/problemset/problem/476/A
+Meta-universe
+CF475F
+http://codeforces.com/problemset/problem/475/F
+Strongly Connected City 2
+CF475E
+http://codeforces.com/problemset/problem/475/E
+CGCDSSQ
+CF475D
+http://codeforces.com/problemset/problem/475/D
+Kamal-ol-molk's Painting
+CF475C
+http://codeforces.com/problemset/problem/475/C
+Strongly Connected City
+CF475B
+http://codeforces.com/problemset/problem/475/B
+Bayan Bus
+CF475A
+http://codeforces.com/problemset/problem/475/A
+Ant colony
+CF474F
+http://codeforces.com/problemset/problem/474/F
+Pillars
+CF474E
+http://codeforces.com/problemset/problem/474/E
+Flowers
+CF474D
+http://codeforces.com/problemset/problem/474/D
+Captain Marmot
+CF474C
+http://codeforces.com/problemset/problem/474/C
+Worms
+CF474B
+http://codeforces.com/problemset/problem/474/B
+Keyboard
+CF474A
+http://codeforces.com/problemset/problem/474/A
+Design Tutorial: Increase the Constraints
+CF472G
+http://codeforces.com/problemset/problem/472/G
+Design Tutorial: Change the Goal
+CF472F
+http://codeforces.com/problemset/problem/472/F
+Design Tutorial: Learn from a Game
+CF472E
+http://codeforces.com/problemset/problem/472/E
+Design Tutorial: Inverse the Problem
+CF472D
+http://codeforces.com/problemset/problem/472/D
+Design Tutorial: Make It Nondeterministic
+CF472C
+http://codeforces.com/problemset/problem/472/C
+Design Tutorial: Learn from Life
+CF472B
+http://codeforces.com/problemset/problem/472/B
+Design Tutorial: Learn from Math
+CF472A
+http://codeforces.com/problemset/problem/472/A
+MUH and Lots and Lots of Segments
+CF471E
+http://codeforces.com/problemset/problem/471/E
+MUH and Cube Walls
+CF471D
+http://codeforces.com/problemset/problem/471/D
+MUH and House of Cards
+CF471C
+http://codeforces.com/problemset/problem/471/C
+MUH and Important Things
+CF471B
+http://codeforces.com/problemset/problem/471/B
+MUH and Sticks
+CF471A
+http://codeforces.com/problemset/problem/471/A
+Array Sorting
+CF470H
+http://codeforces.com/problemset/problem/470/H
+Hamming Distance
+CF470G
+http://codeforces.com/problemset/problem/470/G
+Pairwise Sums
+CF470F
+http://codeforces.com/problemset/problem/470/F
+Chessboard
+CF470E
+http://codeforces.com/problemset/problem/470/E
+Caesar Cipher
+CF470D
+http://codeforces.com/problemset/problem/470/D
+Eval
+CF470C
+http://codeforces.com/problemset/problem/470/C
+Hexakosioihexekontahexaphobia
+CF470B
+http://codeforces.com/problemset/problem/470/B
+Crystal Ball Sequence
+CF470A
+http://codeforces.com/problemset/problem/470/A
+Chat Online
+CF469B
+http://codeforces.com/problemset/problem/469/B
+I Wanna Be the Guy
+CF469A
+http://codeforces.com/problemset/problem/469/A
+Permanent
+CF468E
+http://codeforces.com/problemset/problem/468/E
+Tree
+CF468D
+http://codeforces.com/problemset/problem/468/D
+Hack it!
+CF468C
+http://codeforces.com/problemset/problem/468/C
+Two Sets
+CF468B
+http://codeforces.com/problemset/problem/468/B
+24 Game
+CF468A
+http://codeforces.com/problemset/problem/468/A
+Alex and Complicated Task
+CF467E
+http://codeforces.com/problemset/problem/467/E
+Fedor and Essay
+CF467D
+http://codeforces.com/problemset/problem/467/D
+George and Job
+CF467C
+http://codeforces.com/problemset/problem/467/C
+Fedor and New Game
+CF467B
+http://codeforces.com/problemset/problem/467/B
+George and Accommodation
+CF467A
+http://codeforces.com/problemset/problem/467/A
+Information Graph
+CF466E
+http://codeforces.com/problemset/problem/466/E
+Increase Sequence
+CF466D
+http://codeforces.com/problemset/problem/466/D
+Number of Ways
+CF466C
+http://codeforces.com/problemset/problem/466/C
+Wonder Room
+CF466B
+http://codeforces.com/problemset/problem/466/B
+Cheap Travel
+CF466A
+http://codeforces.com/problemset/problem/466/A
+Inbox (100500)
+CF465B
+http://codeforces.com/problemset/problem/465/B
+inc ARG
+CF465A
+http://codeforces.com/problemset/problem/465/A
+The Classic Problem
+CF464E
+http://codeforces.com/problemset/problem/464/E
+World of Darkraft - 2
+CF464D
+http://codeforces.com/problemset/problem/464/D
+Substitutes in Number
+CF464C
+http://codeforces.com/problemset/problem/464/C
+Restore Cube
+CF464B
+http://codeforces.com/problemset/problem/464/B
+No to Palindromes!
+CF464A
+http://codeforces.com/problemset/problem/464/A
+Caisa and Tree
+CF463E
+http://codeforces.com/problemset/problem/463/E
+Gargari and Permutations
+CF463D
+http://codeforces.com/problemset/problem/463/D
+Gargari and Bishops
+CF463C
+http://codeforces.com/problemset/problem/463/C
+Caisa and Pylons
+CF463B
+http://codeforces.com/problemset/problem/463/B
+Caisa and Sugar
+CF463A
+http://codeforces.com/problemset/problem/463/A
+Appleman and Card Game
+CF462B
+http://codeforces.com/problemset/problem/462/B
+Appleman and Easy Task
+CF462A
+http://codeforces.com/problemset/problem/462/A
+Appleman and a Game
+CF461E
+http://codeforces.com/problemset/problem/461/E
+Appleman and Complicated Task
+CF461D
+http://codeforces.com/problemset/problem/461/D
+Appleman and a Sheet of Paper
+CF461C
+http://codeforces.com/problemset/problem/461/C
+Appleman and Tree
+CF461B
+http://codeforces.com/problemset/problem/461/B
+Appleman and Toastman
+CF461A
+http://codeforces.com/problemset/problem/461/A
+Roland and Rose
+CF460E
+http://codeforces.com/problemset/problem/460/E
+Little Victor and Set
+CF460D
+http://codeforces.com/problemset/problem/460/D
+Present
+CF460C
+http://codeforces.com/problemset/problem/460/C
+Little Dima and Equation
+CF460B
+http://codeforces.com/problemset/problem/460/B
+Vasya and Socks
+CF460A
+http://codeforces.com/problemset/problem/460/A
+Pashmak and Graph
+CF459E
+http://codeforces.com/problemset/problem/459/E
+Pashmak and Parmida's problem
+CF459D
+http://codeforces.com/problemset/problem/459/D
+Pashmak and Buses
+CF459C
+http://codeforces.com/problemset/problem/459/C
+Pashmak and Flowers
+CF459B
+http://codeforces.com/problemset/problem/459/B
+Pashmak and Garden
+CF459A
+http://codeforces.com/problemset/problem/459/A
+An easy problem about trees
+CF457F
+http://codeforces.com/problemset/problem/457/F
+Flow Optimality
+CF457E
+http://codeforces.com/problemset/problem/457/E
+Bingo!
+CF457D
+http://codeforces.com/problemset/problem/457/D
+Elections
+CF457C
+http://codeforces.com/problemset/problem/457/C
+Distributed Join
+CF457B
+http://codeforces.com/problemset/problem/457/B
+Golden System
+CF457A
+http://codeforces.com/problemset/problem/457/A
+Fedya and Maths
+CF456B
+http://codeforces.com/problemset/problem/456/B
+Laptops
+CF456A
+http://codeforces.com/problemset/problem/456/A
+Function
+CF455E
+http://codeforces.com/problemset/problem/455/E
+Serega and Fun
+CF455D
+http://codeforces.com/problemset/problem/455/D
+Civilization
+CF455C
+http://codeforces.com/problemset/problem/455/C
+A Lot of Games
+CF455B
+http://codeforces.com/problemset/problem/455/B
+Boredom
+CF455A
+http://codeforces.com/problemset/problem/455/A
+Little Pony and Sort by Shift
+CF454B
+http://codeforces.com/problemset/problem/454/B
+Little Pony and Crystal Mine
+CF454A
+http://codeforces.com/problemset/problem/454/A
+Little Pony and Lord Tirek
+CF453E
+http://codeforces.com/problemset/problem/453/E
+Little Pony and Elements of Harmony
+CF453D
+http://codeforces.com/problemset/problem/453/D
+Little Pony and Summer Sun Celebration
+CF453C
+http://codeforces.com/problemset/problem/453/C
+Little Pony and Harmony Chest
+CF453B
+http://codeforces.com/problemset/problem/453/B
+Little Pony and Expected Maximum
+CF453A
+http://codeforces.com/problemset/problem/453/A
+Permutation
+CF452F
+http://codeforces.com/problemset/problem/452/F
+Three strings
+CF452E
+http://codeforces.com/problemset/problem/452/E
+Washer, Dryer, Folder
+CF452D
+http://codeforces.com/problemset/problem/452/D
+Magic Trick
+CF452C
+http://codeforces.com/problemset/problem/452/C
+4-point polyline
+CF452B
+http://codeforces.com/problemset/problem/452/B
+Eevee
+CF452A
+http://codeforces.com/problemset/problem/452/A
+Devu and Flowers
+CF451E
+http://codeforces.com/problemset/problem/451/E
+Count Good Substrings
+CF451D
+http://codeforces.com/problemset/problem/451/D
+Predict Outcome of the Game
+CF451C
+http://codeforces.com/problemset/problem/451/C
+Sort the Array
+CF451B
+http://codeforces.com/problemset/problem/451/B
+Game With Sticks
+CF451A
+http://codeforces.com/problemset/problem/451/A
+Jzzhu and Sequences
+CF450B
+http://codeforces.com/problemset/problem/450/B
+Jzzhu and Children
+CF450A
+http://codeforces.com/problemset/problem/450/A
+Jzzhu and Squares
+CF449E
+http://codeforces.com/problemset/problem/449/E
+Jzzhu and Numbers
+CF449D
+http://codeforces.com/problemset/problem/449/D
+Jzzhu and Apples
+CF449C
+http://codeforces.com/problemset/problem/449/C
+Jzzhu and Cities
+CF449B
+http://codeforces.com/problemset/problem/449/B
+Jzzhu and Chocolate
+CF449A
+http://codeforces.com/problemset/problem/449/A
+Divisors
+CF448E
+http://codeforces.com/problemset/problem/448/E
+Multiplication Table
+CF448D
+http://codeforces.com/problemset/problem/448/D
+Painting Fence
+CF448C
+http://codeforces.com/problemset/problem/448/C
+Suffix Structures
+CF448B
+http://codeforces.com/problemset/problem/448/B
+Rewards
+CF448A
+http://codeforces.com/problemset/problem/448/A
+DZY Loves Strings
+CF447B
+http://codeforces.com/problemset/problem/447/B
+DZY Loves Hash
+CF447A
+http://codeforces.com/problemset/problem/447/A
+DZY Loves Bridges
+CF446E
+http://codeforces.com/problemset/problem/446/E
+DZY Loves Games
+CF446D
+http://codeforces.com/problemset/problem/446/D
+DZY Loves Fibonacci Numbers
+CF446C
+http://codeforces.com/problemset/problem/446/C
+DZY Loves Modification
+CF446B
+http://codeforces.com/problemset/problem/446/B
+DZY Loves Sequences
+CF446A
+http://codeforces.com/problemset/problem/446/A
+DZY Loves Chemistry
+CF445B
+http://codeforces.com/problemset/problem/445/B
+DZY Loves Chessboard
+CF445A
+http://codeforces.com/problemset/problem/445/A
+DZY Loves Planting
+CF444E
+http://codeforces.com/problemset/problem/444/E
+DZY Loves Strings
+CF444D
+http://codeforces.com/problemset/problem/444/D
+DZY Loves Colors
+CF444C
+http://codeforces.com/problemset/problem/444/C
+DZY Loves FFT
+CF444B
+http://codeforces.com/problemset/problem/444/B
+DZY Loves Physics
+CF444A
+http://codeforces.com/problemset/problem/444/A
+Kolya and Tandem Repeat
+CF443B
+http://codeforces.com/problemset/problem/443/B
+Anton and Letters
+CF443A
+http://codeforces.com/problemset/problem/443/A
+Gena and Second Distance
+CF442E
+http://codeforces.com/problemset/problem/442/E
+Adam and Tree
+CF442D
+http://codeforces.com/problemset/problem/442/D
+Artem and Array
+CF442C
+http://codeforces.com/problemset/problem/442/C
+Andrey and Problem
+CF442B
+http://codeforces.com/problemset/problem/442/B
+Borya and Hanabi
+CF442A
+http://codeforces.com/problemset/problem/442/A
+Valera and Number
+CF441E
+http://codeforces.com/problemset/problem/441/E
+Valera and Swaps
+CF441D
+http://codeforces.com/problemset/problem/441/D
+Valera and Tubes
+CF441C
+http://codeforces.com/problemset/problem/441/C
+Valera and Fruits
+CF441B
+http://codeforces.com/problemset/problem/441/B
+Valera and Antique Items
+CF441A
+http://codeforces.com/problemset/problem/441/A
+Berland Federalization
+CF440D
+http://codeforces.com/problemset/problem/440/D
+One-Based Arithmetic
+CF440C
+http://codeforces.com/problemset/problem/440/C
+Balancer
+CF440B
+http://codeforces.com/problemset/problem/440/B
+Forgotten Episode
+CF440A
+http://codeforces.com/problemset/problem/440/A
+Devu and Birthday Celebration
+CF439E
+http://codeforces.com/problemset/problem/439/E
+Devu and his Brother
+CF439D
+http://codeforces.com/problemset/problem/439/D
+Devu and Partitioning of the Array
+CF439C
+http://codeforces.com/problemset/problem/439/C
+Devu, the Dumb Guy
+CF439B
+http://codeforces.com/problemset/problem/439/B
+Devu, the Singer and Churu, the Joker
+CF439A
+http://codeforces.com/problemset/problem/439/A
+The Child and Binary Tree
+CF438E
+http://codeforces.com/problemset/problem/438/E
+The Child and Sequence
+CF438D
+http://codeforces.com/problemset/problem/438/D
+The Child and Polygon
+CF437E
+http://codeforces.com/problemset/problem/437/E
+The Child and Zoo
+CF437D
+http://codeforces.com/problemset/problem/437/D
+The Child and Toy
+CF437C
+http://codeforces.com/problemset/problem/437/C
+The Child and Set
+CF437B
+http://codeforces.com/problemset/problem/437/B
+The Child and Homework
+CF437A
+http://codeforces.com/problemset/problem/437/A
+Banners
+CF436F
+http://codeforces.com/problemset/problem/436/F
+Cardboard Box
+CF436E
+http://codeforces.com/problemset/problem/436/E
+Pudding Monsters
+CF436D
+http://codeforces.com/problemset/problem/436/D
+Dungeons and Candies
+CF436C
+http://codeforces.com/problemset/problem/436/C
+Om Nom and Spiders
+CF436B
+http://codeforces.com/problemset/problem/436/B
+Feed with Candy
+CF436A
+http://codeforces.com/problemset/problem/436/A
+Special Graph
+CF435E
+http://codeforces.com/problemset/problem/435/E
+Special Grid
+CF435D
+http://codeforces.com/problemset/problem/435/D
+Cardiogram
+CF435C
+http://codeforces.com/problemset/problem/435/C
+Pasha Maximizes
+CF435B
+http://codeforces.com/problemset/problem/435/B
+Queue on Bus Stop
+CF435A
+http://codeforces.com/problemset/problem/435/A
+Furukawa Nagisa's Tree
+CF434E
+http://codeforces.com/problemset/problem/434/E
+Nanami's Power Plant
+CF434D
+http://codeforces.com/problemset/problem/434/D
+Tachibana Kanade's Tofu
+CF433E
+http://codeforces.com/problemset/problem/433/E
+Nanami's Digital Board
+CF433D
+http://codeforces.com/problemset/problem/433/D
+Ryouko's Memory Note
+CF433C
+http://codeforces.com/problemset/problem/433/C
+Kuriyama Mirai's Stones
+CF433B
+http://codeforces.com/problemset/problem/433/B
+Kitahara Haruki's Gift
+CF433A
+http://codeforces.com/problemset/problem/433/A
+Square Tiling
+CF432E
+http://codeforces.com/problemset/problem/432/E
+Prefixes and Suffixes
+CF432D
+http://codeforces.com/problemset/problem/432/D
+Prime Swaps
+CF432C
+http://codeforces.com/problemset/problem/432/C
+Football Kit
+CF432B
+http://codeforces.com/problemset/problem/432/B
+Choosing Teams
+CF432A
+http://codeforces.com/problemset/problem/432/A
+Chemistry Experiment
+CF431E
+http://codeforces.com/problemset/problem/431/E
+Random Task
+CF431D
+http://codeforces.com/problemset/problem/431/D
+k-Tree
+CF431C
+http://codeforces.com/problemset/problem/431/C
+Shower Line
+CF431B
+http://codeforces.com/problemset/problem/431/B
+Black Square
+CF431A
+http://codeforces.com/problemset/problem/431/A
+Balls Game
+CF430B
+http://codeforces.com/problemset/problem/430/B
+Points and Segments (easy)
+CF430A
+http://codeforces.com/problemset/problem/430/A
+Points and Segments
+CF429E
+http://codeforces.com/problemset/problem/429/E
+Tricky Function
+CF429D
+http://codeforces.com/problemset/problem/429/D
+Guess the Tree
+CF429C
+http://codeforces.com/problemset/problem/429/C
+Working out
+CF429B
+http://codeforces.com/problemset/problem/429/B
+Xor-tree
+CF429A
+http://codeforces.com/problemset/problem/429/A
+Police Patrol
+CF427E
+http://codeforces.com/problemset/problem/427/E
+Match & Catch
+CF427D
+http://codeforces.com/problemset/problem/427/D
+Checkposts
+CF427C
+http://codeforces.com/problemset/problem/427/C
+Prison Transfer
+CF427B
+http://codeforces.com/problemset/problem/427/B
+Police Recruits
+CF427A
+http://codeforces.com/problemset/problem/427/A
+Sereja and Mirroring
+CF426B
+http://codeforces.com/problemset/problem/426/B
+Sereja and Mugs
+CF426A
+http://codeforces.com/problemset/problem/426/A
+Sereja and Sets
+CF425E
+http://codeforces.com/problemset/problem/425/E
+Sereja and Squares
+CF425D
+http://codeforces.com/problemset/problem/425/D
+Sereja and Two Sequences
+CF425C
+http://codeforces.com/problemset/problem/425/C
+Sereja and Table
+CF425B
+http://codeforces.com/problemset/problem/425/B
+Sereja and Swaps
+CF425A
+http://codeforces.com/problemset/problem/425/A
+Colored Jenga
+CF424E
+http://codeforces.com/problemset/problem/424/E
+Biathlon Track
+CF424D
+http://codeforces.com/problemset/problem/424/D
+Magic Formulas
+CF424C
+http://codeforces.com/problemset/problem/424/C
+Megacity
+CF424B
+http://codeforces.com/problemset/problem/424/B
+Squats
+CF424A
+http://codeforces.com/problemset/problem/424/A
+Bug in Code
+CF421D
+http://codeforces.com/problemset/problem/421/D
+Pasha and Hamsters
+CF421A
+http://codeforces.com/problemset/problem/421/A
+Playing the ball
+CF420E
+http://codeforces.com/problemset/problem/420/E
+Cup Trick
+CF420D
+http://codeforces.com/problemset/problem/420/D
+Bug in Code
+CF420C
+http://codeforces.com/problemset/problem/420/C
+Online Meeting
+CF420B
+http://codeforces.com/problemset/problem/420/B
+Start Up
+CF420A
+http://codeforces.com/problemset/problem/420/A
+Tricky Password
+CF418E
+http://codeforces.com/problemset/problem/418/E
+Big Problems for Organizers
+CF418D
+http://codeforces.com/problemset/problem/418/D
+Square Table
+CF417E
+http://codeforces.com/problemset/problem/417/E
+Cunning Gena
+CF417D
+http://codeforces.com/problemset/problem/417/D
+Football
+CF417C
+http://codeforces.com/problemset/problem/417/C
+Crash
+CF417B
+http://codeforces.com/problemset/problem/417/B
+Elimination
+CF417A
+http://codeforces.com/problemset/problem/417/A
+President's Path
+CF416E
+http://codeforces.com/problemset/problem/416/E
+Population Size
+CF416D
+http://codeforces.com/problemset/problem/416/D
+Booking System
+CF416C
+http://codeforces.com/problemset/problem/416/C
+Art Union
+CF416B
+http://codeforces.com/problemset/problem/416/B
+Guess a number!
+CF416A
+http://codeforces.com/problemset/problem/416/A
+Mashmokh and Tokens
+CF415B
+http://codeforces.com/problemset/problem/415/B
+Mashmokh and Lights
+CF415A
+http://codeforces.com/problemset/problem/415/A
+Mashmokh's Designed Problem
+CF414E
+http://codeforces.com/problemset/problem/414/E
+Mashmokh and Water Tanks
+CF414D
+http://codeforces.com/problemset/problem/414/D
+Mashmokh and Reverse Operation
+CF414C
+http://codeforces.com/problemset/problem/414/C
+Mashmokh and ACM
+CF414B
+http://codeforces.com/problemset/problem/414/B
+Mashmokh and Numbers
+CF414A
+http://codeforces.com/problemset/problem/414/A
+Maze 2D
+CF413E
+http://codeforces.com/problemset/problem/413/E
+2048
+CF413D
+http://codeforces.com/problemset/problem/413/D
+Jeopardy!
+CF413C
+http://codeforces.com/problemset/problem/413/C
+Spyke Chatting
+CF413B
+http://codeforces.com/problemset/problem/413/B
+Data Recovery
+CF413A
+http://codeforces.com/problemset/problem/413/A
+E-mail Addresses
+CF412E
+http://codeforces.com/problemset/problem/412/E
+Giving Awards
+CF412D
+http://codeforces.com/problemset/problem/412/D
+Pattern
+CF412C
+http://codeforces.com/problemset/problem/412/C
+Network Configuration
+CF412B
+http://codeforces.com/problemset/problem/412/B
+Poster
+CF412A
+http://codeforces.com/problemset/problem/412/A
+Kicker
+CF411C
+http://codeforces.com/problemset/problem/411/C
+Multi-core Processor
+CF411B
+http://codeforces.com/problemset/problem/411/B
+Password Check
+CF411A
+http://codeforces.com/problemset/problem/411/A
+Feed the Golorp
+CF409I
+http://codeforces.com/problemset/problem/409/I
+A + B Strikes Back
+CF409H
+http://codeforces.com/problemset/problem/409/H
+On a plane
+CF409G
+http://codeforces.com/problemset/problem/409/G
+000001
+CF409F
+http://codeforces.com/problemset/problem/409/F
+Dome
+CF409E
+http://codeforces.com/problemset/problem/409/E
+Big Data
+CF409D
+http://codeforces.com/problemset/problem/409/D
+Magnum Opus
+CF409C
+http://codeforces.com/problemset/problem/409/C
+Mysterious Language
+CF409B
+http://codeforces.com/problemset/problem/409/B
+The Great Game
+CF409A
+http://codeforces.com/problemset/problem/409/A
+Garland
+CF408B
+http://codeforces.com/problemset/problem/408/B
+Line to Cashier
+CF408A
+http://codeforces.com/problemset/problem/408/A
+k-d-sequence
+CF407E
+http://codeforces.com/problemset/problem/407/E
+Largest Submatrix 3
+CF407D
+http://codeforces.com/problemset/problem/407/D
+Curious Array
+CF407C
+http://codeforces.com/problemset/problem/407/C
+Long Path
+CF407B
+http://codeforces.com/problemset/problem/407/B
+Triangle
+CF407A
+http://codeforces.com/problemset/problem/407/A
+Hamming Triples
+CF406E
+http://codeforces.com/problemset/problem/406/E
+Hill Climbing
+CF406D
+http://codeforces.com/problemset/problem/406/D
+Graph Cutting
+CF405E
+http://codeforces.com/problemset/problem/405/E
+Toy Sum
+CF405D
+http://codeforces.com/problemset/problem/405/D
+Unusual Product
+CF405C
+http://codeforces.com/problemset/problem/405/C
+Domino Effect
+CF405B
+http://codeforces.com/problemset/problem/405/B
+Gravity Flip
+CF405A
+http://codeforces.com/problemset/problem/405/A
+Maze 1D
+CF404E
+http://codeforces.com/problemset/problem/404/E
+Minesweeper 1D
+CF404D
+http://codeforces.com/problemset/problem/404/D
+Restore Graph
+CF404C
+http://codeforces.com/problemset/problem/404/C
+Marathon
+CF404B
+http://codeforces.com/problemset/problem/404/B
+Valera and X
+CF404A
+http://codeforces.com/problemset/problem/404/A
+Two Rooted Trees
+CF403E
+http://codeforces.com/problemset/problem/403/E
+Beautiful Pairs of Numbers
+CF403D
+http://codeforces.com/problemset/problem/403/D
+Strictly Positive Matrix
+CF402E
+http://codeforces.com/problemset/problem/402/E
+Upgrading Array
+CF402D
+http://codeforces.com/problemset/problem/402/D
+Searching for Graph
+CF402C
+http://codeforces.com/problemset/problem/402/C
+Trees in a Row
+CF402B
+http://codeforces.com/problemset/problem/402/B
+Nuts
+CF402A
+http://codeforces.com/problemset/problem/402/A
+Olympic Games
+CF401E
+http://codeforces.com/problemset/problem/401/E
+Roman and Numbers
+CF401D
+http://codeforces.com/problemset/problem/401/D
+Team
+CF401C
+http://codeforces.com/problemset/problem/401/C
+Sereja and Contests
+CF401B
+http://codeforces.com/problemset/problem/401/B
+Vanya and Cards
+CF401A
+http://codeforces.com/problemset/problem/401/A
+Inna and Binary Logic
+CF400E
+http://codeforces.com/problemset/problem/400/E
+Dima and Bacteria
+CF400D
+http://codeforces.com/problemset/problem/400/D
+Inna and Huge Candy Matrix
+CF400C
+http://codeforces.com/problemset/problem/400/C
+Inna and New Matrix of Candies
+CF400B
+http://codeforces.com/problemset/problem/400/B
+Inna and Choose Options
+CF400A
+http://codeforces.com/problemset/problem/400/A
+Red and Blue Balls
+CF399B
+http://codeforces.com/problemset/problem/399/B
+Pages
+CF399A
+http://codeforces.com/problemset/problem/399/A
+Sorting Permutations
+CF398E
+http://codeforces.com/problemset/problem/398/E
+Instant Messanger
+CF398D
+http://codeforces.com/problemset/problem/398/D
+Tree and Array
+CF398C
+http://codeforces.com/problemset/problem/398/C
+Painting The Wall
+CF398B
+http://codeforces.com/problemset/problem/398/B
+Cards
+CF398A
+http://codeforces.com/problemset/problem/398/A
+On Corruption and Numbers
+CF397B
+http://codeforces.com/problemset/problem/397/B
+On Segment's Own Points
+CF397A
+http://codeforces.com/problemset/problem/397/A
+On Iteration of One Well-Known Function
+CF396E
+http://codeforces.com/problemset/problem/396/E
+On Sum of Number of Inversions in Permutations
+CF396D
+http://codeforces.com/problemset/problem/396/D
+On Changing Tree
+CF396C
+http://codeforces.com/problemset/problem/396/C
+On Sum of Fractions
+CF396B
+http://codeforces.com/problemset/problem/396/B
+On Number of Decompositions into Multipliers
+CF396A
+http://codeforces.com/problemset/problem/396/A
+Lightbulb for Minister
+CF394E
+http://codeforces.com/problemset/problem/394/E
+Physical Education and Buns
+CF394D
+http://codeforces.com/problemset/problem/394/D
+Dominoes
+CF394C
+http://codeforces.com/problemset/problem/394/C
+Very Beautiful Number
+CF394B
+http://codeforces.com/problemset/problem/394/B
+Counting Sticks
+CF394A
+http://codeforces.com/problemset/problem/394/A
+Three matrices
+CF393B
+http://codeforces.com/problemset/problem/393/B
+Nineteen
+CF393A
+http://codeforces.com/problemset/problem/393/A
+Deleting Substrings
+CF392E
+http://codeforces.com/problemset/problem/392/E
+Three Arrays
+CF392D
+http://codeforces.com/problemset/problem/392/D
+Yet Another Number Sequence
+CF392C
+http://codeforces.com/problemset/problem/392/C
+Tower of Hanoi
+CF392B
+http://codeforces.com/problemset/problem/392/B
+Blocked Points
+CF392A
+http://codeforces.com/problemset/problem/392/A
+Stock Trading
+CF391F3
+http://codeforces.com/problemset/problem/391/F3
+Stock Trading
+CF391F2
+http://codeforces.com/problemset/problem/391/F2
+Stock Trading
+CF391F1
+http://codeforces.com/problemset/problem/391/F1
+Three Trees
+CF391E2
+http://codeforces.com/problemset/problem/391/E2
+Three Trees
+CF391E1
+http://codeforces.com/problemset/problem/391/E1
+Supercollider
+CF391D2
+http://codeforces.com/problemset/problem/391/D2
+Supercollider
+CF391D1
+http://codeforces.com/problemset/problem/391/D1
+The Tournament
+CF391C3
+http://codeforces.com/problemset/problem/391/C3
+The Tournament
+CF391C2
+http://codeforces.com/problemset/problem/391/C2
+The Tournament
+CF391C1
+http://codeforces.com/problemset/problem/391/C1
+Word Folding
+CF391B
+http://codeforces.com/problemset/problem/391/B
+Genetic Engineering
+CF391A
+http://codeforces.com/problemset/problem/391/A
+Inna and Large Sweet Matrix
+CF390E
+http://codeforces.com/problemset/problem/390/E
+Inna and Sweet Matrix
+CF390D
+http://codeforces.com/problemset/problem/390/D
+Inna and Candy Boxes
+CF390C
+http://codeforces.com/problemset/problem/390/C
+Inna, Dima and Song
+CF390B
+http://codeforces.com/problemset/problem/390/B
+Inna and Alarm Clock
+CF390A
+http://codeforces.com/problemset/problem/390/A
+Fox and Cross
+CF389B
+http://codeforces.com/problemset/problem/389/B
+Fox and Number Game
+CF389A
+http://codeforces.com/problemset/problem/389/A
+Fox and Meteor Shower
+CF388E
+http://codeforces.com/problemset/problem/388/E
+Fox and Perfect Sets
+CF388D
+http://codeforces.com/problemset/problem/388/D
+Fox and Card Game
+CF388C
+http://codeforces.com/problemset/problem/388/C
+Fox and Minimal path
+CF388B
+http://codeforces.com/problemset/problem/388/B
+Fox and Box Accumulation
+CF388A
+http://codeforces.com/problemset/problem/388/A
+George and Cards
+CF387E
+http://codeforces.com/problemset/problem/387/E
+George and Interesting Graph
+CF387D
+http://codeforces.com/problemset/problem/387/D
+George and Number
+CF387C
+http://codeforces.com/problemset/problem/387/C
+George and Round
+CF387B
+http://codeforces.com/problemset/problem/387/B
+George and Sleep
+CF387A
+http://codeforces.com/problemset/problem/387/A
+Game with Points
+CF386D
+http://codeforces.com/problemset/problem/386/D
+Diverse Substrings
+CF386C
+http://codeforces.com/problemset/problem/386/C
+Fly, freebies, fly!
+CF386B
+http://codeforces.com/problemset/problem/386/B
+Second-Price Auction
+CF386A
+http://codeforces.com/problemset/problem/386/A
+Bear in the Field
+CF385E
+http://codeforces.com/problemset/problem/385/E
+Bear and Floodlight
+CF385D
+http://codeforces.com/problemset/problem/385/D
+Bear and Prime Numbers
+CF385C
+http://codeforces.com/problemset/problem/385/C
+Bear and Strings
+CF385B
+http://codeforces.com/problemset/problem/385/B
+Bear and Raspberry
+CF385A
+http://codeforces.com/problemset/problem/385/A
+Multitasking
+CF384B
+http://codeforces.com/problemset/problem/384/B
+Coder
+CF384A
+http://codeforces.com/problemset/problem/384/A
+Vowels
+CF383E
+http://codeforces.com/problemset/problem/383/E
+Antimatter
+CF383D
+http://codeforces.com/problemset/problem/383/D
+Propagating tree
+CF383C
+http://codeforces.com/problemset/problem/383/C
+Volcanoes
+CF383B
+http://codeforces.com/problemset/problem/383/B
+Milking cows
+CF383A
+http://codeforces.com/problemset/problem/383/A
+Ksenia and Combinatorics
+CF382E
+http://codeforces.com/problemset/problem/382/E
+Ksenia and Pawns
+CF382D
+http://codeforces.com/problemset/problem/382/D
+Arithmetic Progression
+CF382C
+http://codeforces.com/problemset/problem/382/C
+Number Busters
+CF382B
+http://codeforces.com/problemset/problem/382/B
+Ksenia and Pan Scales
+CF382A
+http://codeforces.com/problemset/problem/382/A
+Sereja and Stairs
+CF381B
+http://codeforces.com/problemset/problem/381/B
+Sereja and Dima
+CF381A
+http://codeforces.com/problemset/problem/381/A
+Sereja and Dividing
+CF380E
+http://codeforces.com/problemset/problem/380/E
+Sereja and Cinema
+CF380D
+http://codeforces.com/problemset/problem/380/D
+Sereja and Brackets
+CF380C
+http://codeforces.com/problemset/problem/380/C
+Sereja and Tree
+CF380B
+http://codeforces.com/problemset/problem/380/B
+Sereja and Prefixes
+CF380A
+http://codeforces.com/problemset/problem/380/A
+New Year Cactus
+CF379G
+http://codeforces.com/problemset/problem/379/G
+New Year Tree
+CF379F
+http://codeforces.com/problemset/problem/379/F
+New Year Tree Decorations
+CF379E
+http://codeforces.com/problemset/problem/379/E
+New Year Letter
+CF379D
+http://codeforces.com/problemset/problem/379/D
+New Year Ratings Change
+CF379C
+http://codeforces.com/problemset/problem/379/C
+New Year Present
+CF379B
+http://codeforces.com/problemset/problem/379/B
+New Year Candles
+CF379A
+http://codeforces.com/problemset/problem/379/A
+Semifinals
+CF378B
+http://codeforces.com/problemset/problem/378/B
+Playing with Dice
+CF378A
+http://codeforces.com/problemset/problem/378/A
+Cookie Clicker
+CF377E
+http://codeforces.com/problemset/problem/377/E
+Developing Game
+CF377D
+http://codeforces.com/problemset/problem/377/D
+Captains Mode
+CF377C
+http://codeforces.com/problemset/problem/377/C
+Preparing for the Contest
+CF377B
+http://codeforces.com/problemset/problem/377/B
+Maze
+CF377A
+http://codeforces.com/problemset/problem/377/A
+I.O.U.
+CF376B
+http://codeforces.com/problemset/problem/376/B
+Lever
+CF376A
+http://codeforces.com/problemset/problem/376/A
+Red and Black Tree
+CF375E
+http://codeforces.com/problemset/problem/375/E
+Tree and Queries
+CF375D
+http://codeforces.com/problemset/problem/375/D
+Circling Round Treasures
+CF375C
+http://codeforces.com/problemset/problem/375/C
+Maximum Submatrix 2
+CF375B
+http://codeforces.com/problemset/problem/375/B
+Divisible by Seven
+CF375A
+http://codeforces.com/problemset/problem/375/A
+Inna and Babies
+CF374E
+http://codeforces.com/problemset/problem/374/E
+Inna and Sequence
+CF374D
+http://codeforces.com/problemset/problem/374/D
+Inna and Dima
+CF374C
+http://codeforces.com/problemset/problem/374/C
+Inna and Nine
+CF374B
+http://codeforces.com/problemset/problem/374/B
+Inna and Pink Pony
+CF374A
+http://codeforces.com/problemset/problem/374/A
+Making Sequences is Fun
+CF373B
+http://codeforces.com/problemset/problem/373/B
+Collecting Beats is Fun
+CF373A
+http://codeforces.com/problemset/problem/373/A
+Drawing Circles is Fun
+CF372E
+http://codeforces.com/problemset/problem/372/E
+Choosing Subtree is Fun
+CF372D
+http://codeforces.com/problemset/problem/372/D
+Watching Fireworks is Fun
+CF372C
+http://codeforces.com/problemset/problem/372/C
+Counting Rectangles is Fun
+CF372B
+http://codeforces.com/problemset/problem/372/B
+Counting Kangaroos is Fun
+CF372A
+http://codeforces.com/problemset/problem/372/A
+Subway Innovation
+CF371E
+http://codeforces.com/problemset/problem/371/E
+Vessels
+CF371D
+http://codeforces.com/problemset/problem/371/D
+Hamburgers
+CF371C
+http://codeforces.com/problemset/problem/371/C
+Fox Dividing Cheese
+CF371B
+http://codeforces.com/problemset/problem/371/B
+K-Periodic Array
+CF371A
+http://codeforces.com/problemset/problem/371/A
+Summer Reading
+CF370E
+http://codeforces.com/problemset/problem/370/E
+Broken Monitor
+CF370D
+http://codeforces.com/problemset/problem/370/D
+Mittens
+CF370C
+http://codeforces.com/problemset/problem/370/C
+Berland Bingo
+CF370B
+http://codeforces.com/problemset/problem/370/B
+Rook, Bishop and King
+CF370A
+http://codeforces.com/problemset/problem/370/A
+Valera and Queries
+CF369E
+http://codeforces.com/problemset/problem/369/E
+Valera and Fools
+CF369D
+http://codeforces.com/problemset/problem/369/D
+Valera and Elections
+CF369C
+http://codeforces.com/problemset/problem/369/C
+Valera and Contest
+CF369B
+http://codeforces.com/problemset/problem/369/B
+Valera and Plates
+CF369A
+http://codeforces.com/problemset/problem/369/A
+Sereja and Suffixes
+CF368B
+http://codeforces.com/problemset/problem/368/B
+Sereja and Coat Rack
+CF368A
+http://codeforces.com/problemset/problem/368/A
+Sereja and Intervals
+CF367E
+http://codeforces.com/problemset/problem/367/E
+Sereja and Sets
+CF367D
+http://codeforces.com/problemset/problem/367/D
+Sereja and the Arrangement of Numbers
+CF367C
+http://codeforces.com/problemset/problem/367/C
+Sereja ans Anagrams
+CF367B
+http://codeforces.com/problemset/problem/367/B
+Sereja and Algorithm
+CF367A
+http://codeforces.com/problemset/problem/367/A
+Dima and Magic Guitar
+CF366E
+http://codeforces.com/problemset/problem/366/E
+Dima and Trap Graph
+CF366D
+http://codeforces.com/problemset/problem/366/D
+Dima and Salad
+CF366C
+http://codeforces.com/problemset/problem/366/C
+Dima and To-do List
+CF366B
+http://codeforces.com/problemset/problem/366/B
+Dima and Guards
+CF366A
+http://codeforces.com/problemset/problem/366/A
+The Fibonacci Segment
+CF365B
+http://codeforces.com/problemset/problem/365/B
+Good Number
+CF365A
+http://codeforces.com/problemset/problem/365/A
+Empty Rectangles
+CF364E
+http://codeforces.com/problemset/problem/364/E
+Ghd
+CF364D
+http://codeforces.com/problemset/problem/364/D
+Beautiful Set
+CF364C
+http://codeforces.com/problemset/problem/364/C
+Free Market
+CF364B
+http://codeforces.com/problemset/problem/364/B
+Matrix
+CF364A
+http://codeforces.com/problemset/problem/364/A
+Two Circles
+CF363E
+http://codeforces.com/problemset/problem/363/E
+Renting Bikes
+CF363D
+http://codeforces.com/problemset/problem/363/D
+Fixing Typos
+CF363C
+http://codeforces.com/problemset/problem/363/C
+Fence
+CF363B
+http://codeforces.com/problemset/problem/363/B
+Soroban
+CF363A
+http://codeforces.com/problemset/problem/363/A
+Petya and Pipes
+CF362E
+http://codeforces.com/problemset/problem/362/E
+Fools and Foolproof Roads
+CF362D
+http://codeforces.com/problemset/problem/362/D
+Insertion Sort
+CF362C
+http://codeforces.com/problemset/problem/362/C
+Petya and Staircases
+CF362B
+http://codeforces.com/problemset/problem/362/B
+Two Semiknights Meet
+CF362A
+http://codeforces.com/problemset/problem/362/A
+Levko and Permutation
+CF361B
+http://codeforces.com/problemset/problem/361/B
+Levko and Table
+CF361A
+http://codeforces.com/problemset/problem/361/A
+Levko and Game
+CF360E
+http://codeforces.com/problemset/problem/360/E
+Levko and Sets
+CF360D
+http://codeforces.com/problemset/problem/360/D
+Levko and Strings
+CF360C
+http://codeforces.com/problemset/problem/360/C
+Levko and Array
+CF360B
+http://codeforces.com/problemset/problem/360/B
+Levko and Array Recovery
+CF360A
+http://codeforces.com/problemset/problem/360/A
+Neatness
+CF359E
+http://codeforces.com/problemset/problem/359/E
+Pair of Numbers
+CF359D
+http://codeforces.com/problemset/problem/359/D
+Prime Number
+CF359C
+http://codeforces.com/problemset/problem/359/C
+Permutation
+CF359B
+http://codeforces.com/problemset/problem/359/B
+Table
+CF359A
+http://codeforces.com/problemset/problem/359/A
+Dima and Kicks
+CF358E
+http://codeforces.com/problemset/problem/358/E
+Dima and Hares
+CF358D
+http://codeforces.com/problemset/problem/358/D
+Dima and Containers
+CF358C
+http://codeforces.com/problemset/problem/358/C
+Dima and Text Messages
+CF358B
+http://codeforces.com/problemset/problem/358/B
+Dima and Continuous Line
+CF358A
+http://codeforces.com/problemset/problem/358/A
+Flag Day
+CF357B
+http://codeforces.com/problemset/problem/357/B
+Group of Students
+CF357A
+http://codeforces.com/problemset/problem/357/A
+Xenia and String Problem
+CF356E
+http://codeforces.com/problemset/problem/356/E
+Bags and Coins
+CF356D
+http://codeforces.com/problemset/problem/356/D
+Compartments
+CF356C
+http://codeforces.com/problemset/problem/356/C
+Xenia and Hamming
+CF356B
+http://codeforces.com/problemset/problem/356/B
+Knight Tournament
+CF356A
+http://codeforces.com/problemset/problem/356/A
+Vasya and Public Transport
+CF355B
+http://codeforces.com/problemset/problem/355/B
+Vasya and Digital Root
+CF355A
+http://codeforces.com/problemset/problem/355/A
+Lucky Number Representation
+CF354E
+http://codeforces.com/problemset/problem/354/E
+Transferring Pyramid
+CF354D
+http://codeforces.com/problemset/problem/354/D
+Vasya and Beautiful Arrays
+CF354C
+http://codeforces.com/problemset/problem/354/C
+Game with Strings
+CF354B
+http://codeforces.com/problemset/problem/354/B
+Vasya and Robot
+CF354A
+http://codeforces.com/problemset/problem/354/A
+Antichain
+CF353E
+http://codeforces.com/problemset/problem/353/E
+Queue
+CF353D
+http://codeforces.com/problemset/problem/353/D
+Find Maximum
+CF353C
+http://codeforces.com/problemset/problem/353/C
+Two Heaps
+CF353B
+http://codeforces.com/problemset/problem/353/B
+Domino
+CF353A
+http://codeforces.com/problemset/problem/353/A
+Jeff and Periods
+CF352B
+http://codeforces.com/problemset/problem/352/B
+Jeff and Digits
+CF352A
+http://codeforces.com/problemset/problem/352/A
+Jeff and Permutation
+CF351E
+http://codeforces.com/problemset/problem/351/E
+Jeff and Removing Periods
+CF351D
+http://codeforces.com/problemset/problem/351/D
+Jeff and Brackets
+CF351C
+http://codeforces.com/problemset/problem/351/C
+Jeff and Furik
+CF351B
+http://codeforces.com/problemset/problem/351/B
+Jeff and Rounding
+CF351A
+http://codeforces.com/problemset/problem/351/A
+Wrong Floyd
+CF350E
+http://codeforces.com/problemset/problem/350/E
+Looking for Owls
+CF350D
+http://codeforces.com/problemset/problem/350/D
+Bombs
+CF350C
+http://codeforces.com/problemset/problem/350/C
+Resort
+CF350B
+http://codeforces.com/problemset/problem/350/B
+TL
+CF350A
+http://codeforces.com/problemset/problem/350/A
+Color the Fence
+CF349B
+http://codeforces.com/problemset/problem/349/B
+Cinema Line
+CF349A
+http://codeforces.com/problemset/problem/349/A
+Pilgrims
+CF348E
+http://codeforces.com/problemset/problem/348/E
+Turtles
+CF348D
+http://codeforces.com/problemset/problem/348/D
+Subset Sums
+CF348C
+http://codeforces.com/problemset/problem/348/C
+Apple Tree
+CF348B
+http://codeforces.com/problemset/problem/348/B
+Mafia
+CF348A
+http://codeforces.com/problemset/problem/348/A
+Fixed Points
+CF347B
+http://codeforces.com/problemset/problem/347/B
+Difference Row
+CF347A
+http://codeforces.com/problemset/problem/347/A
+Doodle Jump
+CF346E
+http://codeforces.com/problemset/problem/346/E
+Robot Control
+CF346D
+http://codeforces.com/problemset/problem/346/D
+Number Transformation II
+CF346C
+http://codeforces.com/problemset/problem/346/C
+Lucky Common Subsequence
+CF346B
+http://codeforces.com/problemset/problem/346/B
+Alice and Bob
+CF346A
+http://codeforces.com/problemset/problem/346/A
+Suffix Subgroup
+CF345G
+http://codeforces.com/problemset/problem/345/G
+Superstitions Inspection
+CF345F
+http://codeforces.com/problemset/problem/345/F
+Black Cat Rush
+CF345E
+http://codeforces.com/problemset/problem/345/E
+Chain Letter
+CF345D
+http://codeforces.com/problemset/problem/345/D
+Counting Fridays
+CF345C
+http://codeforces.com/problemset/problem/345/C
+Triskaidekaphobia
+CF345B
+http://codeforces.com/problemset/problem/345/B
+Expecting Trouble
+CF345A
+http://codeforces.com/problemset/problem/345/A
+Simple Molecules
+CF344B
+http://codeforces.com/problemset/problem/344/B
+Magnets
+CF344A
+http://codeforces.com/problemset/problem/344/A
+Pumping Stations
+CF343E
+http://codeforces.com/problemset/problem/343/E
+Water Tree
+CF343D
+http://codeforces.com/problemset/problem/343/D
+Read Time
+CF343C
+http://codeforces.com/problemset/problem/343/C
+Alternating Current
+CF343B
+http://codeforces.com/problemset/problem/343/B
+Rational Resistance
+CF343A
+http://codeforces.com/problemset/problem/343/A
+Xenia and Tree
+CF342E
+http://codeforces.com/problemset/problem/342/E
+Xenia and Dominoes
+CF342D
+http://codeforces.com/problemset/problem/342/D
+Cupboard and Balloons
+CF342C
+http://codeforces.com/problemset/problem/342/C
+Xenia and Spies
+CF342B
+http://codeforces.com/problemset/problem/342/B
+Xenia and Divisors
+CF342A
+http://codeforces.com/problemset/problem/342/A
+Candies Game
+CF341E
+http://codeforces.com/problemset/problem/341/E
+Iahub and Xors
+CF341D
+http://codeforces.com/problemset/problem/341/D
+Iahub and Permutations
+CF340E
+http://codeforces.com/problemset/problem/340/E
+Bubble Sort Graph
+CF340D
+http://codeforces.com/problemset/problem/340/D
+Tourist Problem
+CF340C
+http://codeforces.com/problemset/problem/340/C
+Maximal Area Quadrilateral
+CF340B
+http://codeforces.com/problemset/problem/340/B
+The Wall
+CF340A
+http://codeforces.com/problemset/problem/340/A
+Three Swaps
+CF339E
+http://codeforces.com/problemset/problem/339/E
+Xenia and Bit Operations
+CF339D
+http://codeforces.com/problemset/problem/339/D
+Xenia and Weights
+CF339C
+http://codeforces.com/problemset/problem/339/C
+Xenia and Ringroad
+CF339B
+http://codeforces.com/problemset/problem/339/B
+Helpful Maths
+CF339A
+http://codeforces.com/problemset/problem/339/A
+Optimize!
+CF338E
+http://codeforces.com/problemset/problem/338/E
+GCD Table
+CF338D
+http://codeforces.com/problemset/problem/338/D
+Divisor Tree
+CF337E
+http://codeforces.com/problemset/problem/337/E
+Book of Evil
+CF337D
+http://codeforces.com/problemset/problem/337/D
+Quiz
+CF337C
+http://codeforces.com/problemset/problem/337/C
+Routine Problem
+CF337B
+http://codeforces.com/problemset/problem/337/B
+Puzzles
+CF337A
+http://codeforces.com/problemset/problem/337/A
+Vasily the Bear and Painting Square
+CF336E
+http://codeforces.com/problemset/problem/336/E
+Vasily the Bear and Beautiful Strings
+CF336D
+http://codeforces.com/problemset/problem/336/D
+Vasily the Bear and Sequence
+CF336C
+http://codeforces.com/problemset/problem/336/C
+Vasily the Bear and Fly
+CF336B
+http://codeforces.com/problemset/problem/336/B
+Vasily the Bear and Triangle
+CF336A
+http://codeforces.com/problemset/problem/336/A
+Buy One, Get One Free
+CF335F
+http://codeforces.com/problemset/problem/335/F
+Counting Skyscrapers
+CF335E
+http://codeforces.com/problemset/problem/335/E
+Rectangles and Square
+CF335D
+http://codeforces.com/problemset/problem/335/D
+More Reclamation
+CF335C
+http://codeforces.com/problemset/problem/335/C
+Palindrome
+CF335B
+http://codeforces.com/problemset/problem/335/B
+Banana
+CF335A
+http://codeforces.com/problemset/problem/335/A
+Eight Point Sets
+CF334B
+http://codeforces.com/problemset/problem/334/B
+Candy Bags
+CF334A
+http://codeforces.com/problemset/problem/334/A
+Summer Earnings
+CF333E
+http://codeforces.com/problemset/problem/333/E
+Characteristics of Rectangles
+CF333D
+http://codeforces.com/problemset/problem/333/D
+Lucky Tickets
+CF333C
+http://codeforces.com/problemset/problem/333/C
+Chips
+CF333B
+http://codeforces.com/problemset/problem/333/B
+Secrets
+CF333A
+http://codeforces.com/problemset/problem/333/A
+Binary Key
+CF332E
+http://codeforces.com/problemset/problem/332/E
+Theft of Blueprints
+CF332D
+http://codeforces.com/problemset/problem/332/D
+Students' Revenge
+CF332C
+http://codeforces.com/problemset/problem/332/C
+Maximum Absurdity
+CF332B
+http://codeforces.com/problemset/problem/332/B
+Down the Hatch!
+CF332A
+http://codeforces.com/problemset/problem/332/A
+Deja Vu
+CF331E2
+http://codeforces.com/problemset/problem/331/E2
+Deja Vu
+CF331E1
+http://codeforces.com/problemset/problem/331/E1
+Escaping on Beaveractor
+CF331D3
+http://codeforces.com/problemset/problem/331/D3
+Escaping on Beaveractor
+CF331D2
+http://codeforces.com/problemset/problem/331/D2
+Escaping on Beaveractor
+CF331D1
+http://codeforces.com/problemset/problem/331/D1
+The Great Julya Calendar
+CF331C3
+http://codeforces.com/problemset/problem/331/C3
+The Great Julya Calendar
+CF331C2
+http://codeforces.com/problemset/problem/331/C2
+The Great Julya Calendar
+CF331C1
+http://codeforces.com/problemset/problem/331/C1
+Shave Beaver!
+CF331B2
+http://codeforces.com/problemset/problem/331/B2
+Shave Beaver!
+CF331B1
+http://codeforces.com/problemset/problem/331/B1
+Oh Sweet Beaverette
+CF331A2
+http://codeforces.com/problemset/problem/331/A2
+Oh Sweet Beaverette
+CF331A1
+http://codeforces.com/problemset/problem/331/A1
+Road Construction
+CF330B
+http://codeforces.com/problemset/problem/330/B
+Cakeminator
+CF330A
+http://codeforces.com/problemset/problem/330/A
+Evil
+CF329E
+http://codeforces.com/problemset/problem/329/E
+The Evil Temple and the Moving Rocks
+CF329D
+http://codeforces.com/problemset/problem/329/D
+Graph Reconstruction
+CF329C
+http://codeforces.com/problemset/problem/329/C
+Biridian Forest
+CF329B
+http://codeforces.com/problemset/problem/329/B
+Purification
+CF329A
+http://codeforces.com/problemset/problem/329/A
+Sheldon and Ice Pieces
+CF328B
+http://codeforces.com/problemset/problem/328/B
+IQ Test
+CF328A
+http://codeforces.com/problemset/problem/328/A
+Axis Walking
+CF327E
+http://codeforces.com/problemset/problem/327/E
+Block Tower
+CF327D
+http://codeforces.com/problemset/problem/327/D
+Magic Five
+CF327C
+http://codeforces.com/problemset/problem/327/C
+Hungry Sequence
+CF327B
+http://codeforces.com/problemset/problem/327/B
+Flipping Game
+CF327A
+http://codeforces.com/problemset/problem/327/A
+The Red Button
+CF325E
+http://codeforces.com/problemset/problem/325/E
+Reclamation
+CF325D
+http://codeforces.com/problemset/problem/325/D
+Monsters and Diamonds
+CF325C
+http://codeforces.com/problemset/problem/325/C
+Stadium and Games
+CF325B
+http://codeforces.com/problemset/problem/325/B
+Square and Rectangles
+CF325A
+http://codeforces.com/problemset/problem/325/A
+Two permutations
+CF323C
+http://codeforces.com/problemset/problem/323/C
+Tournament-graph
+CF323B
+http://codeforces.com/problemset/problem/323/B
+Black-and-White Cube
+CF323A
+http://codeforces.com/problemset/problem/323/A
+Ciel and Flowers
+CF322B
+http://codeforces.com/problemset/problem/322/B
+Ciel and Dancing
+CF322A
+http://codeforces.com/problemset/problem/322/A
+Ciel and Gondolas
+CF321E
+http://codeforces.com/problemset/problem/321/E
+Ciel and Flipboard
+CF321D
+http://codeforces.com/problemset/problem/321/D
+Ciel the Commander
+CF321C
+http://codeforces.com/problemset/problem/321/C
+Ciel and Duel
+CF321B
+http://codeforces.com/problemset/problem/321/B
+Ciel and Robot
+CF321A
+http://codeforces.com/problemset/problem/321/A
+Ping-Pong (Easy Version)
+CF320B
+http://codeforces.com/problemset/problem/320/B
+Magic Numbers
+CF320A
+http://codeforces.com/problemset/problem/320/A
+Ping-Pong
+CF319E
+http://codeforces.com/problemset/problem/319/E
+Have You Ever Heard About the Word?
+CF319D
+http://codeforces.com/problemset/problem/319/D
+Kalila and Dimna in the Logging Industry
+CF319C
+http://codeforces.com/problemset/problem/319/C
+Psychos in a Line
+CF319B
+http://codeforces.com/problemset/problem/319/B
+Malek Dance Club
+CF319A
+http://codeforces.com/problemset/problem/319/A
+Strings of Power
+CF318B
+http://codeforces.com/problemset/problem/318/B
+Even Odds
+CF318A
+http://codeforces.com/problemset/problem/318/A
+Princess and Her Shadow
+CF317E
+http://codeforces.com/problemset/problem/317/E
+Game with Powers
+CF317D
+http://codeforces.com/problemset/problem/317/D
+Balance
+CF317C
+http://codeforces.com/problemset/problem/317/C
+Ants
+CF317B
+http://codeforces.com/problemset/problem/317/B
+Perfect Pair
+CF317A
+http://codeforces.com/problemset/problem/317/A
+Good Substrings
+CF316G3
+http://codeforces.com/problemset/problem/316/G3
+Good Substrings
+CF316G2
+http://codeforces.com/problemset/problem/316/G2
+Good Substrings
+CF316G1
+http://codeforces.com/problemset/problem/316/G1
+Suns and Rays
+CF316F3
+http://codeforces.com/problemset/problem/316/F3
+Suns and Rays
+CF316F2
+http://codeforces.com/problemset/problem/316/F2
+Suns and Rays
+CF316F1
+http://codeforces.com/problemset/problem/316/F1
+Summer Homework
+CF316E3
+http://codeforces.com/problemset/problem/316/E3
+Summer Homework
+CF316E2
+http://codeforces.com/problemset/problem/316/E2
+Summer Homework
+CF316E1
+http://codeforces.com/problemset/problem/316/E1
+PE Lesson
+CF316D3
+http://codeforces.com/problemset/problem/316/D3
+PE Lesson
+CF316D2
+http://codeforces.com/problemset/problem/316/D2
+PE Lesson
+CF316D1
+http://codeforces.com/problemset/problem/316/D1
+Tidying Up
+CF316C2
+http://codeforces.com/problemset/problem/316/C2
+Tidying Up
+CF316C1
+http://codeforces.com/problemset/problem/316/C1
+EKG
+CF316B2
+http://codeforces.com/problemset/problem/316/B2
+EKG
+CF316B1
+http://codeforces.com/problemset/problem/316/B1
+Special Task
+CF316A2
+http://codeforces.com/problemset/problem/316/A2
+Special Task
+CF316A1
+http://codeforces.com/problemset/problem/316/A1
+Sereja and Array
+CF315B
+http://codeforces.com/problemset/problem/315/B
+Sereja and Bottles
+CF315A
+http://codeforces.com/problemset/problem/315/A
+Sereja and Squares
+CF314E
+http://codeforces.com/problemset/problem/314/E
+Sereja and Straight Lines
+CF314D
+http://codeforces.com/problemset/problem/314/D
+Sereja and Subsequences
+CF314C
+http://codeforces.com/problemset/problem/314/C
+Sereja and Periods
+CF314B
+http://codeforces.com/problemset/problem/314/B
+Sereja and Contest
+CF314A
+http://codeforces.com/problemset/problem/314/A
+Ilya and Two Numbers
+CF313E
+http://codeforces.com/problemset/problem/313/E
+Ilya and Roads
+CF313D
+http://codeforces.com/problemset/problem/313/D
+Ilya and Matrix
+CF313C
+http://codeforces.com/problemset/problem/313/C
+Ilya and Queries
+CF313B
+http://codeforces.com/problemset/problem/313/B
+Ilya and Bank Account
+CF313A
+http://codeforces.com/problemset/problem/313/A
+Archer
+CF312B
+http://codeforces.com/problemset/problem/312/B
+Whose sentence is it?
+CF312A
+http://codeforces.com/problemset/problem/312/A
+Biologist
+CF311E
+http://codeforces.com/problemset/problem/311/E
+Interval Cubing
+CF311D
+http://codeforces.com/problemset/problem/311/D
+Fetch the Treasure
+CF311C
+http://codeforces.com/problemset/problem/311/C
+Cats Transport
+CF311B
+http://codeforces.com/problemset/problem/311/B
+The Closest Pair
+CF311A
+http://codeforces.com/problemset/problem/311/A
+Sheep
+CF309E
+http://codeforces.com/problemset/problem/309/E
+Tennis Rackets
+CF309D
+http://codeforces.com/problemset/problem/309/D
+Memory for Arrays
+CF309C
+http://codeforces.com/problemset/problem/309/C
+Context Advertising
+CF309B
+http://codeforces.com/problemset/problem/309/B
+Morning run
+CF309A
+http://codeforces.com/problemset/problem/309/A
+Polygon
+CF306D
+http://codeforces.com/problemset/problem/306/D
+White, Black and White Again
+CF306C
+http://codeforces.com/problemset/problem/306/C
+Optimizer
+CF306B
+http://codeforces.com/problemset/problem/306/B
+Candies
+CF306A
+http://codeforces.com/problemset/problem/306/A
+Playing with String
+CF305E
+http://codeforces.com/problemset/problem/305/E
+Olya and Graph
+CF305D
+http://codeforces.com/problemset/problem/305/D
+Ivan and Powers of Two
+CF305C
+http://codeforces.com/problemset/problem/305/C
+Continued Fractions
+CF305B
+http://codeforces.com/problemset/problem/305/B
+Strange Addition
+CF305A
+http://codeforces.com/problemset/problem/305/A
+Calendar
+CF304B
+http://codeforces.com/problemset/problem/304/B
+Pythagorean Theorem II
+CF304A
+http://codeforces.com/problemset/problem/304/A
+Random Ranking
+CF303E
+http://codeforces.com/problemset/problem/303/E
+Rotatable Number
+CF303D
+http://codeforces.com/problemset/problem/303/D
+Minimum Modular
+CF303C
+http://codeforces.com/problemset/problem/303/C
+Rectangle Puzzle II
+CF303B
+http://codeforces.com/problemset/problem/303/B
+Lucky Permutation Triple
+CF303A
+http://codeforces.com/problemset/problem/303/A
+Eugeny and Play List
+CF302B
+http://codeforces.com/problemset/problem/302/B
+Eugeny and Array
+CF302A
+http://codeforces.com/problemset/problem/302/A
+Yaroslav and Arrangements
+CF301E
+http://codeforces.com/problemset/problem/301/E
+Yaroslav and Divisors
+CF301D
+http://codeforces.com/problemset/problem/301/D
+Yaroslav and Algorithm
+CF301C
+http://codeforces.com/problemset/problem/301/C
+Yaroslav and Time
+CF301B
+http://codeforces.com/problemset/problem/301/B
+Yaroslav and Sequence
+CF301A
+http://codeforces.com/problemset/problem/301/A
+Empire Strikes Back
+CF300E
+http://codeforces.com/problemset/problem/300/E
+Painting Square
+CF300D
+http://codeforces.com/problemset/problem/300/D
+Beautiful Numbers
+CF300C
+http://codeforces.com/problemset/problem/300/C
+Coach
+CF300B
+http://codeforces.com/problemset/problem/300/B
+Array
+CF300A
+http://codeforces.com/problemset/problem/300/A
+Ksusha the Squirrel
+CF299B
+http://codeforces.com/problemset/problem/299/B
+Ksusha and Array
+CF299A
+http://codeforces.com/problemset/problem/299/A
+Sail
+CF298B
+http://codeforces.com/problemset/problem/298/B
+Snow Footprints
+CF298A
+http://codeforces.com/problemset/problem/298/A
+Mystic Carvings
+CF297E
+http://codeforces.com/problemset/problem/297/E
+Color the Carpet
+CF297D
+http://codeforces.com/problemset/problem/297/D
+Splitting the Uniqueness
+CF297C
+http://codeforces.com/problemset/problem/297/C
+Fish Weight
+CF297B
+http://codeforces.com/problemset/problem/297/B
+Parity Game
+CF297A
+http://codeforces.com/problemset/problem/297/A
+Yaroslav and Two Strings
+CF296B
+http://codeforces.com/problemset/problem/296/B
+Yaroslav and Permutations
+CF296A
+http://codeforces.com/problemset/problem/296/A
+Yaroslav and Points
+CF295E
+http://codeforces.com/problemset/problem/295/E
+Greg and Caves
+CF295D
+http://codeforces.com/problemset/problem/295/D
+Greg and Friends
+CF295C
+http://codeforces.com/problemset/problem/295/C
+Greg and Graph
+CF295B
+http://codeforces.com/problemset/problem/295/B
+Greg and Array
+CF295A
+http://codeforces.com/problemset/problem/295/A
+Shaass the Great
+CF294E
+http://codeforces.com/problemset/problem/294/E
+Shaass and Painter Robot
+CF294D
+http://codeforces.com/problemset/problem/294/D
+Shaass and Lights
+CF294C
+http://codeforces.com/problemset/problem/294/C
+Shaass and Bookshelf
+CF294B
+http://codeforces.com/problemset/problem/294/B
+Shaass and Oskols
+CF294A
+http://codeforces.com/problemset/problem/294/A
+Close Vertices
+CF293E
+http://codeforces.com/problemset/problem/293/E
+Ksusha and Square
+CF293D
+http://codeforces.com/problemset/problem/293/D
+Cube Problem
+CF293C
+http://codeforces.com/problemset/problem/293/C
+Distinct Paths
+CF293B
+http://codeforces.com/problemset/problem/293/B
+Weird Game
+CF293A
+http://codeforces.com/problemset/problem/293/A
+Copying Data
+CF292E
+http://codeforces.com/problemset/problem/292/E
+Connected Components
+CF292D
+http://codeforces.com/problemset/problem/292/D
+Beautiful IP Addresses
+CF292C
+http://codeforces.com/problemset/problem/292/C
+Network Topology
+CF292B
+http://codeforces.com/problemset/problem/292/B
+SMSC
+CF292A
+http://codeforces.com/problemset/problem/292/A
+Tree-String Problem
+CF291E
+http://codeforces.com/problemset/problem/291/E
+Parallel Programming
+CF291D
+http://codeforces.com/problemset/problem/291/D
+Network Mask
+CF291C
+http://codeforces.com/problemset/problem/291/C
+Command Line Arguments
+CF291B
+http://codeforces.com/problemset/problem/291/B
+Spyke Talks
+CF291A
+http://codeforces.com/problemset/problem/291/A
+Greedy Petya
+CF290F
+http://codeforces.com/problemset/problem/290/F
+HQ
+CF290E
+http://codeforces.com/problemset/problem/290/E
+Orange
+CF290D
+http://codeforces.com/problemset/problem/290/D
+WTF?
+CF290C
+http://codeforces.com/problemset/problem/290/C
+QR code
+CF290B
+http://codeforces.com/problemset/problem/290/B
+Mysterious strings
+CF290A
+http://codeforces.com/problemset/problem/290/A
+Polo the Penguin and Matrix
+CF289B
+http://codeforces.com/problemset/problem/289/B
+Polo the Penguin and Segments
+CF289A
+http://codeforces.com/problemset/problem/289/A
+Polo the Penguin and Lucky Numbers
+CF288E
+http://codeforces.com/problemset/problem/288/E
+Polo the Penguin and Trees
+CF288D
+http://codeforces.com/problemset/problem/288/D
+Polo the Penguin and XOR operation
+CF288C
+http://codeforces.com/problemset/problem/288/C
+Polo the Penguin and Houses
+CF288B
+http://codeforces.com/problemset/problem/288/B
+Polo the Penguin and Strings
+CF288A
+http://codeforces.com/problemset/problem/288/A
+Pipeline
+CF287B
+http://codeforces.com/problemset/problem/287/B
+IQ Test
+CF287A
+http://codeforces.com/problemset/problem/287/A
+Ladies' Shop
+CF286E
+http://codeforces.com/problemset/problem/286/E
+Tourists
+CF286D
+http://codeforces.com/problemset/problem/286/D
+Main Sequence
+CF286C
+http://codeforces.com/problemset/problem/286/C
+Shifting
+CF286B
+http://codeforces.com/problemset/problem/286/B
+Lucky Permutation
+CF286A
+http://codeforces.com/problemset/problem/286/A
+Positions in Permutations
+CF285E
+http://codeforces.com/problemset/problem/285/E
+Permutation Sum
+CF285D
+http://codeforces.com/problemset/problem/285/D
+Building Permutation
+CF285C
+http://codeforces.com/problemset/problem/285/C
+Find Marble
+CF285B
+http://codeforces.com/problemset/problem/285/B
+Slightly Decreasing Permutations
+CF285A
+http://codeforces.com/problemset/problem/285/A
+Cows and Poker Game
+CF284B
+http://codeforces.com/problemset/problem/284/B
+Cows and Primitive Roots
+CF284A
+http://codeforces.com/problemset/problem/284/A
+Cow Tennis Tournament
+CF283E
+http://codeforces.com/problemset/problem/283/E
+Cows and Cool Sequences
+CF283D
+http://codeforces.com/problemset/problem/283/D
+Coin Troubles
+CF283C
+http://codeforces.com/problemset/problem/283/C
+Cow Program
+CF283B
+http://codeforces.com/problemset/problem/283/B
+Cows and Sequence
+CF283A
+http://codeforces.com/problemset/problem/283/A
+Sausage Maximization
+CF282E
+http://codeforces.com/problemset/problem/282/E
+Yet Another Number Game
+CF282D
+http://codeforces.com/problemset/problem/282/D
+XOR and OR
+CF282C
+http://codeforces.com/problemset/problem/282/C
+Painting Eggs
+CF282B
+http://codeforces.com/problemset/problem/282/B
+Bit++
+CF282A
+http://codeforces.com/problemset/problem/282/A
+Nearest Fraction
+CF281B
+http://codeforces.com/problemset/problem/281/B
+Word Capitalization
+CF281A
+http://codeforces.com/problemset/problem/281/A
+Sequence Transformation
+CF280E
+http://codeforces.com/problemset/problem/280/E
+k-Maximum Subsequence Sum
+CF280D
+http://codeforces.com/problemset/problem/280/D
+Game on Tree
+CF280C
+http://codeforces.com/problemset/problem/280/C
+Maximum Xor Secondary
+CF280B
+http://codeforces.com/problemset/problem/280/B
+Rectangle Puzzle
+CF280A
+http://codeforces.com/problemset/problem/280/A
+Beautiful Decomposition
+CF279E
+http://codeforces.com/problemset/problem/279/E
+The Minimum Number of Variables
+CF279D
+http://codeforces.com/problemset/problem/279/D
+Ladder
+CF279C
+http://codeforces.com/problemset/problem/279/C
+Books
+CF279B
+http://codeforces.com/problemset/problem/279/B
+Point on Spiral
+CF279A
+http://codeforces.com/problemset/problem/279/A
+New Problem
+CF278B
+http://codeforces.com/problemset/problem/278/B
+Circle Line
+CF278A
+http://codeforces.com/problemset/problem/278/A
+Binary Tree on Plane
+CF277E
+http://codeforces.com/problemset/problem/277/E
+Google Code Jam
+CF277D
+http://codeforces.com/problemset/problem/277/D
+Game
+CF277C
+http://codeforces.com/problemset/problem/277/C
+Set of Points
+CF277B
+http://codeforces.com/problemset/problem/277/B
+Learning Languages
+CF277A
+http://codeforces.com/problemset/problem/277/A
+Little Girl and Problem on Trees
+CF276E
+http://codeforces.com/problemset/problem/276/E
+Little Girl and Maximum XOR
+CF276D
+http://codeforces.com/problemset/problem/276/D
+Little Girl and Maximum Sum
+CF276C
+http://codeforces.com/problemset/problem/276/C
+Little Girl and Game
+CF276B
+http://codeforces.com/problemset/problem/276/B
+Lunch Rush
+CF276A
+http://codeforces.com/problemset/problem/276/A
+Convex Shape
+CF275B
+http://codeforces.com/problemset/problem/275/B
+Lights Out
+CF275A
+http://codeforces.com/problemset/problem/275/A
+Mirror Room
+CF274E
+http://codeforces.com/problemset/problem/274/E
+Lovely Matrix
+CF274D
+http://codeforces.com/problemset/problem/274/D
+The Last Hole!
+CF274C
+http://codeforces.com/problemset/problem/274/C
+Zero Tree
+CF274B
+http://codeforces.com/problemset/problem/274/B
+k-Multiple Free Set
+CF274A
+http://codeforces.com/problemset/problem/274/A
+Dima and Game
+CF273E
+http://codeforces.com/problemset/problem/273/E
+Dima and Figure
+CF273D
+http://codeforces.com/problemset/problem/273/D
+Dima and Horses
+CF272E
+http://codeforces.com/problemset/problem/272/E
+Dima and Two Sequences
+CF272D
+http://codeforces.com/problemset/problem/272/D
+Dima and Staircase
+CF272C
+http://codeforces.com/problemset/problem/272/C
+Dima and Sequence
+CF272B
+http://codeforces.com/problemset/problem/272/B
+Dima and Friends
+CF272A
+http://codeforces.com/problemset/problem/272/A
+Three Horses
+CF271E
+http://codeforces.com/problemset/problem/271/E
+Good Substrings
+CF271D
+http://codeforces.com/problemset/problem/271/D
+Secret
+CF271C
+http://codeforces.com/problemset/problem/271/C
+Prime Matrix
+CF271B
+http://codeforces.com/problemset/problem/271/B
+Beautiful Year
+CF271A
+http://codeforces.com/problemset/problem/271/A
+Multithreading
+CF270B
+http://codeforces.com/problemset/problem/270/B
+Fancy Fence
+CF270A
+http://codeforces.com/problemset/problem/270/A
+String Theory
+CF269E
+http://codeforces.com/problemset/problem/269/E
+Maximum Waterfall
+CF269D
+http://codeforces.com/problemset/problem/269/D
+Flawed Flow
+CF269C
+http://codeforces.com/problemset/problem/269/C
+Greenhouse Effect
+CF269B
+http://codeforces.com/problemset/problem/269/B
+Magical Boxes
+CF269A
+http://codeforces.com/problemset/problem/269/A
+Playlist
+CF268E
+http://codeforces.com/problemset/problem/268/E
+Wall Bars
+CF268D
+http://codeforces.com/problemset/problem/268/D
+Beautiful Sets of Points
+CF268C
+http://codeforces.com/problemset/problem/268/C
+Buttons
+CF268B
+http://codeforces.com/problemset/problem/268/B
+Games
+CF268A
+http://codeforces.com/problemset/problem/268/A
+Berland Traffic
+CF267C
+http://codeforces.com/problemset/problem/267/C
+Dominoes
+CF267B
+http://codeforces.com/problemset/problem/267/B
+Subtractions
+CF267A
+http://codeforces.com/problemset/problem/267/A
+More Queries to Array...
+CF266E
+http://codeforces.com/problemset/problem/266/E
+BerDonalds
+CF266D
+http://codeforces.com/problemset/problem/266/D
+Below the Diagonal
+CF266C
+http://codeforces.com/problemset/problem/266/C
+Queue at the School
+CF266B
+http://codeforces.com/problemset/problem/266/B
+Stones on the Table
+CF266A
+http://codeforces.com/problemset/problem/266/A
+Roadside Trees (Simplified Edition)
+CF265B
+http://codeforces.com/problemset/problem/265/B
+Colorful Stones (Simplified Edition)
+CF265A
+http://codeforces.com/problemset/problem/265/A
+Roadside Trees
+CF264E
+http://codeforces.com/problemset/problem/264/E
+Colorful Stones
+CF264D
+http://codeforces.com/problemset/problem/264/D
+Choosing Balls
+CF264C
+http://codeforces.com/problemset/problem/264/C
+Good Sequences
+CF264B
+http://codeforces.com/problemset/problem/264/B
+Escape from Stones
+CF264A
+http://codeforces.com/problemset/problem/264/A
+Rhombus
+CF263E
+http://codeforces.com/problemset/problem/263/E
+Cycle in Graph
+CF263D
+http://codeforces.com/problemset/problem/263/D
+Circle of Numbers
+CF263C
+http://codeforces.com/problemset/problem/263/C
+Squares
+CF263B
+http://codeforces.com/problemset/problem/263/B
+Beautiful Matrix
+CF263A
+http://codeforces.com/problemset/problem/263/A
+Roma and Changing Signs
+CF262B
+http://codeforces.com/problemset/problem/262/B
+Roma and Lucky Numbers
+CF262A
+http://codeforces.com/problemset/problem/262/A
+Maxim and Calculator
+CF261E
+http://codeforces.com/problemset/problem/261/E
+Maxim and Increasing Subsequence
+CF261D
+http://codeforces.com/problemset/problem/261/D
+Maxim and Matrix
+CF261C
+http://codeforces.com/problemset/problem/261/C
+Maxim and Restaurant
+CF261B
+http://codeforces.com/problemset/problem/261/B
+Maxim and Discounts
+CF261A
+http://codeforces.com/problemset/problem/261/A
+Dividing Kingdom
+CF260E
+http://codeforces.com/problemset/problem/260/E
+Black and White Tree
+CF260D
+http://codeforces.com/problemset/problem/260/D
+Balls and Boxes
+CF260C
+http://codeforces.com/problemset/problem/260/C
+Ancient Prophesy
+CF260B
+http://codeforces.com/problemset/problem/260/B
+Adding Digits
+CF260A
+http://codeforces.com/problemset/problem/260/A
+Little Elephant and Magic Square
+CF259B
+http://codeforces.com/problemset/problem/259/B
+Little Elephant and Chess
+CF259A
+http://codeforces.com/problemset/problem/259/A
+Little Elephant and Tree
+CF258E
+http://codeforces.com/problemset/problem/258/E
+Little Elephant and Broken Sorting
+CF258D
+http://codeforces.com/problemset/problem/258/D
+Little Elephant and LCM
+CF258C
+http://codeforces.com/problemset/problem/258/C
+Little Elephant and Elections
+CF258B
+http://codeforces.com/problemset/problem/258/B
+Little Elephant and Bits
+CF258A
+http://codeforces.com/problemset/problem/258/A
+Greedy Elevator
+CF257E
+http://codeforces.com/problemset/problem/257/E
+Sum
+CF257D
+http://codeforces.com/problemset/problem/257/D
+View Angle
+CF257C
+http://codeforces.com/problemset/problem/257/C
+Playing Cubes
+CF257B
+http://codeforces.com/problemset/problem/257/B
+Sockets
+CF257A
+http://codeforces.com/problemset/problem/257/A
+Lucky Arrays
+CF256E
+http://codeforces.com/problemset/problem/256/E
+Liars and Serge
+CF256D
+http://codeforces.com/problemset/problem/256/D
+Furlo and Rublo and Game
+CF255E
+http://codeforces.com/problemset/problem/255/E
+Mr. Bender and Square
+CF255D
+http://codeforces.com/problemset/problem/255/D
+Almost Arithmetical Progression
+CF255C
+http://codeforces.com/problemset/problem/255/C
+Code Parsing
+CF255B
+http://codeforces.com/problemset/problem/255/B
+Greg's Workout
+CF255A
+http://codeforces.com/problemset/problem/255/A
+Dormitory
+CF254E
+http://codeforces.com/problemset/problem/254/E
+Rats
+CF254D
+http://codeforces.com/problemset/problem/254/D
+Anagram
+CF254C
+http://codeforces.com/problemset/problem/254/C
+Jury Size
+CF254B
+http://codeforces.com/problemset/problem/254/B
+Cards with Numbers
+CF254A
+http://codeforces.com/problemset/problem/254/A
+Printer
+CF253E
+http://codeforces.com/problemset/problem/253/E
+Table with Letters - 2
+CF253D
+http://codeforces.com/problemset/problem/253/D
+Text Editor
+CF253C
+http://codeforces.com/problemset/problem/253/C
+Physics Practical
+CF253B
+http://codeforces.com/problemset/problem/253/B
+Boys and Girls
+CF253A
+http://codeforces.com/problemset/problem/253/A
+Unsorting Array
+CF252B
+http://codeforces.com/problemset/problem/252/B
+Little Xor
+CF252A
+http://codeforces.com/problemset/problem/252/A
+Tree and Table
+CF251E
+http://codeforces.com/problemset/problem/251/E
+Two Sets
+CF251D
+http://codeforces.com/problemset/problem/251/D
+Number Transformation
+CF251C
+http://codeforces.com/problemset/problem/251/C
+Playing with Permutations
+CF251B
+http://codeforces.com/problemset/problem/251/B
+Points on Line
+CF251A
+http://codeforces.com/problemset/problem/251/A
+Mad Joe
+CF250E
+http://codeforces.com/problemset/problem/250/E
+Building Bridge
+CF250D
+http://codeforces.com/problemset/problem/250/D
+Movie Critics
+CF250C
+http://codeforces.com/problemset/problem/250/C
+Restoring IPv6
+CF250B
+http://codeforces.com/problemset/problem/250/B
+Paper Work
+CF250A
+http://codeforces.com/problemset/problem/250/A
+Endless Matrix
+CF249E
+http://codeforces.com/problemset/problem/249/E
+Donkey and Stars
+CF249D
+http://codeforces.com/problemset/problem/249/D
+Piglet's Birthday
+CF248E
+http://codeforces.com/problemset/problem/248/E
+Sweets for Everyone!
+CF248D
+http://codeforces.com/problemset/problem/248/D
+Robo-Footballer
+CF248C
+http://codeforces.com/problemset/problem/248/C
+Chilly Willy
+CF248B
+http://codeforces.com/problemset/problem/248/B
+Cupboards
+CF248A
+http://codeforces.com/problemset/problem/248/A
+Blood Cousins Return
+CF246E
+http://codeforces.com/problemset/problem/246/E
+Colorful Graph
+CF246D
+http://codeforces.com/problemset/problem/246/D
+Beauty Pageant
+CF246C
+http://codeforces.com/problemset/problem/246/C
+Increase and Decrease
+CF246B
+http://codeforces.com/problemset/problem/246/B
+Buggy Sorting
+CF246A
+http://codeforces.com/problemset/problem/246/A
+Queries for Number of Palindromes
+CF245H
+http://codeforces.com/problemset/problem/245/H
+Suggested Friends
+CF245G
+http://codeforces.com/problemset/problem/245/G
+Log Stream Analysis
+CF245F
+http://codeforces.com/problemset/problem/245/F
+Mishap in Club
+CF245E
+http://codeforces.com/problemset/problem/245/E
+Restoring Table
+CF245D
+http://codeforces.com/problemset/problem/245/D
+Game with Coins
+CF245C
+http://codeforces.com/problemset/problem/245/C
+Internet Address
+CF245B
+http://codeforces.com/problemset/problem/245/B
+System Administrator
+CF245A
+http://codeforces.com/problemset/problem/245/A
+Undoubtedly Lucky Numbers
+CF244B
+http://codeforces.com/problemset/problem/244/B
+Dividing Orange
+CF244A
+http://codeforces.com/problemset/problem/244/A
+Matrix
+CF243E
+http://codeforces.com/problemset/problem/243/E
+Cubes
+CF243D
+http://codeforces.com/problemset/problem/243/D
+Colorado Potato Beetle
+CF243C
+http://codeforces.com/problemset/problem/243/C
+Hydra
+CF243B
+http://codeforces.com/problemset/problem/243/B
+The Brand New Function
+CF243A
+http://codeforces.com/problemset/problem/243/A
+XOR on Segment
+CF242E
+http://codeforces.com/problemset/problem/242/E
+Dispute
+CF242D
+http://codeforces.com/problemset/problem/242/D
+King's Path
+CF242C
+http://codeforces.com/problemset/problem/242/C
+Big Segment
+CF242B
+http://codeforces.com/problemset/problem/242/B
+Heads or Tails
+CF242A
+http://codeforces.com/problemset/problem/242/A
+Challenging Balloons
+CF241G
+http://codeforces.com/problemset/problem/241/G
+Race
+CF241F
+http://codeforces.com/problemset/problem/241/F
+Flights
+CF241E
+http://codeforces.com/problemset/problem/241/E
+Numbers
+CF241D
+http://codeforces.com/problemset/problem/241/D
+Mirror Box
+CF241C
+http://codeforces.com/problemset/problem/241/C
+Friends
+CF241B
+http://codeforces.com/problemset/problem/241/B
+Old Peykan
+CF241A
+http://codeforces.com/problemset/problem/241/A
+TorCoder
+CF240F
+http://codeforces.com/problemset/problem/240/F
+Road Repairs
+CF240E
+http://codeforces.com/problemset/problem/240/E
+Easy Tape Programming
+CF239B
+http://codeforces.com/problemset/problem/239/B
+Two Bags of Potatoes
+CF239A
+http://codeforces.com/problemset/problem/239/A
+Meeting Her
+CF238E
+http://codeforces.com/problemset/problem/238/E
+Tape Programming
+CF238D
+http://codeforces.com/problemset/problem/238/D
+World Eater Brothers
+CF238C
+http://codeforces.com/problemset/problem/238/C
+Boring Partition
+CF238B
+http://codeforces.com/problemset/problem/238/B
+Not Wool Sequences
+CF238A
+http://codeforces.com/problemset/problem/238/A
+Build String
+CF237E
+http://codeforces.com/problemset/problem/237/E
+T-decomposition
+CF237D
+http://codeforces.com/problemset/problem/237/D
+Primes on Interval
+CF237C
+http://codeforces.com/problemset/problem/237/C
+Young Table
+CF237B
+http://codeforces.com/problemset/problem/237/B
+Free Cash
+CF237A
+http://codeforces.com/problemset/problem/237/A
+Easy Number Challenge
+CF236B
+http://codeforces.com/problemset/problem/236/B
+Boy or Girl
+CF236A
+http://codeforces.com/problemset/problem/236/A
+Number Challenge
+CF235E
+http://codeforces.com/problemset/problem/235/E
+Graph Game
+CF235D
+http://codeforces.com/problemset/problem/235/D
+Cyclical Quest
+CF235C
+http://codeforces.com/problemset/problem/235/C
+Let's Play Osu!
+CF235B
+http://codeforces.com/problemset/problem/235/B
+LCM Challenge
+CF235A
+http://codeforces.com/problemset/problem/235/A
+Merging Two Decks
+CF234H
+http://codeforces.com/problemset/problem/234/H
+Practice
+CF234G
+http://codeforces.com/problemset/problem/234/G
+Fence
+CF234F
+http://codeforces.com/problemset/problem/234/F
+Champions' League
+CF234E
+http://codeforces.com/problemset/problem/234/E
+Cinema
+CF234D
+http://codeforces.com/problemset/problem/234/D
+Weather
+CF234C
+http://codeforces.com/problemset/problem/234/C
+Reading
+CF234B
+http://codeforces.com/problemset/problem/234/B
+Lefthanders and Righthanders
+CF234A
+http://codeforces.com/problemset/problem/234/A
+Non-square Equation
+CF233B
+http://codeforces.com/problemset/problem/233/B
+Perfect Permutation
+CF233A
+http://codeforces.com/problemset/problem/233/A
+Quick Tortoise
+CF232E
+http://codeforces.com/problemset/problem/232/E
+Fence
+CF232D
+http://codeforces.com/problemset/problem/232/D
+Doe Graphs
+CF232C
+http://codeforces.com/problemset/problem/232/C
+Table
+CF232B
+http://codeforces.com/problemset/problem/232/B
+Cycles
+CF232A
+http://codeforces.com/problemset/problem/232/A
+Cactus
+CF231E
+http://codeforces.com/problemset/problem/231/E
+Magic Box
+CF231D
+http://codeforces.com/problemset/problem/231/D
+To Add or Not to Add
+CF231C
+http://codeforces.com/problemset/problem/231/C
+Magic, Wizardry and Wonders
+CF231B
+http://codeforces.com/problemset/problem/231/B
+Team
+CF231A
+http://codeforces.com/problemset/problem/231/A
+T-primes
+CF230B
+http://codeforces.com/problemset/problem/230/B
+Dragons
+CF230A
+http://codeforces.com/problemset/problem/230/A
+Gifts
+CF229E
+http://codeforces.com/problemset/problem/229/E
+Towers
+CF229D
+http://codeforces.com/problemset/problem/229/D
+Triangles
+CF229C
+http://codeforces.com/problemset/problem/229/C
+Planets
+CF229B
+http://codeforces.com/problemset/problem/229/B
+Shifts
+CF229A
+http://codeforces.com/problemset/problem/229/A
+The Road to Berland is Paved With Good Intentions
+CF228E
+http://codeforces.com/problemset/problem/228/E
+Zigzag
+CF228D
+http://codeforces.com/problemset/problem/228/D
+Fractal Detector
+CF228C
+http://codeforces.com/problemset/problem/228/C
+Two Tables
+CF228B
+http://codeforces.com/problemset/problem/228/B
+Is your horseshoe on the other hoof?
+CF228A
+http://codeforces.com/problemset/problem/228/A
+Effective Approach
+CF227B
+http://codeforces.com/problemset/problem/227/B
+Where do I Turn?
+CF227A
+http://codeforces.com/problemset/problem/227/A
+Noble Knight's Path
+CF226E
+http://codeforces.com/problemset/problem/226/E
+The table
+CF226D
+http://codeforces.com/problemset/problem/226/D
+Anniversary
+CF226C
+http://codeforces.com/problemset/problem/226/C
+Naughty Stone Piles
+CF226B
+http://codeforces.com/problemset/problem/226/B
+Flying Saucer Segments
+CF226A
+http://codeforces.com/problemset/problem/226/A
+Unsolvable
+CF225E
+http://codeforces.com/problemset/problem/225/E
+Snake
+CF225D
+http://codeforces.com/problemset/problem/225/D
+Barcode
+CF225C
+http://codeforces.com/problemset/problem/225/C
+Well-known Numbers
+CF225B
+http://codeforces.com/problemset/problem/225/B
+Dice Tower
+CF225A
+http://codeforces.com/problemset/problem/225/A
+Array
+CF224B
+http://codeforces.com/problemset/problem/224/B
+Parallelepiped
+CF224A
+http://codeforces.com/problemset/problem/224/A
+Planar Graph
+CF223E
+http://codeforces.com/problemset/problem/223/E
+Spider
+CF223D
+http://codeforces.com/problemset/problem/223/D
+Partial Sums
+CF223C
+http://codeforces.com/problemset/problem/223/C
+Two Strings
+CF223B
+http://codeforces.com/problemset/problem/223/B
+Bracket Sequence
+CF223A
+http://codeforces.com/problemset/problem/223/A
+Decoding Genome
+CF222E
+http://codeforces.com/problemset/problem/222/E
+Olympiad
+CF222D
+http://codeforces.com/problemset/problem/222/D
+Reducing Fractions
+CF222C
+http://codeforces.com/problemset/problem/222/C
+Cosmic Tables
+CF222B
+http://codeforces.com/problemset/problem/222/B
+Shooshuns and Sequence
+CF222A
+http://codeforces.com/problemset/problem/222/A
+Little Elephant and Numbers
+CF221B
+http://codeforces.com/problemset/problem/221/B
+Little Elephant and Function
+CF221A
+http://codeforces.com/problemset/problem/221/A
+Little Elephant and Inversions
+CF220E
+http://codeforces.com/problemset/problem/220/E
+Little Elephant and Triangle
+CF220D
+http://codeforces.com/problemset/problem/220/D
+Little Elephant and Shifts
+CF220C
+http://codeforces.com/problemset/problem/220/C
+Little Elephant and Array
+CF220B
+http://codeforces.com/problemset/problem/220/B
+Little Elephant and Problem
+CF220A
+http://codeforces.com/problemset/problem/220/A
+Parking Lot
+CF219E
+http://codeforces.com/problemset/problem/219/E
+Choosing Capital for Treeland
+CF219D
+http://codeforces.com/problemset/problem/219/D
+Color Stripe
+CF219C
+http://codeforces.com/problemset/problem/219/C
+Special Offer! Super Price 999 Bourles!
+CF219B
+http://codeforces.com/problemset/problem/219/B
+k-String
+CF219A
+http://codeforces.com/problemset/problem/219/A
+Airport
+CF218B
+http://codeforces.com/problemset/problem/218/B
+Mountain Scenery
+CF218A
+http://codeforces.com/problemset/problem/218/A
+Alien DNA
+CF217E
+http://codeforces.com/problemset/problem/217/E
+Bitonix' Patrol
+CF217D
+http://codeforces.com/problemset/problem/217/D
+Formurosa
+CF217C
+http://codeforces.com/problemset/problem/217/C
+Blackboard Fibonacci
+CF217B
+http://codeforces.com/problemset/problem/217/B
+Ice Skating
+CF217A
+http://codeforces.com/problemset/problem/217/A
+Martian Luck
+CF216E
+http://codeforces.com/problemset/problem/216/E
+Spider's Web
+CF216D
+http://codeforces.com/problemset/problem/216/D
+Hiring Staff
+CF216C
+http://codeforces.com/problemset/problem/216/C
+Forming Teams
+CF216B
+http://codeforces.com/problemset/problem/216/B
+Tiling with Hexagons
+CF216A
+http://codeforces.com/problemset/problem/216/A
+Periodical Numbers
+CF215E
+http://codeforces.com/problemset/problem/215/E
+Hot Days
+CF215D
+http://codeforces.com/problemset/problem/215/D
+Crosses
+CF215C
+http://codeforces.com/problemset/problem/215/C
+Olympic Medal
+CF215B
+http://codeforces.com/problemset/problem/215/B
+Bicycle Chain
+CF215A
+http://codeforces.com/problemset/problem/215/A
+Hometask
+CF214B
+http://codeforces.com/problemset/problem/214/B
+System of Equations
+CF214A
+http://codeforces.com/problemset/problem/214/A
+Two Permutations
+CF213E
+http://codeforces.com/problemset/problem/213/E
+Stars
+CF213D
+http://codeforces.com/problemset/problem/213/D
+Relay Race
+CF213C
+http://codeforces.com/problemset/problem/213/C
+Numbers
+CF213B
+http://codeforces.com/problemset/problem/213/B
+Game
+CF213A
+http://codeforces.com/problemset/problem/213/A
+IT Restaurants
+CF212E
+http://codeforces.com/problemset/problem/212/E
+Cutting a Fence
+CF212D
+http://codeforces.com/problemset/problem/212/D
+Cowboys
+CF212C
+http://codeforces.com/problemset/problem/212/C
+Polycarpus is Looking for Good Substrings
+CF212B
+http://codeforces.com/problemset/problem/212/B
+Privatization
+CF212A
+http://codeforces.com/problemset/problem/212/A
+Trails and Glades
+CF209C
+http://codeforces.com/problemset/problem/209/C
+Pixels
+CF209B
+http://codeforces.com/problemset/problem/209/B
+Multicolored Marbles
+CF209A
+http://codeforces.com/problemset/problem/209/A
+Blood Cousins
+CF208E
+http://codeforces.com/problemset/problem/208/E
+Prizes, Prizes, more Prizes
+CF208D
+http://codeforces.com/problemset/problem/208/D
+Police Station
+CF208C
+http://codeforces.com/problemset/problem/208/C
+Solitaire
+CF208B
+http://codeforces.com/problemset/problem/208/B
+Dubstep
+CF208A
+http://codeforces.com/problemset/problem/208/A
+The Beaver's Problem - 3
+CF207D9
+http://codeforces.com/problemset/problem/207/D9
+The Beaver's Problem - 3
+CF207D8
+http://codeforces.com/problemset/problem/207/D8
+The Beaver's Problem - 3
+CF207D7
+http://codeforces.com/problemset/problem/207/D7
+The Beaver's Problem - 3
+CF207D6
+http://codeforces.com/problemset/problem/207/D6
+The Beaver's Problem - 3
+CF207D5
+http://codeforces.com/problemset/problem/207/D5
+The Beaver's Problem - 3
+CF207D4
+http://codeforces.com/problemset/problem/207/D4
+The Beaver's Problem - 3
+CF207D3
+http://codeforces.com/problemset/problem/207/D3
+The Beaver's Problem - 3
+CF207D2
+http://codeforces.com/problemset/problem/207/D2
+The Beaver's Problem - 3
+CF207D10
+http://codeforces.com/problemset/problem/207/D10
+The Beaver's Problem - 3
+CF207D1
+http://codeforces.com/problemset/problem/207/D1
+Game with Two Trees
+CF207C3
+http://codeforces.com/problemset/problem/207/C3
+Game with Two Trees
+CF207C2
+http://codeforces.com/problemset/problem/207/C2
+Game with Two Trees
+CF207C1
+http://codeforces.com/problemset/problem/207/C1
+Military Trainings
+CF207B3
+http://codeforces.com/problemset/problem/207/B3
+Military Trainings
+CF207B2
+http://codeforces.com/problemset/problem/207/B2
+Military Trainings
+CF207B1
+http://codeforces.com/problemset/problem/207/B1
+Beaver's Calculator 1.0
+CF207A3
+http://codeforces.com/problemset/problem/207/A3
+Beaver's Calculator 1.0
+CF207A2
+http://codeforces.com/problemset/problem/207/A2
+Beaver's Calculator 1.0
+CF207A1
+http://codeforces.com/problemset/problem/207/A1
+Little Elephant and Sorting
+CF205B
+http://codeforces.com/problemset/problem/205/B
+Little Elephant and Rozdil
+CF205A
+http://codeforces.com/problemset/problem/205/A
+Little Elephant and Strings
+CF204E
+http://codeforces.com/problemset/problem/204/E
+Little Elephant and Retro Strings
+CF204D
+http://codeforces.com/problemset/problem/204/D
+Little Elephant and Furik and Rubik
+CF204C
+http://codeforces.com/problemset/problem/204/C
+Little Elephant and Cards
+CF204B
+http://codeforces.com/problemset/problem/204/B
+Little Elephant and Interval
+CF204A
+http://codeforces.com/problemset/problem/204/A
+Transportation
+CF203E
+http://codeforces.com/problemset/problem/203/E
+Hit Ball
+CF203D
+http://codeforces.com/problemset/problem/203/D
+Photographer
+CF203C
+http://codeforces.com/problemset/problem/203/C
+Game on Paper
+CF203B
+http://codeforces.com/problemset/problem/203/B
+Two Problems
+CF203A
+http://codeforces.com/problemset/problem/203/A
+Brand New Easy Problem
+CF202B
+http://codeforces.com/problemset/problem/202/B
+LLPS
+CF202A
+http://codeforces.com/problemset/problem/202/A
+Thoroughly Bureaucratic Organization
+CF201E
+http://codeforces.com/problemset/problem/201/E
+Brand New Problem
+CF201D
+http://codeforces.com/problemset/problem/201/D
+Fragile Bridges
+CF201C
+http://codeforces.com/problemset/problem/201/C
+Guess That Car!
+CF201B
+http://codeforces.com/problemset/problem/201/B
+Clear Symmetry
+CF201A
+http://codeforces.com/problemset/problem/201/A
+Tractor College
+CF200E
+http://codeforces.com/problemset/problem/200/E
+Programming Language
+CF200D
+http://codeforces.com/problemset/problem/200/D
+Football Championship
+CF200C
+http://codeforces.com/problemset/problem/200/C
+Drinks
+CF200B
+http://codeforces.com/problemset/problem/200/B
+Cinema
+CF200A
+http://codeforces.com/problemset/problem/200/A
+Special Olympics
+CF199B
+http://codeforces.com/problemset/problem/199/B
+Hexadecimal's theorem
+CF199A
+http://codeforces.com/problemset/problem/199/A
+Gripping Story
+CF198E
+http://codeforces.com/problemset/problem/198/E
+Cube Snake
+CF198D
+http://codeforces.com/problemset/problem/198/D
+Delivering Carcinogen
+CF198C
+http://codeforces.com/problemset/problem/198/C
+Jumping on Walls
+CF198B
+http://codeforces.com/problemset/problem/198/B
+About Bacteria
+CF198A
+http://codeforces.com/problemset/problem/198/A
+Limit
+CF197B
+http://codeforces.com/problemset/problem/197/B
+Plate Game
+CF197A
+http://codeforces.com/problemset/problem/197/A
+Opening Portals
+CF196E
+http://codeforces.com/problemset/problem/196/E
+The Next Good String
+CF196D
+http://codeforces.com/problemset/problem/196/D
+Paint Tree
+CF196C
+http://codeforces.com/problemset/problem/196/C
+Infinite Maze
+CF196B
+http://codeforces.com/problemset/problem/196/B
+Lexicographically Maximum Subsequence
+CF196A
+http://codeforces.com/problemset/problem/196/A
+Building Forest
+CF195E
+http://codeforces.com/problemset/problem/195/E
+Analyzing Polyline
+CF195D
+http://codeforces.com/problemset/problem/195/D
+Try and Catch
+CF195C
+http://codeforces.com/problemset/problem/195/C
+After Training
+CF195B
+http://codeforces.com/problemset/problem/195/B
+Let's Watch Football
+CF195A
+http://codeforces.com/problemset/problem/195/A
+Square
+CF194B
+http://codeforces.com/problemset/problem/194/B
+Exams
+CF194A
+http://codeforces.com/problemset/problem/194/A
+Fibonacci Number
+CF193E
+http://codeforces.com/problemset/problem/193/E
+Two Segments
+CF193D
+http://codeforces.com/problemset/problem/193/D
+Hamming Distance
+CF193C
+http://codeforces.com/problemset/problem/193/C
+Xor
+CF193B
+http://codeforces.com/problemset/problem/193/B
+Cutting Figure
+CF193A
+http://codeforces.com/problemset/problem/193/A
+Walking in the Rain
+CF192B
+http://codeforces.com/problemset/problem/192/B
+Funky Numbers
+CF192A
+http://codeforces.com/problemset/problem/192/A
+Thwarting Demonstrations
+CF191E
+http://codeforces.com/problemset/problem/191/E
+Metro Scheme
+CF191D
+http://codeforces.com/problemset/problem/191/D
+Fools and Roads
+CF191C
+http://codeforces.com/problemset/problem/191/C
+Demonstration
+CF191B
+http://codeforces.com/problemset/problem/191/B
+Dynasty Puzzles
+CF191A
+http://codeforces.com/problemset/problem/191/A
+Counter Attack
+CF190E
+http://codeforces.com/problemset/problem/190/E
+Non-Secret Cypher
+CF190D
+http://codeforces.com/problemset/problem/190/D
+STL
+CF190C
+http://codeforces.com/problemset/problem/190/C
+Surrounded
+CF190B
+http://codeforces.com/problemset/problem/190/B
+Vasya and the Bus
+CF190A
+http://codeforces.com/problemset/problem/190/A
+Counting Rhombi
+CF189B
+http://codeforces.com/problemset/problem/189/B
+Cut Ribbon
+CF189A
+http://codeforces.com/problemset/problem/189/A
+Stack
+CF188H
+http://codeforces.com/problemset/problem/188/H
+Array Sorting
+CF188G
+http://codeforces.com/problemset/problem/188/G
+Binary Notation
+CF188F
+http://codeforces.com/problemset/problem/188/F
+HQ9+
+CF188E
+http://codeforces.com/problemset/problem/188/E
+Asterisks
+CF188D
+http://codeforces.com/problemset/problem/188/D
+LCM
+CF188C
+http://codeforces.com/problemset/problem/188/C
+A + Reverse B
+CF188B
+http://codeforces.com/problemset/problem/188/B
+Hexagonal Numbers
+CF188A
+http://codeforces.com/problemset/problem/188/A
+Heaven Tour
+CF187E
+http://codeforces.com/problemset/problem/187/E
+BRT Contract
+CF187D
+http://codeforces.com/problemset/problem/187/D
+Weak Memory
+CF187C
+http://codeforces.com/problemset/problem/187/C
+AlgoRace
+CF187B
+http://codeforces.com/problemset/problem/187/B
+Permutations
+CF187A
+http://codeforces.com/problemset/problem/187/A
+Growing Mushrooms
+CF186B
+http://codeforces.com/problemset/problem/186/B
+Comparing Strings
+CF186A
+http://codeforces.com/problemset/problem/186/A
+Soap Time! - 2
+CF185E
+http://codeforces.com/problemset/problem/185/E
+Visit of the Great
+CF185D
+http://codeforces.com/problemset/problem/185/D
+Clever Fat Rat
+CF185C
+http://codeforces.com/problemset/problem/185/C
+Mushroom Scientists
+CF185B
+http://codeforces.com/problemset/problem/185/B
+Plant
+CF185A
+http://codeforces.com/problemset/problem/185/A
+Candy Shop
+CF183E
+http://codeforces.com/problemset/problem/183/E
+T-shirt
+CF183D
+http://codeforces.com/problemset/problem/183/D
+Cyclic Coloring
+CF183C
+http://codeforces.com/problemset/problem/183/C
+Zoo
+CF183B
+http://codeforces.com/problemset/problem/183/B
+Headquarters
+CF183A
+http://codeforces.com/problemset/problem/183/A
+Wooden Fence
+CF182E
+http://codeforces.com/problemset/problem/182/E
+Common Divisors
+CF182D
+http://codeforces.com/problemset/problem/182/D
+Optimal Sum
+CF182C
+http://codeforces.com/problemset/problem/182/C
+Vasya's Calendar
+CF182B
+http://codeforces.com/problemset/problem/182/B
+Battlefield
+CF182A
+http://codeforces.com/problemset/problem/182/A
+Number of Triplets
+CF181B
+http://codeforces.com/problemset/problem/181/B
+Series of Crimes
+CF181A
+http://codeforces.com/problemset/problem/181/A
+Mathematical Analysis Rocks!
+CF180F
+http://codeforces.com/problemset/problem/180/F
+Cubes
+CF180E
+http://codeforces.com/problemset/problem/180/E
+Name
+CF180D
+http://codeforces.com/problemset/problem/180/D
+Letter
+CF180C
+http://codeforces.com/problemset/problem/180/C
+Divisibility Rules
+CF180B
+http://codeforces.com/problemset/problem/180/B
+Defragmentation
+CF180A
+http://codeforces.com/problemset/problem/180/A
+Representative Sampling
+CF178F3
+http://codeforces.com/problemset/problem/178/F3
+Representative Sampling
+CF178F2
+http://codeforces.com/problemset/problem/178/F2
+Representative Sampling
+CF178F1
+http://codeforces.com/problemset/problem/178/F1
+The Beaver's Problem - 2
+CF178E3
+http://codeforces.com/problemset/problem/178/E3
+The Beaver's Problem - 2
+CF178E2
+http://codeforces.com/problemset/problem/178/E2
+The Beaver's Problem - 2
+CF178E1
+http://codeforces.com/problemset/problem/178/E1
+Magic Squares
+CF178D3
+http://codeforces.com/problemset/problem/178/D3
+Magic Squares
+CF178D2
+http://codeforces.com/problemset/problem/178/D2
+Magic Squares
+CF178D1
+http://codeforces.com/problemset/problem/178/D1
+Smart Beaver and Resolving Collisions
+CF178C3
+http://codeforces.com/problemset/problem/178/C3
+Smart Beaver and Resolving Collisions
+CF178C2
+http://codeforces.com/problemset/problem/178/C2
+Smart Beaver and Resolving Collisions
+CF178C1
+http://codeforces.com/problemset/problem/178/C1
+Greedy Merchants
+CF178B3
+http://codeforces.com/problemset/problem/178/B3
+Greedy Merchants
+CF178B2
+http://codeforces.com/problemset/problem/178/B2
+Greedy Merchants
+CF178B1
+http://codeforces.com/problemset/problem/178/B1
+Educational Game
+CF178A3
+http://codeforces.com/problemset/problem/178/A3
+Educational Game
+CF178A2
+http://codeforces.com/problemset/problem/178/A2
+Educational Game
+CF178A1
+http://codeforces.com/problemset/problem/178/A1
+Fibonacci Strings
+CF177G2
+http://codeforces.com/problemset/problem/177/G2
+Fibonacci Strings
+CF177G1
+http://codeforces.com/problemset/problem/177/G1
+Script Generation
+CF177F2
+http://codeforces.com/problemset/problem/177/F2
+Script Generation
+CF177F1
+http://codeforces.com/problemset/problem/177/F1
+Space Voyage
+CF177E2
+http://codeforces.com/problemset/problem/177/E2
+Space Voyage
+CF177E1
+http://codeforces.com/problemset/problem/177/E1
+Encrypting Messages
+CF177D2
+http://codeforces.com/problemset/problem/177/D2
+Encrypting Messages
+CF177D1
+http://codeforces.com/problemset/problem/177/D1
+Party
+CF177C2
+http://codeforces.com/problemset/problem/177/C2
+Party
+CF177C1
+http://codeforces.com/problemset/problem/177/C1
+Rectangular Game
+CF177B2
+http://codeforces.com/problemset/problem/177/B2
+Rectangular Game
+CF177B1
+http://codeforces.com/problemset/problem/177/B1
+Good Matrix Elements
+CF177A2
+http://codeforces.com/problemset/problem/177/A2
+Good Matrix Elements
+CF177A1
+http://codeforces.com/problemset/problem/177/A1
+Archaeology
+CF176E
+http://codeforces.com/problemset/problem/176/E
+Hyper String
+CF176D
+http://codeforces.com/problemset/problem/176/D
+Playing with Superglue
+CF176C
+http://codeforces.com/problemset/problem/176/C
+Word Cut
+CF176B
+http://codeforces.com/problemset/problem/176/B
+Trading Business
+CF176A
+http://codeforces.com/problemset/problem/176/A
+Gnomes of Might and Magic
+CF175F
+http://codeforces.com/problemset/problem/175/F
+Power Defence
+CF175E
+http://codeforces.com/problemset/problem/175/E
+Plane of Tanks: Duel
+CF175D
+http://codeforces.com/problemset/problem/175/D
+Geometry Horse
+CF175C
+http://codeforces.com/problemset/problem/175/C
+Plane of Tanks: Pro
+CF175B
+http://codeforces.com/problemset/problem/175/B
+Robot Bicorn Attack
+CF175A
+http://codeforces.com/problemset/problem/175/A
+Range Increments
+CF174C
+http://codeforces.com/problemset/problem/174/C
+File List
+CF174B
+http://codeforces.com/problemset/problem/174/B
+Problem About Equation
+CF174A
+http://codeforces.com/problemset/problem/174/A
+Camping Groups
+CF173E
+http://codeforces.com/problemset/problem/173/E
+Deputies
+CF173D
+http://codeforces.com/problemset/problem/173/D
+Spiral Maximum
+CF173C
+http://codeforces.com/problemset/problem/173/C
+Chamber of Secrets
+CF173B
+http://codeforces.com/problemset/problem/173/B
+Rock-Paper-Scissors
+CF173A
+http://codeforces.com/problemset/problem/173/A
+BHTML+BCSS
+CF172E
+http://codeforces.com/problemset/problem/172/E
+Calendar Reform
+CF172D
+http://codeforces.com/problemset/problem/172/D
+Bus
+CF172C
+http://codeforces.com/problemset/problem/172/C
+Pseudorandom Sequence Period
+CF172B
+http://codeforces.com/problemset/problem/172/B
+Phone Code
+CF172A
+http://codeforces.com/problemset/problem/172/A
+A polyline
+CF171H
+http://codeforces.com/problemset/problem/171/H
+Mysterious numbers - 2
+CF171G
+http://codeforces.com/problemset/problem/171/G
+ucyhf
+CF171F
+http://codeforces.com/problemset/problem/171/F
+MYSTERIOUS LANGUAGE
+CF171E
+http://codeforces.com/problemset/problem/171/E
+Broken checker
+CF171D
+http://codeforces.com/problemset/problem/171/D
+A Piece of Cake
+CF171C
+http://codeforces.com/problemset/problem/171/C
+Star
+CF171B
+http://codeforces.com/problemset/problem/171/B
+Mysterious numbers - 1
+CF171A
+http://codeforces.com/problemset/problem/171/A
+Replacing Digits
+CF169B
+http://codeforces.com/problemset/problem/169/B
+Chores
+CF169A
+http://codeforces.com/problemset/problem/169/A
+Wizards and Minimal Spell
+CF168B
+http://codeforces.com/problemset/problem/168/B
+Wizards and Demonstration
+CF168A
+http://codeforces.com/problemset/problem/168/A
+Wizards and Bets
+CF167E
+http://codeforces.com/problemset/problem/167/E
+Wizards and Roads
+CF167D
+http://codeforces.com/problemset/problem/167/D
+Wizards and Numbers
+CF167C
+http://codeforces.com/problemset/problem/167/C
+Wizards and Huge Prize
+CF167B
+http://codeforces.com/problemset/problem/167/B
+Wizards and Trolleybuses
+CF167A
+http://codeforces.com/problemset/problem/167/A
+Tetrahedron
+CF166E
+http://codeforces.com/problemset/problem/166/E
+Shoe Store
+CF166D
+http://codeforces.com/problemset/problem/166/D
+Median
+CF166C
+http://codeforces.com/problemset/problem/166/C
+Polygons
+CF166B
+http://codeforces.com/problemset/problem/166/B
+Rank List
+CF166A
+http://codeforces.com/problemset/problem/166/A
+Compatible Numbers
+CF165E
+http://codeforces.com/problemset/problem/165/E
+Beard Graph
+CF165D
+http://codeforces.com/problemset/problem/165/D
+Another Problem on Strings
+CF165C
+http://codeforces.com/problemset/problem/165/C
+Burning Midnight Oil
+CF165B
+http://codeforces.com/problemset/problem/165/B
+Supercentral Point
+CF165A
+http://codeforces.com/problemset/problem/165/A
+Polycarpus and Tasks
+CF164E
+http://codeforces.com/problemset/problem/164/E
+Minimum Diameter
+CF164D
+http://codeforces.com/problemset/problem/164/D
+Machine Programming
+CF164C
+http://codeforces.com/problemset/problem/164/C
+Ancient Berland Hieroglyphs
+CF164B
+http://codeforces.com/problemset/problem/164/B
+Variable, or There and Back Again
+CF164A
+http://codeforces.com/problemset/problem/164/A
+e-Government
+CF163E
+http://codeforces.com/problemset/problem/163/E
+Large Refrigerator
+CF163D
+http://codeforces.com/problemset/problem/163/D
+Conveyor
+CF163C
+http://codeforces.com/problemset/problem/163/C
+Lemmings
+CF163B
+http://codeforces.com/problemset/problem/163/B
+Substring and Subsequence
+CF163A
+http://codeforces.com/problemset/problem/163/A
+Brackets
+CF162J
+http://codeforces.com/problemset/problem/162/J
+Truncatable primes
+CF162I
+http://codeforces.com/problemset/problem/162/I
+Alternating case
+CF162H
+http://codeforces.com/problemset/problem/162/H
+Non-decimal sum
+CF162G
+http://codeforces.com/problemset/problem/162/G
+Factorial zeros
+CF162F
+http://codeforces.com/problemset/problem/162/F
+HQ9+
+CF162E
+http://codeforces.com/problemset/problem/162/E
+Remove digits
+CF162D
+http://codeforces.com/problemset/problem/162/D
+Prime factorization
+CF162C
+http://codeforces.com/problemset/problem/162/C
+Binary notation
+CF162B
+http://codeforces.com/problemset/problem/162/B
+Pentagonal numbers
+CF162A
+http://codeforces.com/problemset/problem/162/A
+Polycarpus the Safecracker
+CF161E
+http://codeforces.com/problemset/problem/161/E
+Distance in Tree
+CF161D
+http://codeforces.com/problemset/problem/161/D
+Abracadabra
+CF161C
+http://codeforces.com/problemset/problem/161/C
+Discounts
+CF161B
+http://codeforces.com/problemset/problem/161/B
+Dress'em in Vests!
+CF161A
+http://codeforces.com/problemset/problem/161/A
+Buses and People
+CF160E
+http://codeforces.com/problemset/problem/160/E
+Edges in MST
+CF160D
+http://codeforces.com/problemset/problem/160/D
+Find Pair
+CF160C
+http://codeforces.com/problemset/problem/160/C
+Unlucky Ticket
+CF160B
+http://codeforces.com/problemset/problem/160/B
+Twins
+CF160A
+http://codeforces.com/problemset/problem/160/A
+Zebra Tower
+CF159E
+http://codeforces.com/problemset/problem/159/E
+Palindrome pairs
+CF159D
+http://codeforces.com/problemset/problem/159/D
+String Manipulation 1.0
+CF159C
+http://codeforces.com/problemset/problem/159/C
+Matchmaker
+CF159B
+http://codeforces.com/problemset/problem/159/B
+Friends or Not
+CF159A
+http://codeforces.com/problemset/problem/159/A
+Phone Talks
+CF158E
+http://codeforces.com/problemset/problem/158/E
+Ice Sculptures
+CF158D
+http://codeforces.com/problemset/problem/158/D
+Cd and pwd commands
+CF158C
+http://codeforces.com/problemset/problem/158/C
+Taxi
+CF158B
+http://codeforces.com/problemset/problem/158/B
+Next Round
+CF158A
+http://codeforces.com/problemset/problem/158/A
+Trace
+CF157B
+http://codeforces.com/problemset/problem/157/B
+Game Outcome
+CF157A
+http://codeforces.com/problemset/problem/157/A
+Mrs. Hudson's Pancakes
+CF156E
+http://codeforces.com/problemset/problem/156/E
+Clues
+CF156D
+http://codeforces.com/problemset/problem/156/D
+Cipher
+CF156C
+http://codeforces.com/problemset/problem/156/C
+Suspects
+CF156B
+http://codeforces.com/problemset/problem/156/B
+Message
+CF156A
+http://codeforces.com/problemset/problem/156/A
+Combination
+CF155B
+http://codeforces.com/problemset/problem/155/B
+I_love_\%username\%
+CF155A
+http://codeforces.com/problemset/problem/155/A
+Martian Colony
+CF154E
+http://codeforces.com/problemset/problem/154/E
+Flatland Fencing
+CF154D
+http://codeforces.com/problemset/problem/154/D
+Double Profiles
+CF154C
+http://codeforces.com/problemset/problem/154/C
+Colliders
+CF154B
+http://codeforces.com/problemset/problem/154/B
+Hometask
+CF154A
+http://codeforces.com/problemset/problem/154/A
+Euclidean Distance
+CF153E
+http://codeforces.com/problemset/problem/153/E
+Date Change
+CF153D
+http://codeforces.com/problemset/problem/153/D
+Caesar Cipher
+CF153C
+http://codeforces.com/problemset/problem/153/C
+Binary notation
+CF153B
+http://codeforces.com/problemset/problem/153/B
+A + B
+CF153A
+http://codeforces.com/problemset/problem/153/A
+Garden
+CF152E
+http://codeforces.com/problemset/problem/152/E
+Frames
+CF152D
+http://codeforces.com/problemset/problem/152/D
+Pocket Book
+CF152C
+http://codeforces.com/problemset/problem/152/C
+Steps
+CF152B
+http://codeforces.com/problemset/problem/152/B
+Marks
+CF152A
+http://codeforces.com/problemset/problem/152/A
+Phone Numbers
+CF151B
+http://codeforces.com/problemset/problem/151/B
+Soft Drinking
+CF151A
+http://codeforces.com/problemset/problem/151/A
+Freezing with Style
+CF150E
+http://codeforces.com/problemset/problem/150/E
+Mission Impassable
+CF150D
+http://codeforces.com/problemset/problem/150/D
+Smart Cheater
+CF150C
+http://codeforces.com/problemset/problem/150/C
+Quantity of Strings
+CF150B
+http://codeforces.com/problemset/problem/150/B
+Win or Freeze
+CF150A
+http://codeforces.com/problemset/problem/150/A
+Martian Strings
+CF149E
+http://codeforces.com/problemset/problem/149/E
+Coloring Brackets
+CF149D
+http://codeforces.com/problemset/problem/149/D
+Division into Teams
+CF149C
+http://codeforces.com/problemset/problem/149/C
+Martian Clock
+CF149B
+http://codeforces.com/problemset/problem/149/B
+Business trip
+CF149A
+http://codeforces.com/problemset/problem/149/A
+Porcelain
+CF148E
+http://codeforces.com/problemset/problem/148/E
+Bag of mice
+CF148D
+http://codeforces.com/problemset/problem/148/D
+Terse princess
+CF148C
+http://codeforces.com/problemset/problem/148/C
+Escape
+CF148B
+http://codeforces.com/problemset/problem/148/B
+Insomnia cure
+CF148A
+http://codeforces.com/problemset/problem/148/A
+Smile House
+CF147B
+http://codeforces.com/problemset/problem/147/B
+Punctuation
+CF147A
+http://codeforces.com/problemset/problem/147/A
+Lucky Mask
+CF146B
+http://codeforces.com/problemset/problem/146/B
+Lucky Ticket
+CF146A
+http://codeforces.com/problemset/problem/146/A
+Lucky Queries
+CF145E
+http://codeforces.com/problemset/problem/145/E
+Lucky Pair
+CF145D
+http://codeforces.com/problemset/problem/145/D
+Lucky Subsequence
+CF145C
+http://codeforces.com/problemset/problem/145/C
+Lucky Number 2
+CF145B
+http://codeforces.com/problemset/problem/145/B
+Lucky Conversion
+CF145A
+http://codeforces.com/problemset/problem/145/A
+Competition
+CF144E
+http://codeforces.com/problemset/problem/144/E
+Missile Silos
+CF144D
+http://codeforces.com/problemset/problem/144/D
+Anagram Search
+CF144C
+http://codeforces.com/problemset/problem/144/C
+Meeting
+CF144B
+http://codeforces.com/problemset/problem/144/B
+Arrival of the General
+CF144A
+http://codeforces.com/problemset/problem/144/A
+Help Kingdom of Far Far Away 2
+CF143B
+http://codeforces.com/problemset/problem/143/B
+Help Vasilisa the Wise 2
+CF143A
+http://codeforces.com/problemset/problem/143/A
+Help Greg the Dwarf 2
+CF142E
+http://codeforces.com/problemset/problem/142/E
+Help Shrek and Donkey 2
+CF142D
+http://codeforces.com/problemset/problem/142/D
+Help Caretaker
+CF142C
+http://codeforces.com/problemset/problem/142/C
+Help General
+CF142B
+http://codeforces.com/problemset/problem/142/B
+Help Farmer
+CF142A
+http://codeforces.com/problemset/problem/142/A
+Clearing Up
+CF141E
+http://codeforces.com/problemset/problem/141/E
+Take-off Ramps
+CF141D
+http://codeforces.com/problemset/problem/141/D
+Queue
+CF141C
+http://codeforces.com/problemset/problem/141/C
+Hopscotch
+CF141B
+http://codeforces.com/problemset/problem/141/B
+Amusing Joke
+CF141A
+http://codeforces.com/problemset/problem/141/A
+New Year Snowflake
+CF140F
+http://codeforces.com/problemset/problem/140/F
+New Year Garland
+CF140E
+http://codeforces.com/problemset/problem/140/E
+New Year Contest
+CF140D
+http://codeforces.com/problemset/problem/140/D
+New Year Snowmen
+CF140C
+http://codeforces.com/problemset/problem/140/C
+New Year Cards
+CF140B
+http://codeforces.com/problemset/problem/140/B
+New Year Table
+CF140A
+http://codeforces.com/problemset/problem/140/A
+Wallpaper
+CF139B
+http://codeforces.com/problemset/problem/139/B
+Petr and Book
+CF139A
+http://codeforces.com/problemset/problem/139/A
+Hellish Constraints
+CF138E
+http://codeforces.com/problemset/problem/138/E
+World of Darkraft
+CF138D
+http://codeforces.com/problemset/problem/138/D
+Mushroom Gnomes - 2
+CF138C
+http://codeforces.com/problemset/problem/138/C
+Digits Permutations
+CF138B
+http://codeforces.com/problemset/problem/138/B
+Literature Lesson
+CF138A
+http://codeforces.com/problemset/problem/138/A
+Last Chance
+CF137E
+http://codeforces.com/problemset/problem/137/E
+Palindromes
+CF137D
+http://codeforces.com/problemset/problem/137/D
+History
+CF137C
+http://codeforces.com/problemset/problem/137/C
+Permutation
+CF137B
+http://codeforces.com/problemset/problem/137/B
+Postcards and photos
+CF137A
+http://codeforces.com/problemset/problem/137/A
+Ternary Logic
+CF136B
+http://codeforces.com/problemset/problem/136/B
+Presents
+CF136A
+http://codeforces.com/problemset/problem/136/A
+Weak Subsequence
+CF135E
+http://codeforces.com/problemset/problem/135/E
+Cycle
+CF135D
+http://codeforces.com/problemset/problem/135/D
+Zero-One
+CF135C
+http://codeforces.com/problemset/problem/135/C
+Rectangle and Square
+CF135B
+http://codeforces.com/problemset/problem/135/B
+Replacement
+CF135A
+http://codeforces.com/problemset/problem/135/A
+Swaps
+CF134C
+http://codeforces.com/problemset/problem/134/C
+Pairs of Numbers
+CF134B
+http://codeforces.com/problemset/problem/134/B
+Average Numbers
+CF134A
+http://codeforces.com/problemset/problem/134/A
+Unary
+CF133B
+http://codeforces.com/problemset/problem/133/B
+HQ9+
+CF133A
+http://codeforces.com/problemset/problem/133/A
+Bits of merry old England
+CF132E
+http://codeforces.com/problemset/problem/132/E
+Constants in the language of Shakespeare
+CF132D
+http://codeforces.com/problemset/problem/132/D
+Logo Turtle
+CF132C
+http://codeforces.com/problemset/problem/132/C
+Piet
+CF132B
+http://codeforces.com/problemset/problem/132/B
+Turing Tape
+CF132A
+http://codeforces.com/problemset/problem/132/A
+Present to Mom
+CF131F
+http://codeforces.com/problemset/problem/131/F
+Yet Another Task with Queens
+CF131E
+http://codeforces.com/problemset/problem/131/E
+Subway
+CF131D
+http://codeforces.com/problemset/problem/131/D
+The World is a Theatre
+CF131C
+http://codeforces.com/problemset/problem/131/C
+Opposites Attract
+CF131B
+http://codeforces.com/problemset/problem/131/B
+cAPS lOCK
+CF131A
+http://codeforces.com/problemset/problem/131/A
+Date calculation
+CF130J
+http://codeforces.com/problemset/problem/130/J
+Array sorting
+CF130I
+http://codeforces.com/problemset/problem/130/I
+Balanced brackets
+CF130H
+http://codeforces.com/problemset/problem/130/H
+CAPS LOCK ON
+CF130G
+http://codeforces.com/problemset/problem/130/G
+Prime factorization
+CF130F
+http://codeforces.com/problemset/problem/130/F
+Tribonacci numbers
+CF130E
+http://codeforces.com/problemset/problem/130/E
+Exponentiation
+CF130D
+http://codeforces.com/problemset/problem/130/D
+Decimal sum
+CF130C
+http://codeforces.com/problemset/problem/130/C
+Gnikool Ssalg
+CF130B
+http://codeforces.com/problemset/problem/130/B
+Hexagonal numbers
+CF130A
+http://codeforces.com/problemset/problem/130/A
+Students and Shoelaces
+CF129B
+http://codeforces.com/problemset/problem/129/B
+Cookies
+CF129A
+http://codeforces.com/problemset/problem/129/A
+Birthday
+CF128E
+http://codeforces.com/problemset/problem/128/E
+Numbers
+CF128D
+http://codeforces.com/problemset/problem/128/D
+Games with Rectangle
+CF128C
+http://codeforces.com/problemset/problem/128/C
+String
+CF128B
+http://codeforces.com/problemset/problem/128/B
+Statues
+CF128A
+http://codeforces.com/problemset/problem/128/A
+Canvas Frames
+CF127B
+http://codeforces.com/problemset/problem/127/B
+Wasted Time
+CF127A
+http://codeforces.com/problemset/problem/127/A
+Pills
+CF126E
+http://codeforces.com/problemset/problem/126/E
+Fibonacci Sums
+CF126D
+http://codeforces.com/problemset/problem/126/D
+E-reader Display
+CF126C
+http://codeforces.com/problemset/problem/126/C
+Password
+CF126B
+http://codeforces.com/problemset/problem/126/B
+Hot Bath
+CF126A
+http://codeforces.com/problemset/problem/126/A
+MST Company
+CF125E
+http://codeforces.com/problemset/problem/125/E
+Two progressions
+CF125D
+http://codeforces.com/problemset/problem/125/D
+Hobbits' Party
+CF125C
+http://codeforces.com/problemset/problem/125/C
+Simple XML
+CF125B
+http://codeforces.com/problemset/problem/125/B
+Measuring Lengths in Baden
+CF125A
+http://codeforces.com/problemset/problem/125/A
+Permutations
+CF124B
+http://codeforces.com/problemset/problem/124/B
+The number of positions
+CF124A
+http://codeforces.com/problemset/problem/124/A
+Maze
+CF123E
+http://codeforces.com/problemset/problem/123/E
+String
+CF123D
+http://codeforces.com/problemset/problem/123/D
+Brackets
+CF123C
+http://codeforces.com/problemset/problem/123/C
+Squares
+CF123B
+http://codeforces.com/problemset/problem/123/B
+Prime Permutation
+CF123A
+http://codeforces.com/problemset/problem/123/A
+Lucky Substring
+CF122B
+http://codeforces.com/problemset/problem/122/B
+Lucky Division
+CF122A
+http://codeforces.com/problemset/problem/122/A
+Lucky Array
+CF121E
+http://codeforces.com/problemset/problem/121/E
+Lucky Segments
+CF121D
+http://codeforces.com/problemset/problem/121/D
+Lucky Permutation
+CF121C
+http://codeforces.com/problemset/problem/121/C
+Lucky Transformation
+CF121B
+http://codeforces.com/problemset/problem/121/B
+Lucky Sum
+CF121A
+http://codeforces.com/problemset/problem/121/A
+Minimum Sum
+CF120J
+http://codeforces.com/problemset/problem/120/J
+Luck is in Numbers
+CF120I
+http://codeforces.com/problemset/problem/120/I
+Brevity is Soul of Wit
+CF120H
+http://codeforces.com/problemset/problem/120/H
+Boom
+CF120G
+http://codeforces.com/problemset/problem/120/G
+Spiders
+CF120F
+http://codeforces.com/problemset/problem/120/F
+Put Knight!
+CF120E
+http://codeforces.com/problemset/problem/120/E
+Three Sons
+CF120D
+http://codeforces.com/problemset/problem/120/D
+Winnie-the-Pooh and honey
+CF120C
+http://codeforces.com/problemset/problem/120/C
+Quiz League
+CF120B
+http://codeforces.com/problemset/problem/120/B
+Elevator
+CF120A
+http://codeforces.com/problemset/problem/120/A
+Alternative Reality
+CF119E
+http://codeforces.com/problemset/problem/119/E
+String Transformation
+CF119D
+http://codeforces.com/problemset/problem/119/D
+Education Reform
+CF119C
+http://codeforces.com/problemset/problem/119/C
+Before Exam
+CF119B
+http://codeforces.com/problemset/problem/119/B
+Epic Game
+CF119A
+http://codeforces.com/problemset/problem/119/A
+Bertown roads
+CF118E
+http://codeforces.com/problemset/problem/118/E
+Caesar's Legions
+CF118D
+http://codeforces.com/problemset/problem/118/D
+Fancy Number
+CF118C
+http://codeforces.com/problemset/problem/118/C
+Present from Lena
+CF118B
+http://codeforces.com/problemset/problem/118/B
+String Task
+CF118A
+http://codeforces.com/problemset/problem/118/A
+Tree or not Tree
+CF117E
+http://codeforces.com/problemset/problem/117/E
+Not Quick Transformation
+CF117D
+http://codeforces.com/problemset/problem/117/D
+Cycle
+CF117C
+http://codeforces.com/problemset/problem/117/C
+Very Interesting Game
+CF117B
+http://codeforces.com/problemset/problem/117/B
+Elevator
+CF117A
+http://codeforces.com/problemset/problem/117/A
+Little Pigs and Wolves
+CF116B
+http://codeforces.com/problemset/problem/116/B
+Tram
+CF116A
+http://codeforces.com/problemset/problem/116/A
+Linear Kingdom Races
+CF115E
+http://codeforces.com/problemset/problem/115/E
+Unambiguous Arithmetic Expression
+CF115D
+http://codeforces.com/problemset/problem/115/D
+Plumber
+CF115C
+http://codeforces.com/problemset/problem/115/C
+Lawnmower
+CF115B
+http://codeforces.com/problemset/problem/115/B
+Party
+CF115A
+http://codeforces.com/problemset/problem/115/A
+PFAST Inc.
+CF114B
+http://codeforces.com/problemset/problem/114/B
+Cifera
+CF114A
+http://codeforces.com/problemset/problem/114/A
+Sleeping
+CF113E
+http://codeforces.com/problemset/problem/113/E
+Museum
+CF113D
+http://codeforces.com/problemset/problem/113/D
+Double Happiness
+CF113C
+http://codeforces.com/problemset/problem/113/C
+Petr#
+CF113B
+http://codeforces.com/problemset/problem/113/B
+Grammar Lessons
+CF113A
+http://codeforces.com/problemset/problem/113/A
+Petya and Square
+CF112B
+http://codeforces.com/problemset/problem/112/B
+Petya and Strings
+CF112A
+http://codeforces.com/problemset/problem/112/A
+Petya and Rectangle
+CF111E
+http://codeforces.com/problemset/problem/111/E
+Petya and Coloring
+CF111D
+http://codeforces.com/problemset/problem/111/D
+Petya and Spiders
+CF111C
+http://codeforces.com/problemset/problem/111/C
+Petya and Divisors
+CF111B
+http://codeforces.com/problemset/problem/111/B
+Petya and Inequiations
+CF111A
+http://codeforces.com/problemset/problem/111/A
+Lucky String
+CF110B
+http://codeforces.com/problemset/problem/110/B
+Nearly Lucky Number
+CF110A
+http://codeforces.com/problemset/problem/110/A
+Lucky Interval
+CF109E
+http://codeforces.com/problemset/problem/109/E
+Lucky Sorting
+CF109D
+http://codeforces.com/problemset/problem/109/D
+Lucky Tree
+CF109C
+http://codeforces.com/problemset/problem/109/C
+Lucky Probability
+CF109B
+http://codeforces.com/problemset/problem/109/B
+Lucky Sum of Digits
+CF109A
+http://codeforces.com/problemset/problem/109/A
+Datatypes
+CF108B
+http://codeforces.com/problemset/problem/108/B
+Palindromic Times
+CF108A
+http://codeforces.com/problemset/problem/108/A
+Darts
+CF107E
+http://codeforces.com/problemset/problem/107/E
+Crime Management
+CF107D
+http://codeforces.com/problemset/problem/107/D
+Arrangement
+CF107C
+http://codeforces.com/problemset/problem/107/C
+Basketball Team
+CF107B
+http://codeforces.com/problemset/problem/107/B
+Dorm Water Supply
+CF107A
+http://codeforces.com/problemset/problem/107/A
+Space Rescuers
+CF106E
+http://codeforces.com/problemset/problem/106/E
+Treasure Island
+CF106D
+http://codeforces.com/problemset/problem/106/D
+Buns
+CF106C
+http://codeforces.com/problemset/problem/106/C
+Choosing Laptop
+CF106B
+http://codeforces.com/problemset/problem/106/B
+Card Game
+CF106A
+http://codeforces.com/problemset/problem/106/A
+Lift and Throw
+CF105E
+http://codeforces.com/problemset/problem/105/E
+Entertaining Geodetics
+CF105D
+http://codeforces.com/problemset/problem/105/D
+Item World
+CF105C
+http://codeforces.com/problemset/problem/105/C
+Dark Assembly
+CF105B
+http://codeforces.com/problemset/problem/105/B
+Transmigration
+CF105A
+http://codeforces.com/problemset/problem/105/A
+Blackjack
+CF104A
+http://codeforces.com/problemset/problem/104/A
+Buying Sets
+CF103E
+http://codeforces.com/problemset/problem/103/E
+Time to Raid Cowavans
+CF103D
+http://codeforces.com/problemset/problem/103/D
+Russian Roulette
+CF103C
+http://codeforces.com/problemset/problem/103/C
+Cthulhu
+CF103B
+http://codeforces.com/problemset/problem/103/B
+Testing Pants for Sadness
+CF103A
+http://codeforces.com/problemset/problem/103/A
+Sum of Digits
+CF102B
+http://codeforces.com/problemset/problem/102/B
+Clothes
+CF102A
+http://codeforces.com/problemset/problem/102/A
+Candies and Stones
+CF101E
+http://codeforces.com/problemset/problem/101/E
+Castle
+CF101D
+http://codeforces.com/problemset/problem/101/D
+Vectors
+CF101C
+http://codeforces.com/problemset/problem/101/C
+Buses
+CF101B
+http://codeforces.com/problemset/problem/101/B
+Homework
+CF101A
+http://codeforces.com/problemset/problem/101/A
+Interval Coloring
+CF100J
+http://codeforces.com/problemset/problem/100/J
+Rotation
+CF100I
+http://codeforces.com/problemset/problem/100/I
+Battleship
+CF100H
+http://codeforces.com/problemset/problem/100/H
+Name the album
+CF100G
+http://codeforces.com/problemset/problem/100/G
+Polynom
+CF100F
+http://codeforces.com/problemset/problem/100/F
+Lamps in a Line
+CF100E
+http://codeforces.com/problemset/problem/100/E
+World of Mouth
+CF100D
+http://codeforces.com/problemset/problem/100/D
+A+B
+CF100C
+http://codeforces.com/problemset/problem/100/C
+Friendly Numbers
+CF100B
+http://codeforces.com/problemset/problem/100/B
+Carpeting the Room
+CF100A
+http://codeforces.com/problemset/problem/100/A
+Help Chef Gerasim
+CF99B
+http://codeforces.com/problemset/problem/99/B
+Help Far Away Kingdom
+CF99A
+http://codeforces.com/problemset/problem/99/A
+Help Shrek and Donkey
+CF98E
+http://codeforces.com/problemset/problem/98/E
+Help Monks
+CF98D
+http://codeforces.com/problemset/problem/98/D
+Help Greg the Dwarf
+CF98C
+http://codeforces.com/problemset/problem/98/C
+Help King
+CF98B
+http://codeforces.com/problemset/problem/98/B
+Help Victoria the Wise
+CF98A
+http://codeforces.com/problemset/problem/98/A
+Leaders
+CF97E
+http://codeforces.com/problemset/problem/97/E
+Robot in Basement
+CF97D
+http://codeforces.com/problemset/problem/97/D
+Winning Strategy
+CF97C
+http://codeforces.com/problemset/problem/97/C
+Superset
+CF97B
+http://codeforces.com/problemset/problem/97/B
+Domino
+CF97A
+http://codeforces.com/problemset/problem/97/A
+Lucky Numbers (easy)
+CF96B
+http://codeforces.com/problemset/problem/96/B
+Football
+CF96A
+http://codeforces.com/problemset/problem/96/A
+Lucky Country
+CF95E
+http://codeforces.com/problemset/problem/95/E
+Horse Races
+CF95D
+http://codeforces.com/problemset/problem/95/D
+Volleyball
+CF95C
+http://codeforces.com/problemset/problem/95/C
+Lucky Numbers
+CF95B
+http://codeforces.com/problemset/problem/95/B
+Hockey
+CF95A
+http://codeforces.com/problemset/problem/95/A
+Friends
+CF94B
+http://codeforces.com/problemset/problem/94/B
+Restoring Password
+CF94A
+http://codeforces.com/problemset/problem/94/A
+Lostborn
+CF93E
+http://codeforces.com/problemset/problem/93/E
+Flags
+CF93D
+http://codeforces.com/problemset/problem/93/D
+Azembler
+CF93C
+http://codeforces.com/problemset/problem/93/C
+End of Exams
+CF93B
+http://codeforces.com/problemset/problem/93/B
+Frames
+CF93A
+http://codeforces.com/problemset/problem/93/A
+Binary Number
+CF92B
+http://codeforces.com/problemset/problem/92/B
+Chips
+CF92A
+http://codeforces.com/problemset/problem/92/A
+Igloo Skyscraper
+CF91E
+http://codeforces.com/problemset/problem/91/E
+Grocer's Problem
+CF91D
+http://codeforces.com/problemset/problem/91/D
+Ski Base
+CF91C
+http://codeforces.com/problemset/problem/91/C
+Queue
+CF91B
+http://codeforces.com/problemset/problem/91/B
+Newspaper Headline
+CF91A
+http://codeforces.com/problemset/problem/91/A
+African Crossword
+CF90B
+http://codeforces.com/problemset/problem/90/B
+Cableway
+CF90A
+http://codeforces.com/problemset/problem/90/A
+Fire and Ice
+CF89E
+http://codeforces.com/problemset/problem/89/E
+Space mines
+CF89D
+http://codeforces.com/problemset/problem/89/D
+Chip Play
+CF89C
+http://codeforces.com/problemset/problem/89/C
+Widget Library
+CF89B
+http://codeforces.com/problemset/problem/89/B
+Robbery
+CF89A
+http://codeforces.com/problemset/problem/89/A
+Keyboard
+CF88B
+http://codeforces.com/problemset/problem/88/B
+Chord
+CF88A
+http://codeforces.com/problemset/problem/88/A
+Mogohu-Rea Idol
+CF87E
+http://codeforces.com/problemset/problem/87/E
+Beautiful Road
+CF87D
+http://codeforces.com/problemset/problem/87/D
+Interesting Game
+CF87C
+http://codeforces.com/problemset/problem/87/C
+Vasya and Types
+CF87B
+http://codeforces.com/problemset/problem/87/B
+Trains
+CF87A
+http://codeforces.com/problemset/problem/87/A
+Long sequence
+CF86E
+http://codeforces.com/problemset/problem/86/E
+Powerful array
+CF86D
+http://codeforces.com/problemset/problem/86/D
+Genetic engineering
+CF86C
+http://codeforces.com/problemset/problem/86/C
+Tetris revisited
+CF86B
+http://codeforces.com/problemset/problem/86/B
+Reflection
+CF86A
+http://codeforces.com/problemset/problem/86/A
+Guard Towers
+CF85E
+http://codeforces.com/problemset/problem/85/E
+Sum of Medians
+CF85D
+http://codeforces.com/problemset/problem/85/D
+Petya and Tree
+CF85C
+http://codeforces.com/problemset/problem/85/C
+Embassy Queue
+CF85B
+http://codeforces.com/problemset/problem/85/B
+Domino
+CF85A
+http://codeforces.com/problemset/problem/85/A
+Biathlon
+CF84C
+http://codeforces.com/problemset/problem/84/C
+Toy Army
+CF84A
+http://codeforces.com/problemset/problem/84/A
+Two Subsequences
+CF83E
+http://codeforces.com/problemset/problem/83/E
+Numbers
+CF83D
+http://codeforces.com/problemset/problem/83/D
+Track
+CF83C
+http://codeforces.com/problemset/problem/83/C
+Doctor
+CF83B
+http://codeforces.com/problemset/problem/83/B
+Magical Array
+CF83A
+http://codeforces.com/problemset/problem/83/A
+Corridor
+CF82E
+http://codeforces.com/problemset/problem/82/E
+Two out of Three
+CF82D
+http://codeforces.com/problemset/problem/82/D
+General Mobilization
+CF82C
+http://codeforces.com/problemset/problem/82/C
+Sets
+CF82B
+http://codeforces.com/problemset/problem/82/B
+Double Cola
+CF82A
+http://codeforces.com/problemset/problem/82/A
+Pairs
+CF81E
+http://codeforces.com/problemset/problem/81/E
+Polycarp's Picture Gallery
+CF81D
+http://codeforces.com/problemset/problem/81/D
+Average Score
+CF81C
+http://codeforces.com/problemset/problem/81/C
+Sequence Formatting
+CF81B
+http://codeforces.com/problemset/problem/81/B
+Plug-in
+CF81A
+http://codeforces.com/problemset/problem/81/A
+Depression
+CF80B
+http://codeforces.com/problemset/problem/80/B
+Panoramix's Prediction
+CF80A
+http://codeforces.com/problemset/problem/80/A
+Security System
+CF79E
+http://codeforces.com/problemset/problem/79/E
+Password
+CF79D
+http://codeforces.com/problemset/problem/79/D
+Beaver
+CF79C
+http://codeforces.com/problemset/problem/79/C
+Colorful Field
+CF79B
+http://codeforces.com/problemset/problem/79/B
+Bus Game
+CF79A
+http://codeforces.com/problemset/problem/79/A
+Evacuation
+CF78E
+http://codeforces.com/problemset/problem/78/E
+Archer's Shot
+CF78D
+http://codeforces.com/problemset/problem/78/D
+Beaver Game
+CF78C
+http://codeforces.com/problemset/problem/78/C
+Easter Eggs
+CF78B
+http://codeforces.com/problemset/problem/78/B
+Haiku
+CF78A
+http://codeforces.com/problemset/problem/78/A
+Martian Food
+CF77E
+http://codeforces.com/problemset/problem/77/E
+Domino Carpet
+CF77D
+http://codeforces.com/problemset/problem/77/D
+Beavermuncher-0xFF
+CF77C
+http://codeforces.com/problemset/problem/77/C
+Falling Anvils
+CF77B
+http://codeforces.com/problemset/problem/77/B
+Heroes
+CF77A
+http://codeforces.com/problemset/problem/77/A
+Tourist
+CF76F
+http://codeforces.com/problemset/problem/76/F
+Points
+CF76E
+http://codeforces.com/problemset/problem/76/E
+Plus and xor
+CF76D
+http://codeforces.com/problemset/problem/76/D
+Mutation
+CF76C
+http://codeforces.com/problemset/problem/76/C
+Mice
+CF76B
+http://codeforces.com/problemset/problem/76/B
+Gift
+CF76A
+http://codeforces.com/problemset/problem/76/A
+Ship's Shortest Path
+CF75E
+http://codeforces.com/problemset/problem/75/E
+Big Maximum Sum
+CF75D
+http://codeforces.com/problemset/problem/75/D
+Modified GCD
+CF75C
+http://codeforces.com/problemset/problem/75/C
+Facetook Priority Wall
+CF75B
+http://codeforces.com/problemset/problem/75/B
+Life Without Zeros
+CF75A
+http://codeforces.com/problemset/problem/75/A
+Shift It!
+CF74E
+http://codeforces.com/problemset/problem/74/E
+Hanger
+CF74D
+http://codeforces.com/problemset/problem/74/D
+Chessboard Billiard
+CF74C
+http://codeforces.com/problemset/problem/74/C
+Train
+CF74B
+http://codeforces.com/problemset/problem/74/B
+Room Leader
+CF74A
+http://codeforces.com/problemset/problem/74/A
+Plane of Tanks
+CF73F
+http://codeforces.com/problemset/problem/73/F
+Morrowindows
+CF73E
+http://codeforces.com/problemset/problem/73/E
+FreeDiv
+CF73D
+http://codeforces.com/problemset/problem/73/D
+LionAge II
+CF73C
+http://codeforces.com/problemset/problem/73/C
+Need For Brake
+CF73B
+http://codeforces.com/problemset/problem/73/B
+The Elder Trolls IV: Oblivon
+CF73A
+http://codeforces.com/problemset/problem/73/A
+Goofy Numbers
+CF72I
+http://codeforces.com/problemset/problem/72/I
+Reverse It!
+CF72H
+http://codeforces.com/problemset/problem/72/H
+Fibonacci army
+CF72G
+http://codeforces.com/problemset/problem/72/G
+Oil
+CF72F
+http://codeforces.com/problemset/problem/72/F
+Ali goes shopping
+CF72E
+http://codeforces.com/problemset/problem/72/E
+Perse-script
+CF72D
+http://codeforces.com/problemset/problem/72/D
+Extraordinarily Nice Numbers
+CF72C
+http://codeforces.com/problemset/problem/72/C
+INI-file
+CF72B
+http://codeforces.com/problemset/problem/72/B
+Goshtasp, Vishtasp and Eidi
+CF72A
+http://codeforces.com/problemset/problem/72/A
+Nuclear Fusion
+CF71E
+http://codeforces.com/problemset/problem/71/E
+Solitaire
+CF71D
+http://codeforces.com/problemset/problem/71/D
+Round Table Knights
+CF71C
+http://codeforces.com/problemset/problem/71/C
+Progress Bar
+CF71B
+http://codeforces.com/problemset/problem/71/B
+Way Too Long Words
+CF71A
+http://codeforces.com/problemset/problem/71/A
+Information Reform
+CF70E
+http://codeforces.com/problemset/problem/70/E
+Professor's task
+CF70D
+http://codeforces.com/problemset/problem/70/D
+Lucky Tickets
+CF70C
+http://codeforces.com/problemset/problem/70/C
+Text Messaging
+CF70B
+http://codeforces.com/problemset/problem/70/B
+Cookies
+CF70A
+http://codeforces.com/problemset/problem/70/A
+Subsegments
+CF69E
+http://codeforces.com/problemset/problem/69/E
+Dot
+CF69D
+http://codeforces.com/problemset/problem/69/D
+Game
+CF69C
+http://codeforces.com/problemset/problem/69/C
+Bets
+CF69B
+http://codeforces.com/problemset/problem/69/B
+Young Physicist
+CF69A
+http://codeforces.com/problemset/problem/69/A
+Contact
+CF68E
+http://codeforces.com/problemset/problem/68/E
+Half-decay tree
+CF68D
+http://codeforces.com/problemset/problem/68/D
+Synchrophasotron
+CF68C
+http://codeforces.com/problemset/problem/68/C
+Energy exchange
+CF68B
+http://codeforces.com/problemset/problem/68/B
+Irrational problem
+CF68A
+http://codeforces.com/problemset/problem/68/A
+Save the City!
+CF67E
+http://codeforces.com/problemset/problem/67/E
+Optical Experiment
+CF67D
+http://codeforces.com/problemset/problem/67/D
+Sequence of Balls
+CF67C
+http://codeforces.com/problemset/problem/67/C
+Restoration of the Permutation
+CF67B
+http://codeforces.com/problemset/problem/67/B
+Partial Teacher
+CF67A
+http://codeforces.com/problemset/problem/67/A
+Petya and Post
+CF66E
+http://codeforces.com/problemset/problem/66/E
+Petya and His Friends
+CF66D
+http://codeforces.com/problemset/problem/66/D
+Petya and File System
+CF66C
+http://codeforces.com/problemset/problem/66/C
+Petya and Countryside
+CF66B
+http://codeforces.com/problemset/problem/66/B
+Petya and Java
+CF66A
+http://codeforces.com/problemset/problem/66/A
+Harry Potter and Moving Staircases
+CF65E
+http://codeforces.com/problemset/problem/65/E
+Harry Potter and the Sorting Hat
+CF65D
+http://codeforces.com/problemset/problem/65/D
+Harry Potter and the Golden Snitch
+CF65C
+http://codeforces.com/problemset/problem/65/C
+Harry Potter and the History of Magic
+CF65B
+http://codeforces.com/problemset/problem/65/B
+Harry Potter and Three Spells
+CF65A
+http://codeforces.com/problemset/problem/65/A
+Sort the Table
+CF64I
+http://codeforces.com/problemset/problem/64/I
+Table Bowling
+CF64H
+http://codeforces.com/problemset/problem/64/H
+Path Canonization
+CF64G
+http://codeforces.com/problemset/problem/64/G
+Domain
+CF64F
+http://codeforces.com/problemset/problem/64/F
+Prime Segment
+CF64E
+http://codeforces.com/problemset/problem/64/E
+Presents
+CF64D
+http://codeforces.com/problemset/problem/64/D
+Table
+CF64C
+http://codeforces.com/problemset/problem/64/C
+Expression
+CF64B
+http://codeforces.com/problemset/problem/64/B
+Factorial
+CF64A
+http://codeforces.com/problemset/problem/64/A
+Sweets Game
+CF63E
+http://codeforces.com/problemset/problem/63/E
+Dividing Island
+CF63D
+http://codeforces.com/problemset/problem/63/D
+Bulls and Cows
+CF63C
+http://codeforces.com/problemset/problem/63/C
+Settlers' Training
+CF63B
+http://codeforces.com/problemset/problem/63/B
+Sinking Ship
+CF63A
+http://codeforces.com/problemset/problem/63/A
+World Evil
+CF62E
+http://codeforces.com/problemset/problem/62/E
+Wormhouse
+CF62D
+http://codeforces.com/problemset/problem/62/D
+Inquisition
+CF62C
+http://codeforces.com/problemset/problem/62/C
+Tyndex.Brome
+CF62B
+http://codeforces.com/problemset/problem/62/B
+A Student's Dream
+CF62A
+http://codeforces.com/problemset/problem/62/A
+Enemy is weak
+CF61E
+http://codeforces.com/problemset/problem/61/E
+Eternal Victory
+CF61D
+http://codeforces.com/problemset/problem/61/D
+Capture Valerian
+CF61C
+http://codeforces.com/problemset/problem/61/C
+Hard Work
+CF61B
+http://codeforces.com/problemset/problem/61/B
+Ultra-Fast Mathematician
+CF61A
+http://codeforces.com/problemset/problem/61/A
+Mushroom Gnomes
+CF60E
+http://codeforces.com/problemset/problem/60/E
+Savior
+CF60D
+http://codeforces.com/problemset/problem/60/D
+Mushroom Strife
+CF60C
+http://codeforces.com/problemset/problem/60/C
+Serial Time!
+CF60B
+http://codeforces.com/problemset/problem/60/B
+Where Are My Flakes?
+CF60A
+http://codeforces.com/problemset/problem/60/A
+Shortest Path
+CF59E
+http://codeforces.com/problemset/problem/59/E
+Team Arrangement
+CF59D
+http://codeforces.com/problemset/problem/59/D
+Title
+CF59C
+http://codeforces.com/problemset/problem/59/C
+Fortune Telling
+CF59B
+http://codeforces.com/problemset/problem/59/B
+Word
+CF59A
+http://codeforces.com/problemset/problem/59/A
+Expression
+CF58E
+http://codeforces.com/problemset/problem/58/E
+Calendar
+CF58D
+http://codeforces.com/problemset/problem/58/D
+Trees
+CF58C
+http://codeforces.com/problemset/problem/58/C
+Coins
+CF58B
+http://codeforces.com/problemset/problem/58/B
+Chat room
+CF58A
+http://codeforces.com/problemset/problem/58/A
+Chess
+CF57E
+http://codeforces.com/problemset/problem/57/E
+Journey
+CF57D
+http://codeforces.com/problemset/problem/57/D
+Array
+CF57C
+http://codeforces.com/problemset/problem/57/C
+Martian Architecture
+CF57B
+http://codeforces.com/problemset/problem/57/B
+Square Earth?
+CF57A
+http://codeforces.com/problemset/problem/57/A
+Domino Principle
+CF56E
+http://codeforces.com/problemset/problem/56/E
+Changing a String
+CF56D
+http://codeforces.com/problemset/problem/56/D
+Corporation Mail
+CF56C
+http://codeforces.com/problemset/problem/56/C
+Spoilt Permutation
+CF56B
+http://codeforces.com/problemset/problem/56/B
+Bar
+CF56A
+http://codeforces.com/problemset/problem/56/A
+Very simple problem
+CF55E
+http://codeforces.com/problemset/problem/55/E
+Beautiful numbers
+CF55D
+http://codeforces.com/problemset/problem/55/D
+Pie or die
+CF55C
+http://codeforces.com/problemset/problem/55/C
+Smallest number
+CF55B
+http://codeforces.com/problemset/problem/55/B
+Flea travel
+CF55A
+http://codeforces.com/problemset/problem/55/A
+Vacuum Сleaner
+CF54E
+http://codeforces.com/problemset/problem/54/E
+Writing a Song
+CF54D
+http://codeforces.com/problemset/problem/54/D
+First Digit Law
+CF54C
+http://codeforces.com/problemset/problem/54/C
+Cutting Jigsaw Puzzle
+CF54B
+http://codeforces.com/problemset/problem/54/B
+Presents
+CF54A
+http://codeforces.com/problemset/problem/54/A
+Dead Ends
+CF53E
+http://codeforces.com/problemset/problem/53/E
+Physical Education
+CF53D
+http://codeforces.com/problemset/problem/53/D
+Little Frog
+CF53C
+http://codeforces.com/problemset/problem/53/C
+Blog Photo
+CF53B
+http://codeforces.com/problemset/problem/53/B
+Autocomplete
+CF53A
+http://codeforces.com/problemset/problem/53/A
+Circular RMQ
+CF52C
+http://codeforces.com/problemset/problem/52/C
+Right Triangles
+CF52B
+http://codeforces.com/problemset/problem/52/B
+123-sequence
+CF52A
+http://codeforces.com/problemset/problem/52/A
+Caterpillar
+CF51F
+http://codeforces.com/problemset/problem/51/F
+Pentagon
+CF51E
+http://codeforces.com/problemset/problem/51/E
+Geometrical problem
+CF51D
+http://codeforces.com/problemset/problem/51/D
+Three Base Stations
+CF51C
+http://codeforces.com/problemset/problem/51/C
+bHTML Tables Analisys
+CF51B
+http://codeforces.com/problemset/problem/51/B
+Cheaterius's Problem
+CF51A
+http://codeforces.com/problemset/problem/51/A
+Square Equation Roots
+CF50E
+http://codeforces.com/problemset/problem/50/E
+Bombing
+CF50D
+http://codeforces.com/problemset/problem/50/D
+Happy Farm 5
+CF50C
+http://codeforces.com/problemset/problem/50/C
+Choosing Symbol Pairs
+CF50B
+http://codeforces.com/problemset/problem/50/B
+Domino piling
+CF50A
+http://codeforces.com/problemset/problem/50/A
+Common ancestor
+CF49E
+http://codeforces.com/problemset/problem/49/E
+Game
+CF49D
+http://codeforces.com/problemset/problem/49/D
+Disposition
+CF49C
+http://codeforces.com/problemset/problem/49/C
+Sum
+CF49B
+http://codeforces.com/problemset/problem/49/B
+Sleuth
+CF49A
+http://codeforces.com/problemset/problem/49/A
+Black and White
+CF48H
+http://codeforces.com/problemset/problem/48/H
+Galaxy Union
+CF48G
+http://codeforces.com/problemset/problem/48/G
+Snow sellers
+CF48F
+http://codeforces.com/problemset/problem/48/F
+Ivan the Fool VS Gorynych the Dragon
+CF48E
+http://codeforces.com/problemset/problem/48/E
+Permutations
+CF48D
+http://codeforces.com/problemset/problem/48/D
+The Race
+CF48C
+http://codeforces.com/problemset/problem/48/C
+Land Lot
+CF48B
+http://codeforces.com/problemset/problem/48/B
+Rock-paper-scissors
+CF48A
+http://codeforces.com/problemset/problem/48/A
+Cannon
+CF47E
+http://codeforces.com/problemset/problem/47/E
+Safe
+CF47D
+http://codeforces.com/problemset/problem/47/D
+Crossword
+CF47C
+http://codeforces.com/problemset/problem/47/C
+Coins
+CF47B
+http://codeforces.com/problemset/problem/47/B
+Triangular numbers
+CF47A
+http://codeforces.com/problemset/problem/47/A
+Emperor's Problem
+CF46G
+http://codeforces.com/problemset/problem/46/G
+Hercule Poirot Problem
+CF46F
+http://codeforces.com/problemset/problem/46/F
+Comb
+CF46E
+http://codeforces.com/problemset/problem/46/E
+Parking Lot
+CF46D
+http://codeforces.com/problemset/problem/46/D
+Hamsters and Tigers
+CF46C
+http://codeforces.com/problemset/problem/46/C
+T-shirts from Sponsor
+CF46B
+http://codeforces.com/problemset/problem/46/B
+Ball Game
+CF46A
+http://codeforces.com/problemset/problem/46/A
+Planting Trees
+CF45J
+http://codeforces.com/problemset/problem/45/J
+TCMCF+++
+CF45I
+http://codeforces.com/problemset/problem/45/I
+Road Problem
+CF45H
+http://codeforces.com/problemset/problem/45/H
+Prime Problem
+CF45G
+http://codeforces.com/problemset/problem/45/G
+Goats and Wolves
+CF45F
+http://codeforces.com/problemset/problem/45/F
+Director
+CF45E
+http://codeforces.com/problemset/problem/45/E
+Event Dates
+CF45D
+http://codeforces.com/problemset/problem/45/D
+Dancing Lessons
+CF45C
+http://codeforces.com/problemset/problem/45/C
+School
+CF45B
+http://codeforces.com/problemset/problem/45/B
+Codecraft III
+CF45A
+http://codeforces.com/problemset/problem/45/A
+Triminoes
+CF44J
+http://codeforces.com/problemset/problem/44/J
+Toys
+CF44I
+http://codeforces.com/problemset/problem/44/I
+Phone Number
+CF44H
+http://codeforces.com/problemset/problem/44/H
+Shooting Gallery
+CF44G
+http://codeforces.com/problemset/problem/44/G
+BerPaint
+CF44F
+http://codeforces.com/problemset/problem/44/F
+Anfisa the Monkey
+CF44E
+http://codeforces.com/problemset/problem/44/E
+Hyperdrive
+CF44D
+http://codeforces.com/problemset/problem/44/D
+Holidays
+CF44C
+http://codeforces.com/problemset/problem/44/C
+Cola
+CF44B
+http://codeforces.com/problemset/problem/44/B
+Indian Summer
+CF44A
+http://codeforces.com/problemset/problem/44/A
+Race
+CF43E
+http://codeforces.com/problemset/problem/43/E
+Journey
+CF43D
+http://codeforces.com/problemset/problem/43/D
+Lucky Tickets
+CF43C
+http://codeforces.com/problemset/problem/43/C
+Letter
+CF43B
+http://codeforces.com/problemset/problem/43/B
+Football
+CF43A
+http://codeforces.com/problemset/problem/43/A
+Baldman and the military
+CF42E
+http://codeforces.com/problemset/problem/42/E
+Strange town
+CF42D
+http://codeforces.com/problemset/problem/42/D
+Safe cracking
+CF42C
+http://codeforces.com/problemset/problem/42/C
+Game of chess unfinished
+CF42B
+http://codeforces.com/problemset/problem/42/B
+Guilty --- to the kitchen!
+CF42A
+http://codeforces.com/problemset/problem/42/A
+3-cycles
+CF41E
+http://codeforces.com/problemset/problem/41/E
+Pawn
+CF41D
+http://codeforces.com/problemset/problem/41/D
+Email address
+CF41C
+http://codeforces.com/problemset/problem/41/C
+Martian Dollar
+CF41B
+http://codeforces.com/problemset/problem/41/B
+Translation
+CF41A
+http://codeforces.com/problemset/problem/41/A
+Number Table
+CF40E
+http://codeforces.com/problemset/problem/40/E
+Interesting Sequence
+CF40D
+http://codeforces.com/problemset/problem/40/D
+Berland Square
+CF40C
+http://codeforces.com/problemset/problem/40/C
+Repaintings
+CF40B
+http://codeforces.com/problemset/problem/40/B
+Find Color
+CF40A
+http://codeforces.com/problemset/problem/40/A
+Testing
+CF39K
+http://codeforces.com/problemset/problem/39/K
+Spelling Check
+CF39J
+http://codeforces.com/problemset/problem/39/J
+Tram
+CF39I
+http://codeforces.com/problemset/problem/39/I
+Multiplication Table
+CF39H
+http://codeforces.com/problemset/problem/39/H
+Inverse Function
+CF39G
+http://codeforces.com/problemset/problem/39/G
+Pacifist frogs
+CF39F
+http://codeforces.com/problemset/problem/39/F
+What Has Dirichlet Got to Do with That?
+CF39E
+http://codeforces.com/problemset/problem/39/E
+Cubical Planet
+CF39D
+http://codeforces.com/problemset/problem/39/D
+Moon Craters
+CF39C
+http://codeforces.com/problemset/problem/39/C
+Company Income Growth
+CF39B
+http://codeforces.com/problemset/problem/39/B
+C*++ Calculations
+CF39A
+http://codeforces.com/problemset/problem/39/A
+The Great Marathon
+CF38H
+http://codeforces.com/problemset/problem/38/H
+Queue
+CF38G
+http://codeforces.com/problemset/problem/38/G
+Smart Boy
+CF38F
+http://codeforces.com/problemset/problem/38/F
+Let's Go Rolling!
+CF38E
+http://codeforces.com/problemset/problem/38/E
+Vasya the Architect
+CF38D
+http://codeforces.com/problemset/problem/38/D
+Blinds
+CF38C
+http://codeforces.com/problemset/problem/38/C
+Chess
+CF38B
+http://codeforces.com/problemset/problem/38/B
+Army
+CF38A
+http://codeforces.com/problemset/problem/38/A
+Trial for Chief
+CF37E
+http://codeforces.com/problemset/problem/37/E
+Lesson Timetable
+CF37D
+http://codeforces.com/problemset/problem/37/D
+Old Berland Language
+CF37C
+http://codeforces.com/problemset/problem/37/C
+Computer Game
+CF37B
+http://codeforces.com/problemset/problem/37/B
+Towers
+CF37A
+http://codeforces.com/problemset/problem/37/A
+Two Paths
+CF36E
+http://codeforces.com/problemset/problem/36/E
+New Game with a Chess Piece
+CF36D
+http://codeforces.com/problemset/problem/36/D
+Bowls
+CF36C
+http://codeforces.com/problemset/problem/36/C
+Fractal
+CF36B
+http://codeforces.com/problemset/problem/36/B
+Extra-terrestrial Intelligence
+CF36A
+http://codeforces.com/problemset/problem/36/A
+Parade
+CF35E
+http://codeforces.com/problemset/problem/35/E
+Animals
+CF35D
+http://codeforces.com/problemset/problem/35/D
+Fire Again
+CF35C
+http://codeforces.com/problemset/problem/35/C
+Warehouse
+CF35B
+http://codeforces.com/problemset/problem/35/B
+Shell Game
+CF35A
+http://codeforces.com/problemset/problem/35/A
+Collisions
+CF34E
+http://codeforces.com/problemset/problem/34/E
+Road Map
+CF34D
+http://codeforces.com/problemset/problem/34/D
+Page Numbers
+CF34C
+http://codeforces.com/problemset/problem/34/C
+Sale
+CF34B
+http://codeforces.com/problemset/problem/34/B
+Reconnaissance 2
+CF34A
+http://codeforces.com/problemset/problem/34/A
+Helper
+CF33E
+http://codeforces.com/problemset/problem/33/E
+Knights
+CF33D
+http://codeforces.com/problemset/problem/33/D
+Wonderful Randomized Sum
+CF33C
+http://codeforces.com/problemset/problem/33/C
+String Problem
+CF33B
+http://codeforces.com/problemset/problem/33/B
+What is for dinner?
+CF33A
+http://codeforces.com/problemset/problem/33/A
+Hide-and-Seek
+CF32E
+http://codeforces.com/problemset/problem/32/E
+Constellation
+CF32D
+http://codeforces.com/problemset/problem/32/D
+Flea
+CF32C
+http://codeforces.com/problemset/problem/32/C
+Borze
+CF32B
+http://codeforces.com/problemset/problem/32/B
+Reconnaissance
+CF32A
+http://codeforces.com/problemset/problem/32/A
+TV Game
+CF31E
+http://codeforces.com/problemset/problem/31/E
+Chocolate
+CF31D
+http://codeforces.com/problemset/problem/31/D
+Schedule
+CF31C
+http://codeforces.com/problemset/problem/31/C
+Sysadmin Bob
+CF31B
+http://codeforces.com/problemset/problem/31/B
+Worms Evolution
+CF31A
+http://codeforces.com/problemset/problem/31/A
+Tricky and Clever Password
+CF30E
+http://codeforces.com/problemset/problem/30/E
+King's Problem?
+CF30D
+http://codeforces.com/problemset/problem/30/D
+Shooting Gallery
+CF30C
+http://codeforces.com/problemset/problem/30/C
+Codeforces World Finals
+CF30B
+http://codeforces.com/problemset/problem/30/B
+Accounting
+CF30A
+http://codeforces.com/problemset/problem/30/A
+Quarrel
+CF29E
+http://codeforces.com/problemset/problem/29/E
+Ant on the Tree
+CF29D
+http://codeforces.com/problemset/problem/29/D
+Mail Stamps
+CF29C
+http://codeforces.com/problemset/problem/29/C
+Traffic Lights
+CF29B
+http://codeforces.com/problemset/problem/29/B
+Spit Problem
+CF29A
+http://codeforces.com/problemset/problem/29/A
+DravDe saves the world
+CF28E
+http://codeforces.com/problemset/problem/28/E
+Don't fear, DravDe is kind
+CF28D
+http://codeforces.com/problemset/problem/28/D
+Bath Queue
+CF28C
+http://codeforces.com/problemset/problem/28/C
+pSort
+CF28B
+http://codeforces.com/problemset/problem/28/B
+Bender Problem
+CF28A
+http://codeforces.com/problemset/problem/28/A
+Number With The Given Amount Of Divisors
+CF27E
+http://codeforces.com/problemset/problem/27/E
+Ring Road 2
+CF27D
+http://codeforces.com/problemset/problem/27/D
+Unordered Subsequence
+CF27C
+http://codeforces.com/problemset/problem/27/C
+Tournament
+CF27B
+http://codeforces.com/problemset/problem/27/B
+Next Test
+CF27A
+http://codeforces.com/problemset/problem/27/A
+Multithreading
+CF26E
+http://codeforces.com/problemset/problem/26/E
+Tickets
+CF26D
+http://codeforces.com/problemset/problem/26/D
+Parquet
+CF26C
+http://codeforces.com/problemset/problem/26/C
+Regular Bracket Sequence
+CF26B
+http://codeforces.com/problemset/problem/26/B
+Almost Prime
+CF26A
+http://codeforces.com/problemset/problem/26/A
+Test
+CF25E
+http://codeforces.com/problemset/problem/25/E
+Roads not only in Berland
+CF25D
+http://codeforces.com/problemset/problem/25/D
+Roads in Berland
+CF25C
+http://codeforces.com/problemset/problem/25/C
+Phone numbers
+CF25B
+http://codeforces.com/problemset/problem/25/B
+IQ test
+CF25A
+http://codeforces.com/problemset/problem/25/A
+Berland collider
+CF24E
+http://codeforces.com/problemset/problem/24/E
+Broken robot
+CF24D
+http://codeforces.com/problemset/problem/24/D
+Sequence of points
+CF24C
+http://codeforces.com/problemset/problem/24/C
+F1 Champions
+CF24B
+http://codeforces.com/problemset/problem/24/B
+Ring road
+CF24A
+http://codeforces.com/problemset/problem/24/A
+Tree
+CF23E
+http://codeforces.com/problemset/problem/23/E
+Tetragon
+CF23D
+http://codeforces.com/problemset/problem/23/D
+Oranges and Apples
+CF23C
+http://codeforces.com/problemset/problem/23/C
+Party
+CF23B
+http://codeforces.com/problemset/problem/23/B
+You're Given a String...
+CF23A
+http://codeforces.com/problemset/problem/23/A
+Scheme
+CF22E
+http://codeforces.com/problemset/problem/22/E
+Segments
+CF22D
+http://codeforces.com/problemset/problem/22/D
+System Administrator
+CF22C
+http://codeforces.com/problemset/problem/22/C
+Bargaining Table
+CF22B
+http://codeforces.com/problemset/problem/22/B
+Second Order Statistics
+CF22A
+http://codeforces.com/problemset/problem/22/A
+Traveling Graph
+CF21D
+http://codeforces.com/problemset/problem/21/D
+Stripe 2
+CF21C
+http://codeforces.com/problemset/problem/21/C
+Intersection
+CF21B
+http://codeforces.com/problemset/problem/21/B
+Jabber ID
+CF21A
+http://codeforces.com/problemset/problem/21/A
+Dijkstra?
+CF20C
+http://codeforces.com/problemset/problem/20/C
+Equation
+CF20B
+http://codeforces.com/problemset/problem/20/B
+BerOS file system
+CF20A
+http://codeforces.com/problemset/problem/20/A
+Fairy
+CF19E
+http://codeforces.com/problemset/problem/19/E
+Points
+CF19D
+http://codeforces.com/problemset/problem/19/D
+Deletion of Repeats
+CF19C
+http://codeforces.com/problemset/problem/19/C
+Checkout Assistant
+CF19B
+http://codeforces.com/problemset/problem/19/B
+World Football Cup
+CF19A
+http://codeforces.com/problemset/problem/19/A
+Flag 2
+CF18E
+http://codeforces.com/problemset/problem/18/E
+Seller Bob
+CF18D
+http://codeforces.com/problemset/problem/18/D
+Stripe
+CF18C
+http://codeforces.com/problemset/problem/18/C
+Platforms
+CF18B
+http://codeforces.com/problemset/problem/18/B
+Triangle
+CF18A
+http://codeforces.com/problemset/problem/18/A
+Palisection
+CF17E
+http://codeforces.com/problemset/problem/17/E
+Notepad
+CF17D
+http://codeforces.com/problemset/problem/17/D
+Balance
+CF17C
+http://codeforces.com/problemset/problem/17/C
+Hierarchy
+CF17B
+http://codeforces.com/problemset/problem/17/B
+Noldbach problem
+CF17A
+http://codeforces.com/problemset/problem/17/A
+Fish
+CF16E
+http://codeforces.com/problemset/problem/16/E
+Logging
+CF16D
+http://codeforces.com/problemset/problem/16/D
+Monitor
+CF16C
+http://codeforces.com/problemset/problem/16/C
+Burglar and Matches
+CF16B
+http://codeforces.com/problemset/problem/16/B
+Flag
+CF16A
+http://codeforces.com/problemset/problem/16/A
+Triangles
+CF15E
+http://codeforces.com/problemset/problem/15/E
+Map
+CF15D
+http://codeforces.com/problemset/problem/15/D
+Industrial Nim
+CF15C
+http://codeforces.com/problemset/problem/15/C
+Laser
+CF15B
+http://codeforces.com/problemset/problem/15/B
+Cottage Village
+CF15A
+http://codeforces.com/problemset/problem/15/A
+Camels
+CF14E
+http://codeforces.com/problemset/problem/14/E
+Two Paths
+CF14D
+http://codeforces.com/problemset/problem/14/D
+Four Segments
+CF14C
+http://codeforces.com/problemset/problem/14/C
+Young Photographer
+CF14B
+http://codeforces.com/problemset/problem/14/B
+Letter
+CF14A
+http://codeforces.com/problemset/problem/14/A
+Holes
+CF13E
+http://codeforces.com/problemset/problem/13/E
+Triangles
+CF13D
+http://codeforces.com/problemset/problem/13/D
+Sequence
+CF13C
+http://codeforces.com/problemset/problem/13/C
+Letter A
+CF13B
+http://codeforces.com/problemset/problem/13/B
+Numbers
+CF13A
+http://codeforces.com/problemset/problem/13/A
+Start of the session
+CF12E
+http://codeforces.com/problemset/problem/12/E
+Ball
+CF12D
+http://codeforces.com/problemset/problem/12/D
+Fruits
+CF12C
+http://codeforces.com/problemset/problem/12/C
+Correct Solution?
+CF12B
+http://codeforces.com/problemset/problem/12/B
+Super Agent
+CF12A
+http://codeforces.com/problemset/problem/12/A
+Forward, march!
+CF11E
+http://codeforces.com/problemset/problem/11/E
+A Simple Task
+CF11D
+http://codeforces.com/problemset/problem/11/D
+How Many Squares?
+CF11C
+http://codeforces.com/problemset/problem/11/C
+Jumping Jack
+CF11B
+http://codeforces.com/problemset/problem/11/B
+Increasing Sequence
+CF11A
+http://codeforces.com/problemset/problem/11/A
+Greedy Change
+CF10E
+http://codeforces.com/problemset/problem/10/E
+LCIS
+CF10D
+http://codeforces.com/problemset/problem/10/D
+Digital Root
+CF10C
+http://codeforces.com/problemset/problem/10/C
+Cinema Cashier
+CF10B
+http://codeforces.com/problemset/problem/10/B
+Power Consumption Calculation
+CF10A
+http://codeforces.com/problemset/problem/10/A
+Interestring graph and Apples
+CF9E
+http://codeforces.com/problemset/problem/9/E
+How many trees?
+CF9D
+http://codeforces.com/problemset/problem/9/D
+Hexadecimal's Numbers
+CF9C
+http://codeforces.com/problemset/problem/9/C
+Running Student
+CF9B
+http://codeforces.com/problemset/problem/9/B
+Die Roll
+CF9A
+http://codeforces.com/problemset/problem/9/A
+Beads
+CF8E
+http://codeforces.com/problemset/problem/8/E
+Two Friends
+CF8D
+http://codeforces.com/problemset/problem/8/D
+Looking for Order
+CF8C
+http://codeforces.com/problemset/problem/8/C
+Obsession with Robots
+CF8B
+http://codeforces.com/problemset/problem/8/B
+Train and Peter
+CF8A
+http://codeforces.com/problemset/problem/8/A
+Defining Macros
+CF7E
+http://codeforces.com/problemset/problem/7/E
+Palindrome Degree
+CF7D
+http://codeforces.com/problemset/problem/7/D
+Line
+CF7C
+http://codeforces.com/problemset/problem/7/C
+Memory Manager
+CF7B
+http://codeforces.com/problemset/problem/7/B
+Kalevitch and Chess
+CF7A
+http://codeforces.com/problemset/problem/7/A
+Exposition
+CF6E
+http://codeforces.com/problemset/problem/6/E
+Lizards and Basements 2
+CF6D
+http://codeforces.com/problemset/problem/6/D
+Alice, Bob and Chocolate
+CF6C
+http://codeforces.com/problemset/problem/6/C
+President's Office
+CF6B
+http://codeforces.com/problemset/problem/6/B
+Triangle
+CF6A
+http://codeforces.com/problemset/problem/6/A
+Bindian Signalizing
+CF5E
+http://codeforces.com/problemset/problem/5/E
+Follow Traffic Rules
+CF5D
+http://codeforces.com/problemset/problem/5/D
+Longest Regular Bracket Sequence
+CF5C
+http://codeforces.com/problemset/problem/5/C
+Center Alignment
+CF5B
+http://codeforces.com/problemset/problem/5/B
+Chat Servers Outgoing Traffic
+CF5A
+http://codeforces.com/problemset/problem/5/A
+Mysterious Present
+CF4D
+http://codeforces.com/problemset/problem/4/D
+Registration System
+CF4C
+http://codeforces.com/problemset/problem/4/C
+Before an Exam
+CF4B
+http://codeforces.com/problemset/problem/4/B
+Watermelon
+CF4A
+http://codeforces.com/problemset/problem/4/A
+Least Cost Bracket Sequence
+CF3D
+http://codeforces.com/problemset/problem/3/D
+Tic-tac-toe
+CF3C
+http://codeforces.com/problemset/problem/3/C
+Lorry
+CF3B
+http://codeforces.com/problemset/problem/3/B
+Shortest path of the king
+CF3A
+http://codeforces.com/problemset/problem/3/A
+Commentator problem
+CF2C
+http://codeforces.com/problemset/problem/2/C
+The least round way
+CF2B
+http://codeforces.com/problemset/problem/2/B
+Winner
+CF2A
+http://codeforces.com/problemset/problem/2/A
+Ancient Berland Circus
+CF1C
+http://codeforces.com/problemset/problem/1/C
+Spreadsheet
+CF1B
+http://codeforces.com/problemset/problem/1/B
+Theatre Square
+CF1A
+http://codeforces.com/problemset/problem/1/A
