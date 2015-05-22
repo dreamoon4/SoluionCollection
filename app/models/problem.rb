@@ -19,4 +19,8 @@ class Problem < ActiveRecord::Base
       .limit(5)
   end
 
+  def self.search_all(search)
+    where("unique_name LIKE :search OR title LIKE :search", search: "%#{search}%")
+  end
+
 end
