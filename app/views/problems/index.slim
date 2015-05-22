@@ -8,37 +8,88 @@ a href="#{new_solution_path}"
   .ui.button
     | New Solution
 
-table.ui.celled.striped.table
-  thead
-    tr
-      th
-      th
-      th
-        | unique name
-      th
-        | problem link
-      th
-        | solution link
-  tbody
-  - for prob in @problems do
-    tr
-      td.collapsing
-        a href="#{new_solution_path(pname: prob.unique_name)}"
-          i.glyphicon.glyphicon-plus
-      td.collapsing
-        a href="#{edit_problem_path(prob)}"
-          i.glyphicon.glyphicon-edit
-      td
-        span =prob.unique_name
-      td
-        a.ptitle href="#{prob.link? ? prob.description : problem_path(prob)}"
-          i.linkify.icon
-          =prob.title
-        - prob.tags.each do |tag|
-          .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
-      td
-        - for sol in prob.solutions do
-          == link_to "solution", solution_path(sol), {class: 'sol-link'}
+- for prob in @problems do
+  .ui.segment
+    a.ui.black.ribbon.label href="#{prob.link? ? prob.description : problem_path(prob)}"
+      | Problem link
+    .ui.grid
+      .four.wide.column
+        h2.ui.header 
+          | #{prob.title}
+          .sub.header #{prob.unique_name}
+      .eight.wide.column
+      .four.wide.column
+        .ui.small.buttons
+          .ui.button New Solution
+          .or
+          .ui.button Edit Problem
+    .ui.six.doubling.cards
+      .red.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+      .orange.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+      .yellow.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+      .green.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+      .blue.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+      .purple.card
+        .content
+          a.header solution
+        .extra.content
+          a.left.floated
+            i.thumbs.outline.up.icon
+          a.right.floated
+            i.thumbs.outline.down.icon
+    / tr
+    /   td.collapsing
+    /     a href="#{new_solution_path(pname: prob.unique_name)}"
+    /       i.add.icon
+    /   td.collapsing
+    /     a href="#{edit_problem_path(prob)}"
+    /       i.glyphicon.glyphicon-edit
+    /   td
+    /     span =prob.unique_name
+    /   td
+    /     a.ptitle href="#{prob.link? ? prob.description : problem_path(prob)}"
+    /       i.linkify.icon
+    /       =prob.title
+    /     - prob.tags.each do |tag|
+    /       .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
+    /   td
+    /     - for sol in prob.solutions do
+    /       == link_to "solution", solution_path(sol), {class: 'sol-link'}
 
 css:
   .problem:nth-child(even) {
