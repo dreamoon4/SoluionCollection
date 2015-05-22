@@ -1,5 +1,8 @@
 h1 Problems
 
+#search-result-show
+
+
 - for prob in @problems do
   .row.problem
     .col-lg-1
@@ -31,3 +34,11 @@ css:
   .ptag.ui.horizontal.label {
     padding: 0.1em 0.5em;
   }
+  #search-result-show .search-result {
+    border: 1px solid #CCC;
+  }
+
+javascript:
+  $(function() {
+    Problem.init("#{@search_key}");
+  });

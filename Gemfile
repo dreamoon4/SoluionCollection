@@ -39,6 +39,9 @@ gem 'slim'
 gem "select2-rails"
 gem 'handlebars_assets'
 
+# WebSocket support
+gem 'websocket-rails'
+
 # Logins
 gem 'omniauth-google-oauth2'
 

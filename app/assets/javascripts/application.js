@@ -20,3 +20,5 @@
 //= require semantic-ui/dropdown
 //= require_tree ./templates
 //= require_tree .
+//= require websocket_rails/main
+
