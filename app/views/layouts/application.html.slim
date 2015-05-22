@@ -7,6 +7,7 @@ html
     == csrf_meta_tags
 
   body
+    == render 'layouts/header'
     .container
       - flash.each do |key, value|
         .alert class="alert-#{key}" #{value}

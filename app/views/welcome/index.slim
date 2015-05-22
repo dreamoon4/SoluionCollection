@@ -1,28 +1,6 @@
-h1 Solution Collection
-
-form.form
-  .input-group
-    input.searchbox.form-control#srh placeholder='Search Problems...'
-    span.input-group-addon
-      i.glyphicon.glyphicon-search
-
-#search-result-box
-
-css:
-  .sol-sticker {
-    min-height: 64px;
-    min-width: 64px;
-    height: 64px;
-    width: 64px;
-    border: 1px solid #AAA;
-    display: inline-block;
-  }
-  .search-result {
-    min-height: 100px;
-  }
-  .search-result:nth-child(even) {
-    background-color: #EEE;
-  }
-  .search-template {
-    display: none;
-  }
+.ui.centered.grid
+  .twelve.wide.centered.column
+    .ui.center.aligned.basic.segment
+      img src="http://placehold.it/500x300&text=we+need+a+logo"
+  .ten.wide.centered.column
+    == render 'layouts/search'

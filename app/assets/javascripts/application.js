@@ -17,3 +17,6 @@
 //= require handlebars
 //= require_tree ./templates
 //= require_tree .
+//= require semantic-ui
+//= require semantic-ui/modal
+//= require semantic-ui/dropdown
