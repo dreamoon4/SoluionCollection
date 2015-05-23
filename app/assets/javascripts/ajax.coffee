@@ -5,7 +5,7 @@ update_problems = (data) ->
     prob = p[0]
     sol_list = p[1]
     x = HandlebarsTemplates['problems/panel']({ prob: prob })
-    y = $('#search-result-box').append(x).find('.solution-list')
+    y = $('#search-result-box').append(x).find('.solution-list').last()
     seq = 0
     for sol in sol_list
       seq = seq + 1

@@ -1,12 +1,10 @@
 .ui.segment
   a.ui.black.ribbon.label href="{{prob.link}}"
-    | Problem link
+    | {{prob.unique_name}}
   .ui.grid
     .four.wide.column
       h2.ui.header 
         | {{prob.title}}
-        .sub.header
-          | {{prob.unique_name}}
     .eight.wide.column
       | {{#each prob.tags}}
       .ui.horizontal.label.ptag class="{{this.color}}"

@@ -4,6 +4,7 @@
 
 class Problem
   @add_problem: (prob) ->
+    console.log(prob.solutions)
     x = HandlebarsTemplates['problems/tablerow']({ prob: prob })
     y = $('#search-result-segment').append(x)
   @init: (query_string) ->
