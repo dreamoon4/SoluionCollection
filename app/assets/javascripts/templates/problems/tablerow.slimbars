@@ -1,23 +1,35 @@
-tr
-  td.collapsing
-    a href="{{prob.new_solution_path}}"
-      i.glyphicon.glyphicon-plus
-  td.collapsing
-    a href="{{prob.edit_problem_path}}"
-      i.glyphicon.glyphicon-edit
-  td
-    span 
-      | {{prob.unique_name}}
-  td
-    a.ptitle href="{{prob.problem_link}}"
-      i.linkify.icon
-      | {{prob.title}}
-    | {{#each prob.tags}}
-    .ui.horizontal.label.ptag class="{{this.color}}"
-      | {{this.name}}
-    | {{/each}}
-  td
+.ui.segment
+  a.ui.black.ribbon.label href="{{prob.link}}"
+    | Problem link
+  .ui.grid
+    .four.wide.column
+      h2.ui.header 
+        | {{prob.title}}
+        .sub.header
+          | {{prob.unique_name}}
+    .eight.wide.column
+      | {{#each prob.tags}}
+      .ui.horizontal.label.ptag class="{{this.color}}"
+        | {{this.name}}
+      | {{/each}}
+    .four.wide.column
+      .ui.small.buttons
+        a.ui.button href="{{prob.new_solution_path}}" New Solution
+        .or
+        a.ui.button href="{{prob.edit_problem_path}}" Edit Problem
+  .ui.six.doubling.cards
     | {{#each prob.solutions}}
-    a href="{{this.path}}" class='sol-link'
-      | solution
+    .card
+      .content
+        | {{this.rating}}
+        a.right.floated
+          i.thumbs.outline.down.icon
+        a.right.floated
+          i.thumbs.outline.up.icon
+      .ui.two.bottom.attached.buttons
+        a.ui.primary.button href="{{this.link}}"
+          | link
+        a.ui.button href="{{this.path}}"
+          | more
     | {{/each}}
+

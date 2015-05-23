@@ -1,6 +1,5 @@
 h1 Problems
 
-#search-result-show
 
 
 a href="#{new_problem_path}"
@@ -11,37 +10,38 @@ a href="#{new_solution_path}"
   .ui.button
     | New Solution
 
-- for prob in @problems do
-  .ui.segment
-    a.ui.black.ribbon.label href="#{prob.link? ? prob.description : problem_path(prob)}"
-      | Problem link
-    .ui.grid
-      .four.wide.column
-        h2.ui.header 
-          | #{prob.title}
-          .sub.header #{prob.unique_name}
-      .eight.wide.column
-        - prob.tags.each do |tag|
-          .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
-      .four.wide.column
-        .ui.small.buttons
-          .ui.button New Solution
-          .or
-          .ui.button Edit Problem
-    .ui.six.doubling.cards
-      - for sol in prob.solutions do
-        .card
-          .content
-            | #{sol.rating}
-            a.right.floated
-              i.thumbs.outline.down.icon
-            a.right.floated
-              i.thumbs.outline.up.icon
-          .ui.two.bottom.attached.buttons
-            a.ui.primary.button href="#{sol.content}"
-              | link
-            a.ui.button href="#{solution_path(sol)}"
-              | more
+#search-result-segment
+  - for prob in @problems do
+    .ui.segment
+      a.ui.black.ribbon.label href="#{prob.link? ? prob.description : problem_path(prob)}"
+        | Problem link
+      .ui.grid
+        .four.wide.column
+          h2.ui.header 
+            | #{prob.title}
+            .sub.header #{prob.unique_name}
+        .eight.wide.column
+          - prob.tags.each do |tag|
+            .ui.horizontal.label.ptag class="#{tag_color(tag.name)}" #{tag.name}
+        .four.wide.column
+          .ui.small.buttons
+            .ui.button New Solution
+            .or
+            .ui.button Edit Problem
+      .ui.six.doubling.cards
+        - for sol in prob.solutions do
+          .card
+            .content
+              | #{sol.rating}
+              a.right.floated
+                i.thumbs.outline.down.icon
+              a.right.floated
+                i.thumbs.outline.up.icon
+            .ui.two.bottom.attached.buttons
+              a.ui.primary.button href="#{sol.content}"
+                | link
+              a.ui.button href="#{solution_path(sol)}"
+                | more
 
 css:
   .problem:nth-child(even) {
