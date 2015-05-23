@@ -1,13 +1,13 @@
 class DataWebsocketController < WebsocketRails::BaseController
   include ApplicationHelper
-  MESSAGE_LIMIT = 5
   def problem_search_results
+    message_limit = 5
     q = message.fetch('search', '')
     page = message.fetch('page', 1)
     puts message
     # count = Problem.search_all(q).count
     page_count = 0
-    while page_count < MESSAGE_LIMIT do
+    while page_count < message_limit do
       @problems = Problem.search(q, page)
       @problems = @problems.all
       break if @problems.count == 0
@@ -43,7 +43,7 @@ class DataWebsocketController < WebsocketRails::BaseController
       page = page + 1
       page_count = page_count + 1
     end
-    if page_count >= MESSAGE_LIMIT
+    if page_count >= message_limit
       send_message :next_call, 'xd', namespace: :problems
     end
   end

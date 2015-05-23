@@ -5,22 +5,22 @@ ui.segment
         a.item href="#{root_path}"
           i.home.icon
           | Home
-      .eleven.wide.column
+      .ten.wide.column
         == render 'layouts/search'
-      .three.wide.column
-        - if login?
-          - user = User.find(session[:user_id])
-          a.item href="#{user_path(user)}"
-            i.user.icon
-            == user.name
+      .four.wide.column
         - if !login?
-          a.item href="#{user_login_path}"
+          a.item.right href="#{user_login_path}"
             i.sign.in.icon
             | Login
         - else
-          a.item href="#{user_logout_path}"
+          a.item.right href="#{user_setting_path}"
+            i.setting.icon
+            | Setting
+          a.item.right href="#{user_logout_path}"
             i.sign.out.icon
             | Logout
-        a.item href="#{user_setting_path}"
-          i.setting.icon
-          | Setting
+        - if login?
+          - user = User.find(session[:user_id])
+          a.item.right href="#{user_path(user)}"
+            i.user.icon
+            == user.name
