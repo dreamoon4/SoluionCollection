@@ -3,12 +3,13 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 class Problem
-  @add_problem: (prob) ->
-    console.log(prob.solutions)
-    x = HandlebarsTemplates['problems/tablerow']({ prob: prob })
+  @add_problem: (prob, query) ->
+    x = HandlebarsTemplates['problems/tablerow']({ prob: prob, query: query })
     y = $('#search-result-segment').append(x)
+
   @init: (query_string) ->
     Problem.page = 1
+    Problem.search = query_string
     task = {
       search: query_string,
       page: Problem.page
@@ -18,7 +19,7 @@ class Problem
     dispatcher.bind('problems.search_success', (data) ->
       console.log(data)
       for p in data.result
-        Problem.add_problem(p)
+        Problem.add_problem(p, query_string)
       if Problem.page < data.page
         Problem.page = data.page
     )

@@ -21,12 +21,16 @@ class DataWebsocketController < WebsocketRails::BaseController
           }
         end
         sols = []
+        cnt = 1
         prob.solutions.find_each do |sol|
           sols << {
+            id: sol.id,
             link: sol.content,
             rating: sol.rating,
-            path: solution_path(sol)
+            path: solution_path(sol),
+            seq: cnt
           }
+          cnt = cnt + 1
         end
 
         @result << {
