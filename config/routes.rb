@@ -15,6 +15,7 @@ Rails.application.routes.draw do
   get 'ajax/problems/search' => 'problems#search', as: :problems_search
   get 'ajax/tags/search' => 'tags#search', as: :tags_search
   get 'ajax/tags/names' => 'tags#names', as: :tags_names
+  get 'ajax/get_session_user_id' => 'users#ajax_get_session_user_id'
 
   # Login
   get 'auth/:provider/callback' => 'login#success'

@@ -3,23 +3,26 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 class Problem
-  @add_problem: (prob, query) ->
-    x = HandlebarsTemplates['problems/tablerow']({ prob: prob, query: query })
+  @add_problem: (prob, query, author) ->
+    x = HandlebarsTemplates['problems/tablerow']({ prob: prob, query: query, author: author })
     y = $('#search-result-segment').append(x)
 
   @init: (query_string) ->
     Problem.page = 1
     Problem.search = query_string
+    Users.get_session_user_id((user_id) ->
+      Problem.user_id = user_id
+    )
     task = {
       search: query_string,
       page: Problem.page
     }
-    dispatcher = new WebSocketRails('solution-collection.csie.org:3000/websocket')
+    dispatcher = new WebSocketRails(window.location.host + '/websocket')
     console.log('here')
     dispatcher.bind('problems.search_success', (data) ->
       console.log(data)
       for p in data.result
-        Problem.add_problem(p, query_string)
+        Problem.add_problem(p, query_string, ("#{p.user_id}" == "#{Problem.user_id}"))
       if Problem.page < data.page
         Problem.page = data.page
     )

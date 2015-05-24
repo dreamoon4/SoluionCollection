@@ -1,8 +1,14 @@
 .ui.segment
+  | {{#if author}}
+  a.ui.right.floated.compact.icon.button.yellow.basic href="{{prob.edit_problem_path}}"
+    | Edit Problem
+  | {{/if}}
+  a.ui.right.floated.compact.icon.button.purple.basic
+    | Add Tag
   a.ui.black.ribbon.label.sc-z-high href="{{prob.link}}"
     | {{prob.unique_name}}
   .ui.grid
-    .twelve.wide.column
+    .sixteen.wide.column
       h2.ui.header 
         | {{prob.title}}
         | 
@@ -10,7 +16,7 @@
         a.ui.horizontal.label.ptag class="{{this.color}}" href="/problems?tags={{this.name}}&search={{../query}}"
           | {{this.name}}
         | {{/each}}
-    .four.wide.column
+    /.four.wide.column
       .ui.small.buttons
         a.ui.button href="{{prob.new_solution_path}}" New Solution
         .or
@@ -26,24 +32,16 @@
           a href="{{this.link}}"
             | {{this.link}}
       .extra.content
-        /a.left.floated href="{{this.link}}"
-          i.external.square.icon.ui.big
         a.left.floated.sc-hover-red data-action='solutions/dislike' data-id="{{this.id}}"
           i.minus.square.icon.ui.large
         a.right.floated.sc-hover-green data-action='solutions/like' data-id="{{this.id}}"
           i.add.square.icon.ui.large
         .center.aligned.sc-rating-panel data-type='solution' data-id="{{this.id}}"
           | {{this.rating}}
-      /.content
-        | {{this.rating}}
-        a.right.floated
-          i.thumbs.outline.down.icon
-        a.right.floated
-          i.thumbs.outline.up.icon
-      /.ui.two.bottom.attached.buttons
-        a.ui.primary.button href="{{this.link}}"
-          | link
-        a.ui.button href="{{this.path}}"
-          | more
     | {{/each}}
+    .card style="border: medium dashed #DDD;box-shadow:none"
+      a.content.button.ui.animated.vertical href="{{prob.new_solution_path}}"
+        .visible.content
+          i.write.icon
+          |  Add Solution
 

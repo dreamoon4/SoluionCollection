@@ -54,4 +54,8 @@ class UsersController < ApplicationController
   def get_user
     @user = User.find(session[:user_id])
   end
+
+  def ajax_get_session_user_id
+    render text: session.fetch(:user_id, '-1')
+  end
 end

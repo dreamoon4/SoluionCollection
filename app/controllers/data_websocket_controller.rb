@@ -40,7 +40,8 @@ class DataWebsocketController < WebsocketRails::BaseController
           link: prob.link? ? prob.description : problem_path(prob),
           title: prob.title,
           tags: tags,
-          solutions: sols
+          solutions: sols,
+          user_id: prob.user_id
         }
       end
       send_message :search_success, { page: page, result: @result }, namespace: :problems
