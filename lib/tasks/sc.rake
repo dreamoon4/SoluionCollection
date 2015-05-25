@@ -19,7 +19,7 @@ namespace :sc do
           p.user = user
           p.save
           tag = Tag.find_or_create_by(name: oj[:tag], category: :oj)
-          p.tags << tag
+          p.tags << tag if !p.tags.exists?(tag)
           puts "Updated #{newprob[:unique_name]}"
         end
       end

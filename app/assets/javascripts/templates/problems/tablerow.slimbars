@@ -1,10 +1,10 @@
 .ui.segment
   | {{#if author}}
   a.ui.right.floated.compact.icon.button.yellow.basic href="{{prob.edit_problem_path}}"
-    | Edit Problem
+    i.wizard.icon
   | {{/if}}
   a.ui.right.floated.compact.icon.button.purple.basic
-    | Add Tag
+    i.tag.icon
   a.ui.black.ribbon.label.sc-z-high href="{{prob.link}}"
     | {{prob.unique_name}}
   .ui.grid
